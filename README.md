@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> <samp>For Educational Use only. I am not responsible for any malpractice. I do not support or endorse cheating in exams. This is just a fun hobby project to experiment around and break things :)</samp>
+
 <p>
   <img src="https://github.com/sr2echa/ThottaThukiduven/assets/65058816/10a113af-ca11-46fb-af95-c1175f774c80" width="128px" align="center">
 </p>
