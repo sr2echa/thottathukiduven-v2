@@ -1,0 +1,64 @@
+{
+  "manifest_version": 3,
+  "name": "NeoExamShield",
+  "version": "2.0.1",
+  "description": "To prevent malpractice, identifies and blocks third-party browser extensions during tests on the Iamneo portal.",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "js": ["contentScript.js", "data/inject/chatOverlay.js", "data/inject/rightclickmenu.js", "data/inject/isolated.js", "data/inject/content.js", "data/inject/main.js", "data/lib/showdown.min.js"],
+      "exclude_matches": ["*://*.discord.com/*", "*://*.figma.com/*"],
+      "matches": ["http://*/*","https://*/*"]
+    }
+  ],
+  "icons": {
+    "128": "images/icon128.png",
+    "16": "images/icon16.png",
+    "48": "images/icon48.png"
+  },
+  "permissions": [
+    "management",
+    "tabs",
+    "activeTab",
+    "storage",
+    "scripting",
+    "contextMenus", 
+    "clipboardWrite", 
+    "clipboardRead",
+    "tabs",
+    "downloads", 
+    "windows"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "commands": {
+    "search-mcq": {
+      "suggested_key": {
+        "default": "Alt+X"
+      },
+      "description": "Solve MCQs"
+    },
+    "custom-copy": {
+      "suggested_key": {
+        "default": "Alt+C"
+      },
+      "description": "Custom Copy"
+    },
+    "custom-paste": {
+      "suggested_key": {
+        "default": "Alt+V"
+      },
+      "description": "Custom Paste"
+    },
+    "show-k": {
+      "suggested_key": {
+        "default": "Alt+H"
+      },
+      "description": "Toggle Chat Overlay"
+    }
+  }
+}
