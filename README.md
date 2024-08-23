@@ -41,6 +41,13 @@
  - **`Alt` + `C`** : Enables the copy function for selected text.
  - **`Alt` + `V`** : Pastes the clipboard content into the current text field.
 
+## 🎠 Useage
+
+- Double Click on the blue chat icon to open chatbox
+- Both the chat ovelay and the button are draggable and can be adjusted
+- The chat overlay can be resized using the blue square on the bottom right of the chat overlay.
+- fullscreen cannot be bypassed as its a client side restriction. 
+
 <samp>
 
 ---
