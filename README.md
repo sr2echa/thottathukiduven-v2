@@ -6,7 +6,7 @@
 </p>
 <p>
     <h2>thottathukiduven v2</h2>
-    <strong>Successor of the G.O.A.T.E.D `ThottaThukiduven` -  saving countless S & A grades</strong><br />
+    <strong>Successor of the G.O.A.T.E.D <kbd>ThottaThukiduven</kbd> -  saving countless S & A grades</strong><br />
     
   For the new `iamneo` portal
 </p>
