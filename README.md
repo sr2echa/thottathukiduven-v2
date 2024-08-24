@@ -49,7 +49,8 @@
 
 ## 🚀 Demo
 
-https://github.com/user-attachments/assets/dd126186-4f2f-4563-9395-9421ee92066a
+https://github.com/user-attachments/assets/be643797-8d0b-4020-adf3-b3e5be1b467d
+
 
 ## ⬇️ Download
 [Click here to download the zip](https://github.com/sr2echa/thottathukiduven-v2/releases/download/2.0.1/thottathukiduven-V3.zip) and extract the zip. 
