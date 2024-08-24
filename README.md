@@ -52,8 +52,19 @@
 
 https://github.com/user-attachments/assets/dd126186-4f2f-4563-9395-9421ee92066a
 
+## ⬇️ Download
+[Click here to download the zip](https://github.com/sr2echa/thottathukiduven-v2/releases/download/2.0.1/thottathukiduven-V3.zip) and extract the zip. 
 
+Or click the green `Code` > `Download Zip` and dothe same
 
+<samp> Find all [Releases](https://github.com/sr2echa/thottathukiduven-v2/releases/latest) </samp>
+
+<samp>
+  
+> [!NOTE]
+> Make sure that you are at the coot of the code base when you select the folder. Sometimes therewould be a folder inside the extracted folder that contains the src and thus chrome will hit yo with an _"Manifest Not Fount"_ error.
+
+</samp>
 
 ---
 <samp>
