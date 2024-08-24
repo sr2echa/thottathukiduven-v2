@@ -1,15 +1,14 @@
 > [!IMPORTANT]
 > <samp>For Educational Use only. I am not responsible for any malpractice. I do not support or endorse cheating in exams. This is just a fun hobby project to experiment around and break things :)</samp>
+<br />
 
-<p>
-  <img src="https://github.com/sr2echa/ThottaThukiduven/assets/65058816/10a113af-ca11-46fb-af95-c1175f774c80" width="128px" align="center">
-</p>
-<p>
+<samp>
     <h2>thottathukiduven v2</h2>
     <strong>Successor of the G.O.A.T.E.D <kbd>ThottaThukiduven</kbd> -  saving countless S & A grades</strong><br />
     
   For the new `iamneo` portal
-</p>
+  
+</samp>
 <p>
   <a href="https://github.com/sr2echa/ThottaThukiduven/#your-ultimate-extension-to-regain-your-browser-freedom-and-become-limitless--">Overview</a>
   •
