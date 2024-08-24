@@ -48,9 +48,14 @@
 - The chat overlay can be resized using the blue square on the bottom right of the chat overlay.
 - fullscreen cannot be bypassed as its a client side restriction. 
 
-<samp>
+## 🚀 Demo
+
+https://github.com/user-attachments/assets/dd126186-4f2f-4563-9395-9421ee92066a
+
+
+
 
 ---
+<samp>
 📜 Licensed under [BSD 3-Clause License](LICENSE) 
-
-  </samp>
+</samp>
