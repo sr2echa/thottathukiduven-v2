@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/be643797-8d0b-4020-adf3-b3e5be1b467d
 
 
 ## ⬇️ Download
-[Click here to download the zip](https://github.com/sr2echa/thottathukiduven-v2/releases/download/2.0.1/thottathukiduven-V3.zip) and extract the zip. 
+[Click here to download the zip](https://github.com/sr2echa/thottathukiduven-v2/releases/download/2.0.1/thottathukiduven-V2.zip) and extract the zip. 
 
 Or click the green `Code` > `Download Zip` and dothe same
 
