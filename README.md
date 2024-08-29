@@ -5,6 +5,9 @@
 > 
 > To learn `How to Install/Update`, go to [HELP.md](./HELP.md)
 
+
+> Join the **Official Discord Server** for updates, support and much more : [discord](https://discord.gg/H8bBhKGrfT)
+
 </samp>
 <br />
 
@@ -13,15 +16,16 @@
     <strong>Successor of the G.O.A.T.E.D <kbd>ThottaThukiduven</kbd> -  saving countless S & A grades</strong><br />
     
   For the new `iamneo` portal
-  
-</samp>
+
 <p>
-  <a href="https://github.com/sr2echa/ThottaThukiduven/#your-ultimate-extension-to-regain-your-browser-freedom-and-become-limitless--">Overview</a>
+  <a href="https://github.com/sr2echa/ThottaThukiduven/#your-ultimate-extension-to-regain-your-browser-freedom-and-become-limitless--">v1</a>
   •
-  <a href="https://github.com/sr2echa/ThottaThukiduven">v1</a>
+  <a href="https://discord.gg/H8bBhKGrfT">Support Server</a>
   •
   <a href="LICENSE">License</a>
 </p>
+
+</samp>
 
 <br>
 
