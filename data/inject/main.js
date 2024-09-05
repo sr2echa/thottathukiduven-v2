@@ -1,1 +1,187 @@
-{let e;try{e=document.getElementById("lwys-ctv-port"),e.remove()}catch(t){e=document.createElement("span"),e.id="lwys-ctv-port",document.documentElement.append(e)}const t=e=>{e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()};Object.defineProperty(document,"visibilityState",{get:()=>"false"===e.dataset.enabled&&"true"===e.dataset.hidden?"hidden":"visible"}),Object.defineProperty(document,"webkitVisibilityState",{get:()=>"false"===e.dataset.enabled&&"true"===e.dataset.hidden?"hidden":"visible"});const a={focus:!0,visibilitychange:!0,webkitvisibilitychange:!0};document.addEventListener("visibilitychange",(n=>{if(e.dispatchEvent(new Event("state")),"true"===e.dataset.enabled&&"false"!==e.dataset.visibility)return a.visibilitychange?void(a.visibilitychange=!1):t(n)}),!0),document.addEventListener("webkitvisibilitychange",(n=>{if("true"===e.dataset.enabled&&"false"!==e.dataset.visibility)return a.webkitvisibilitychange?void(a.webkitvisibilitychange=!1):t(n)}),!0),window.addEventListener("pagehide",(a=>{"true"===e.dataset.enabled&&"false"!==e.dataset.visibility&&t(a)}),!0),window.addEventListener("lostpointercapture",(a=>{"true"===e.dataset.enabled&&"false"!==e.dataset.pointercapture&&t(a)}),!0),Object.defineProperty(document,"hidden",{get:()=>"false"===e.dataset.enabled&&"true"===e.dataset.hidden}),Object.defineProperty(document,"webkitHidden",{get:()=>"false"===e.dataset.enabled&&"true"===e.dataset.hidden}),Document.prototype.hasFocus=new Proxy(Document.prototype.hasFocus,{apply:(t,a,n)=>"true"===e.dataset.enabled&&"false"!==e.dataset.focus||Reflect.apply(t,a,n)});const n=n=>{if("true"===e.dataset.enabled&&"false"!==e.dataset.focus&&(n.target===document||n.target===window))return a.focus?void(a.focus=!1):t(n)};document.addEventListener("focus",n,!0),window.addEventListener("focus",n,!0);const i=a=>{if("true"===e.dataset.enabled&&"false"!==e.dataset.blur&&(a.target===document||a.target===window))return t(a)};document.addEventListener("blur",i,!0),window.addEventListener("blur",i,!0),window.addEventListener("mouseleave",(a=>{if("true"===e.dataset.enabled&&"false"!==e.dataset.mouseleave&&(a.target===document||a.target===window))return t(a)}),!0);let d=0;window.requestAnimationFrame=new Proxy(window.requestAnimationFrame,{apply(t,a,n){if("true"===e.dataset.enabled&&"true"===e.dataset.hidden){const e=Date.now(),t=Math.max(0,16-(e-d)),a=setTimeout((function(){n[0](performance.now())}),t);return d=e+t,a}return Reflect.apply(t,a,n)}}),window.cancelAnimationFrame=new Proxy(window.cancelAnimationFrame,{apply:(t,a,n)=>("true"===e.dataset.enabled&&"true"===e.dataset.hidden&&clearTimeout(n[0]),Reflect.apply(t,a,n))})}
+try {
+  {
+    /* port is used to communicate between chrome and page scripts */
+    let port;
+    try {
+      port = document.getElementById("lwys-ctv-port");
+      port.remove();
+    } catch (e) {
+      port = document.createElement("span");
+      port.id = "lwys-ctv-port";
+      document.documentElement.append(port);
+    }
+
+    const block = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      e.stopImmediatePropagation();
+    };
+
+    /* visibility */
+    Object.defineProperty(document, "visibilityState", {
+      get() {
+        if (port.dataset.enabled === "false") {
+          return port.dataset.hidden === "true" ? "hidden" : "visible";
+        }
+        return "visible";
+      },
+    });
+    Object.defineProperty(document, "webkitVisibilityState", {
+      get() {
+        if (port.dataset.enabled === "false") {
+          return port.dataset.hidden === "true" ? "hidden" : "visible";
+        }
+        return "visible";
+      },
+    });
+
+    const once = {
+      focus: true,
+      visibilitychange: true,
+      webkitvisibilitychange: true,
+    };
+
+    document.addEventListener(
+      "visibilitychange",
+      (e) => {
+        port.dispatchEvent(new Event("state"));
+        if (port.dataset.enabled === "true" && port.dataset.visibility !== "false") {
+          if (once.visibilitychange) {
+            once.visibilitychange = false;
+            return;
+          }
+          return block(e);
+        }
+      },
+      true
+    );
+    document.addEventListener(
+      "webkitvisibilitychange",
+      (e) => {
+        if (port.dataset.enabled === "true" && port.dataset.visibility !== "false") {
+          if (once.webkitvisibilitychange) {
+            once.webkitvisibilitychange = false;
+            return;
+          }
+          return block(e);
+        }
+      },
+      true
+    );
+    window.addEventListener(
+      "pagehide",
+      (e) => {
+        if (port.dataset.enabled === "true" && port.dataset.visibility !== "false") {
+          block(e);
+        }
+      },
+      true
+    );
+
+    /* pointercapture */
+    window.addEventListener(
+      "lostpointercapture",
+      (e) => {
+        if (port.dataset.enabled === "true" && port.dataset.pointercapture !== "false") {
+          block(e);
+        }
+      },
+      true
+    );
+
+    /* hidden */
+    Object.defineProperty(document, "hidden", {
+      get() {
+        if (port.dataset.enabled === "false") {
+          return port.dataset.hidden === "true";
+        }
+        return false;
+      },
+    });
+    Object.defineProperty(document, "webkitHidden", {
+      get() {
+        if (port.dataset.enabled === "false") {
+          return port.dataset.hidden === "true";
+        }
+        return false;
+      },
+    });
+
+    /* focus */
+    Document.prototype.hasFocus = new Proxy(Document.prototype.hasFocus, {
+      apply(target, self, args) {
+        if (port.dataset.enabled === "true" && port.dataset.focus !== "false") {
+          return true;
+        }
+        return Reflect.apply(target, self, args);
+      },
+    });
+
+    const onfocus = (e) => {
+      if (port.dataset.enabled === "true" && port.dataset.focus !== "false") {
+        if (e.target === document || e.target === window) {
+          if (once.focus) {
+            once.focus = false;
+            return;
+          }
+          return block(e);
+        }
+      }
+    };
+    document.addEventListener("focus", onfocus, true);
+    window.addEventListener("focus", onfocus, true);
+
+    /* blur */
+    const onblur = (e) => {
+      if (port.dataset.enabled === "true" && port.dataset.blur !== "false") {
+        if (e.target === document || e.target === window) {
+          return block(e);
+        }
+      }
+    };
+    document.addEventListener("blur", onblur, true);
+    window.addEventListener("blur", onblur, true);
+
+    /* mouse */
+    window.addEventListener(
+      "mouseleave",
+      (e) => {
+        if (port.dataset.enabled === "true" && port.dataset.mouseleave !== "false") {
+          if (e.target === document || e.target === window) {
+            return block(e);
+          }
+        }
+      },
+      true
+    );
+
+    /* requestAnimationFrame */
+    let lastTime = 0;
+    window.requestAnimationFrame = new Proxy(window.requestAnimationFrame, {
+      apply(target, self, args) {
+        if (port.dataset.enabled === "true" && port.dataset.hidden === "true") {
+          const currTime = Date.now();
+          const timeToCall = Math.max(0, 16 - (currTime - lastTime));
+          const id = setTimeout(function () {
+            args[0](performance.now());
+          }, timeToCall);
+          lastTime = currTime + timeToCall;
+          return id;
+        } else {
+          return Reflect.apply(target, self, args);
+        }
+      },
+    });
+    window.cancelAnimationFrame = new Proxy(window.cancelAnimationFrame, {
+      apply(target, self, args) {
+        if (port.dataset.enabled === "true" && port.dataset.hidden === "true") {
+          clearTimeout(args[0]);
+        }
+        return Reflect.apply(target, self, args);
+      },
+    });
+  }
+} catch (e) {
+  {
+  }
+}

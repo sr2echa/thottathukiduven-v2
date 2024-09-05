@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <style>
+      body {
+        font-family: monospace;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        background-color: #000000;
+        color: #e0e0e0;
+      }
+      #login-form {
+        /* background-color: #1e1e1e; */
+        padding: 20px;
+        /* border-radius: 12px; */
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        width: 200px;
+        text-align: left;
+        border: 1px solid #333;
+      }
+      .container h2 {
+        margin-bottom: 20px;
+        color: #007bff;
+      }
+      label {
+        display: block;
+        margin: 10px 0 5px;
+        font-size: medium;
+        color: #e0e0e0;
+      }
+      .container input {
+        margin-bottom: 15px;
+        font-family: monospace;
+        padding: 10px;
+        width: 100%;
+        border: 1px solid #333;
+        border-radius: 4px;
+        box-sizing: border-box;
+        background-color: transparent;
+        border: #6c757d 1px solid;
+        color: #e0e0e0;
+      }
+      .button {
+        margin: 0px;
+        padding: 10px;
+        width: 100%;
+        border: none;
+        border-radius: 4px;
+        background-color: #007bff;
+        color: #fff;
+        font-size: 16px;
+        cursor: pointer;
+        font-family: monospace;
+        transition: background-color 0.3s;
+      }
+      .button:hover {
+        background-color: #0056b3;
+      }
+      .button:disabled {
+        background-color: #6c757d;
+        cursor: not-allowed;
+      }
+      .logout-form,
+      #logout-form {
+        display: flex;
+        content: center;
+        align-self: center;
+        align-items: center;
+        justify-content: center;
+        width: 100px;
+        padding: 20px 10px 10px 10px;
+      }
+      .logout-button {
+        padding: 10px;
+        border: gray 1px solid;
+        background-color: transparent;
+        color: #fff;
+        font-size: 16px;
+        cursor: pointer;
+        font-family: monospace;
+        transition: background-color 0.3s;
+      }
+      .panic {
+        padding: 10px;
+        border: transparent;
+        margin-bottom: 5px;
+        margin-top: 2px;
+        background-color: transparent;
+        color: gray;
+        font-size: 12px;
+        cursor: pointer;
+        font-family: monospace;
+        transition: background-color 0.3s;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div id="login-form">
+        <label for="phone">Phone Number</label>
+        <input type="text" id="phone" placeholder="Enter your phone number" />
+        <label for="password">Password</label>
+        <input type="password" id="password" placeholder="Enter your password" />
+        <button class="button" id="login-button" disabled>Login</button>
+      </div>
+      <div id="logout-form" class="logout-form">
+        <button class="logout-button" id="logout-button">Logout</button>
+      </div>
+      <div style="display: flex; justify-content: center; align-self: center">
+        <button id="panic-button" class="panic">Panic Mode!</button>
+      </div>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>

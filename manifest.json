@@ -1,16 +1,23 @@
 {
   "manifest_version": 3,
   "name": "NeoExamShield",
-  "version": "2.0.1",
-  "description": "To prevent malpractice, identifies and blocks third-party browser extensions during tests on the Iamneo portal.",
+  "version": "2.0.2",
+  "description": "To prevent malpractice, identifies and blocks third-party browser extensions during tests on the iamneo portal.",
   "background": {
     "service_worker": "background.js"
   },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXKMSllCpa1zHLw0m7CbO1iAsi0iwQ5Ij45LbZsuvVnmmL0ahjrv+Rfbks1gZ2rE3nqJCvbyT9VUNMGlW9a09BTlRzrm9RhqaAdN6Mg4Y1fEdwQ6fB/UZG5eGEHKUmilxZrkfgfqVwPauLyIYBxTTyIJcYBQvg4mY1WutMpliP2Xbyva2f+t8iiXDer1lvqprNSbFv15bkwz6G5TJxTmvfK/yWKZUqPuI14WPyeo4KO5OA6+5aXONWw6S62n0D8LbadlkQMJM/Tn24tKAjSST0WpIViOn/rNOd/p1lTlrtXD9NkF3jDLblo+H0UwuItl+qhZd2why9tuejHGKWnS/wIDAQAB",
+
   "content_scripts": [
     {
-      "js": ["contentScript.js", "data/inject/chatOverlay.js", "data/inject/rightclickmenu.js", "data/inject/isolated.js", "data/inject/content.js", "data/inject/main.js", "data/lib/showdown.min.js"],
+      "js": [
+        "contentScript.js",
+        "data/inject/rightclickmenu.js",
+        "data/inject/content.js",
+        "data/lib/showdown.min.js"
+      ],
       "exclude_matches": ["*://*.discord.com/*", "*://*.figma.com/*"],
-      "matches": ["http://*/*","https://*/*"]
+      "matches": ["http://*/*", "https://*/*"]
     }
   ],
   "icons": {
@@ -24,17 +31,22 @@
     "activeTab",
     "storage",
     "scripting",
-    "contextMenus", 
-    "clipboardWrite", 
+    "contextMenus",
+    "clipboardWrite",
     "clipboardRead",
     "tabs",
-    "downloads", 
+    "downloads",
     "windows"
   ],
-  "host_permissions": [
-    "http://*/*",
-    "https://*/*"
-  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "host_permissions": ["http://*/*", "https://*/*"],
   "commands": {
     "search-mcq": {
       "suggested_key": {
