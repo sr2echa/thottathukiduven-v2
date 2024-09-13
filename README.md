@@ -1,6 +1,13 @@
 <samp>
-    
-> [!IMPORTANT]
+     
+> [!IMPORTANT] 
+> <h3> ThottaThukiduven from now has a subscription model. <br> To learn More, visit https://thotta.now.sh/pricing </h3>
+> https://thotta.now.sh
+
+---
+
+
+> [!WARNING]
 > For Educational Use only. I am not responsible for any malpractice. I do not support or endorse cheating in exams. This is just a fun hobby project to experiment around and break things :)
 > 
 > To learn `How to Install/Update`, go to [HELP.md](./HELP.md)
@@ -12,7 +19,7 @@
 <br />
 
 <samp>
-    <h2>thottathukiduven v2</h2>
+    <h1>thottathukiduven v2</h1>
     <strong>Successor of the G.O.A.T.E.D <kbd>ThottaThukiduven</kbd> -  saving countless S & A grades</strong><br />
     
   For the new `iamneo` portal
