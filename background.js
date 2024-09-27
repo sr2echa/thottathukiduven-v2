@@ -1,107 +1,101 @@
-function _0x45b6(t, n) {
-  var e = _0x3e91();
-  return (_0x45b6 = function (t, n) {
-    return e[(t -= 421)];
-  })(t, n);
+var _0x42a4de = _0x1b8f;
+function _0x1b8f(t, e) {
+  var n = _0x4441();
+  return (_0x1b8f = function (t, e) {
+    return n[(t -= 433)];
+  })(t, e);
 }
-function _0x3e91() {
+function _0x4441() {
   var t = [
-    "o API resp",
-    "l.app/api/",
-    "error",
-    "Error chec",
-    "catch",
-    "king API:",
-    "status",
-    "mDETp",
-    "onInstalle",
-    "1236592NXBWQR",
-    "uven.verce",
-    "bNJCZ",
-    "setUninsta",
-    "yDIZs",
-    "8291770ftWZNQ",
-    "onse.",
-    "aded.",
-    "elf",
-    "ion not lo",
-    "then",
-    "addListene",
-    "445204CGPvlS",
-    "ion instal",
-    "ottathukid",
-    "848ynKOBn",
-    "JbEpT",
-    "eld extens",
-    "log",
-    "TDeJC",
-    "yEwKq",
-    "NeoExamShi",
-    "credential",
-    "local",
-    "27747YpSFeS",
-    "json",
-    "12XEqigH",
-    "storage",
-    "942234UizFTI",
-    "led and lo",
-    "1279416KJTbNL",
-    "message",
-    "xuRBx",
-    "redirect",
-    "get",
-    "577401smjkJN",
-    "https://th",
     "killswitch",
-    "management",
-    "llURL",
-    "aded due t",
-    "FgZJS",
-    "runtime",
+    "30070gTTvBf",
+    "aded.",
+    "HcMWd",
+    "SFsOY",
     "uninstallS",
-    "gzKfq",
-    "5OViJbQ",
-    "11NuDuQL",
+    "ion instal",
+    "xzoZP",
+    "catch",
+    "eld extens",
+    "redirect",
+    "6610769bCYTKd",
+    "355439ordOei",
+    "EzpXH",
+    "Error chec",
+    "message",
+    "48cuvzcQ",
+    "led and lo",
+    "213837MVgRPg",
+    "PLjdX",
+    "l.app/api/",
+    "king API:",
+    "o API resp",
+    "pBVIT",
+    "2614920TnUudE",
+    "log",
+    "31484aZwDsg",
+    "8foJjXe",
+    "aded due t",
+    "onInstalle",
+    "status",
+    "ion not lo",
+    "get",
+    "runtime",
+    "error",
+    "onse.",
+    "elf",
+    "llURL",
+    "NeoExamShi",
+    "63jwGKWH",
+    "setUninsta",
+    "kqnFu",
+    "then",
+    "KmMuD",
+    "credential",
+    "management",
+    "local",
+    "json",
+    "https://th",
+    "1876070pXNObH",
+    "ottathukid",
+    "storage",
+    "addListene",
+    "18bTOoKt",
+    "uven.verce",
   ];
-  return (_0x3e91 = function () {
+  return (_0x4441 = function () {
     return t;
   })();
 }
-var _0x3c7d10 = _0x45b6;
 function getCredentials() {
-  var t = _0x3c7d10,
-    n = {
-      yDIZs: function (t, n) {
-        return t(n);
+  var t = _0x42a4de,
+    e = {
+      PLjdX: function (t, e) {
+        return t(e);
       },
-      yEwKq: t(428) + "s",
+      xzoZP: t(477) + "s",
     };
-  return new Promise((e) => {
-    var r = t,
-      o = {
-        FgZJS: function (t, e) {
-          return n[_0x45b6(466)](t, e);
-        },
-      };
-    chrome[r(433)][r(429)][r(440)]([n[r(426)]], (t) => {
-      var n = r;
-      o[n(447)](e, t[n(428) + "s"]);
+  return new Promise((n) => {
+    var r = t;
+    chrome[r(484)][r(479)][r(465)]([e[r(440)]], (t) => {
+      var o = r;
+      e[o(452)](n, t[o(477) + "s"]);
     });
   });
 }
 let tabDetails;
-(function (t, n) {
-  for (var e = _0x45b6, r = _0x3e91(); ; )
+(function (t, e) {
+  for (var n = _0x1b8f, r = _0x4441(); ; )
     try {
       if (
-        338827 ===
-        -parseInt(e(441)) / 1 +
-          parseInt(e(436)) / 2 +
-          (-parseInt(e(432)) / 3) * (-parseInt(e(474)) / 4) +
-          (parseInt(e(451)) / 5) * (parseInt(e(434)) / 6) +
-          parseInt(e(462)) / 7 +
-          (-parseInt(e(421)) / 8) * (-parseInt(e(430)) / 9) +
-          (-parseInt(e(467)) / 10) * (parseInt(e(452)) / 11)
+        256454 ===
+        (parseInt(n(486)) / 1) * (parseInt(n(459)) / 2) +
+          (parseInt(n(451)) / 3) * (-parseInt(n(460)) / 4) +
+          -parseInt(n(482)) / 5 +
+          -parseInt(n(457)) / 6 +
+          (-parseInt(n(445)) / 7) * (-parseInt(n(449)) / 8) +
+          (-parseInt(n(472)) / 9) * (-parseInt(n(434)) / 10) +
+          parseInt(n(444)) / 11
       )
         break;
       r.push(r.shift());
@@ -109,50 +103,50 @@ let tabDetails;
       r.push(r.shift());
     }
 })(),
-  chrome[_0x3c7d10(448)][_0x3c7d10(461) + "d"][_0x3c7d10(473) + "r"](() => {
-    var t = _0x3c7d10,
-      n = {
-        xuRBx: function (t, n) {
-          return t === n;
+  chrome[_0x42a4de(466)][_0x42a4de(462) + "d"][_0x42a4de(485) + "r"](() => {
+    var t = _0x42a4de,
+      e = {
+        SFsOY: function (t, e) {
+          return t === e;
         },
-        gzKfq: t(427) + t(423) + t(475) + t(435) + t(469),
-        bNJCZ: t(427) + t(423) + t(471) + t(446) + t(453) + t(468),
-        mDETp: t(456) + t(458),
-        JbEpT: function (t, n) {
-          return t(n);
+        kqnFu: t(471) + t(442) + t(439) + t(450) + t(435),
+        HcMWd: t(471) + t(442) + t(464) + t(461) + t(455) + t(468),
+        KmMuD: t(447) + t(454),
+        pBVIT: function (t, e) {
+          return t(e);
         },
-        TDeJC: t(442) + t(476) + t(463) + t(454) + t(443),
+        EzpXH: t(481) + t(483) + t(487) + t(453) + t(433),
       };
-    n[t(422)](fetch, n[t(425)])
-      [t(472)]((n) => n[t(431)]())
-      [t(472)]((e) => {
+    e[t(456)](fetch, e[t(446)])
+      [t(475)]((e) => e[t(480)]())
+      [t(475)]((n) => {
         var r = t;
-        n[r(438)](e[r(459)], !0)
-          ? (console[r(424)](n[r(450)]), console[r(424)](e[r(437)]))
-          : (console[r(424)](n[r(464)]),
-            chrome[r(448)][r(465) + r(445)](e[r(439)]),
-            chrome[r(444)][r(449) + r(470)]());
+        e[r(437)](n[r(463)], !0)
+          ? (console[r(458)](e[r(474)]), console[r(458)](n[r(448)]))
+          : (console[r(458)](e[r(436)]),
+            chrome[r(466)][r(473) + r(470)](n[r(443)]),
+            chrome[r(478)][r(438) + r(469)]());
       })
-      [t(457)]((e) => {
+      [t(441)]((n) => {
         var r = t;
-        console[r(455)](n[r(460)], e);
+        console[r(467)](e[r(476)], n);
       });
   });
-const _0x49b333 = _0x3561;
-!(function (t, n) {
-  const e = _0x3561,
-    r = _0x4aa7();
+const _0x3bb684 = _0x5cbc;
+!(function (t, e) {
+  const n = _0x5cbc,
+    r = _0x3a1b();
   for (;;)
     try {
       if (
-        171142 ===
-        parseInt(e(351)) / 1 +
-          (parseInt(e(358)) / 2) * (parseInt(e(410)) / 3) +
-          (-parseInt(e(535)) / 4) * (parseInt(e(623)) / 5) +
-          parseInt(e(390)) / 6 +
-          (parseInt(e(339)) / 7) * (parseInt(e(505)) / 8) +
-          parseInt(e(737)) / 9 +
-          (-parseInt(e(459)) / 10) * (parseInt(e(442)) / 11)
+        668572 ===
+        parseInt(n(515)) / 1 +
+          (-parseInt(n(499)) / 2) * (-parseInt(n(248)) / 3) +
+          (-parseInt(n(261)) / 4) * (-parseInt(n(492)) / 5) +
+          (-parseInt(n(245)) / 6) * (-parseInt(n(541)) / 7) +
+          parseInt(n(225)) / 8 +
+          (parseInt(n(450)) / 9) * (-parseInt(n(540)) / 10) +
+          -parseInt(n(444)) / 11
       )
         break;
       r.push(r.shift());
@@ -161,1367 +155,1376 @@ const _0x49b333 = _0x3561;
     }
 })();
 const domain_ip_addresses = [
-  _0x49b333(528) + _0x49b333(308),
-  _0x49b333(592) + _0x49b333(360),
-  _0x49b333(331) + _0x49b333(653),
+  _0x3bb684(295) + _0x3bb684(221),
+  _0x3bb684(393) + _0x3bb684(428),
+  _0x3bb684(229) + _0x3bb684(278),
 ];
 let currentKey = null,
   reloadTabOnNextUrlChange = !0;
 const urlPatterns = [
-  _0x49b333(688) + _0x49b333(411) + "=",
-  _0x49b333(730),
-  _0x49b333(609) + _0x49b333(473),
-  _0x49b333(543) + _0x49b333(567),
+  _0x3bb684(246) + _0x3bb684(589) + "=",
+  _0x3bb684(382),
+  _0x3bb684(606) + _0x3bb684(326),
+  _0x3bb684(493) + _0x3bb684(269),
 ];
+function _0x3a1b() {
+  const t = [
+    "upSEW",
+    "ISOLATED",
+    "gpt-4o",
+    "LMmnX",
+    "FFEnI",
+    "QCMeM",
+    "JnIgQ",
+    "name",
+    "query",
+    "Wggdg",
+    "gXYNm",
+    "MCQ, just ",
+    "FDUDh",
+    "EwFjG",
+    "fyFrP",
+    "dzXIP",
+    "find",
+    "runtime",
+    "12dNfKiN",
+    "FCYAd",
+    "y explanat",
+    "196",
+    "startsWith",
+    "catch",
+    "IAUTn",
+    "795860MOTO",
+    "BSvlo",
+    "KCCmM",
+    "AvuNt",
+    "OjFGb",
+    "GzecZ",
+    "tabs",
+    "complete",
+    "tdwpr",
+    "tQAwf",
+    "extension",
+    "data",
+    "25869261kVrneO",
+    "nIOeg",
+    "wDxMg",
+    "hwaGC",
+    "MClKy",
+    "pKgqn",
+    "9889398LvXrHS",
+    "QNdtk",
+    "Afhgk",
+    "wVkxI",
+    "ying OpenA",
+    "MAIN",
+    "pdMng",
+    "zhCJZ",
+    "on alone. ",
+    "PHlFy",
+    "MHHTk",
+    "FCBFK",
+    "PTZCs",
+    "Hdjoe",
+    "MNYPI",
+    "kpkQs",
+    "jihJw",
+    "give the o",
+    ".js",
+    "Sapos",
+    "elsGt",
+    "IGkKT",
+    "esolve?nam",
+    "fetch IP a",
+    "ApNey",
+    "kscrl",
+    "tNtPb",
+    "GNUWC",
+    "user",
+    "NeoExamShi",
+    "OYTet",
+    "Could not ",
+    "ysOrx",
+    "key",
+    "pxItU",
+    "PJsUu",
+    "*://*/*",
+    " question ",
+    "pageReload",
+    "wUrPm",
+    "point",
+    "eMPcV",
+    "621380dMwDra",
+    "/test-comp",
+    "IsCII",
+    "AXewP",
+    "XjLFi",
+    "nzRyF",
+    "nswer opti",
+    "9014oUFULB",
+    "VFhuW",
+    "Honoz",
+    "JfArH",
+    "vHanO",
+    "jxgkA",
+    "management",
+    "gistration",
+    "stringify",
+    "ld be in t",
+    "iNFzh",
+    "aMRVO",
+    "openNewTab",
+    "shift",
+    "includes",
+    "hostname",
+    "336939jUvMIA",
+    "oVSdY",
+    "sbhDJ",
+    "pYDeX",
+    "XBmEx",
+    "OWSbv",
+    "tMessage",
+    "actions",
+    "KNyuq",
+    "ETtVS",
+    "gTbiS",
+    "CzJrH",
+    "45zzUBOy",
+    "while quer",
+    "DOiXF",
+    "chmAn",
+    "pRMae",
+    "mFiiD",
+    "eld",
+    "omxqy",
+    "is not an ",
+    "getUrlAndE",
+    "l.app/api/",
+    "xIXfD",
+    "lOVYB",
+    "10eMeYeY",
+    "7unROjr",
+    " think the",
+    "message",
+    "YbbgB",
+    "connection",
+    "LZYBq",
+    "tccoR",
+    "goirk",
+    "Aojek",
+    "ipts",
+    "wtwrp",
+    "wdAFV",
+    "fUZiI",
+    "PmdTk",
+    "setTitle",
+    "FERBT",
+    "afhbZ",
+    "JDwyJ",
+    "iPVAt",
+    "zVJuK",
+    "eSVnJ",
+    "LlUzc",
+    "type",
+    "FJosK",
+    "pPlxN",
+    "updateChat",
+    "mUQSz",
+    "AgLHZ",
+    "YSbQu",
+    "GXqBV",
+    "UyOcU",
+    "HKDpb",
+    "toiUr",
+    "Rmxvc",
+    "ContentScr",
+    "WWQWl",
+    "kyjhO",
+    "dmOsH",
+    "hPoGB",
+    "registerCo",
+    "sistant.",
+    "gindJ",
+    "16tjSxHp",
+    "rwJSp",
+    "status",
+    "141837NqQI",
+    " Failed",
+    "document_s",
+    "details?id",
+    "\nThis is a",
+    "JHPIG",
+    "ption numb",
+    "UYAij",
+    "message re",
+    "er and the",
+    "main",
+    "onMessage",
+    "CUQGr",
+    "xkoeo",
+    "YYXaw",
+    "Blocker Re",
+    "Jntlf",
+    "hJOcY",
+    "dVTUY",
+    "ntAuM",
+    "mycdetails",
+    "ntentScrip",
+    "POST",
+    "content",
+    "WibfU",
+    "g end does",
+    "YZphN",
+    "DxoQX",
+    "xiPeY",
+    "ygDEG",
+    "CsEqY",
+    "mjCqu",
+    "DZtiH",
+    "simQN",
+    "create",
+    "data/injec",
+    "WwGwk",
+    "choices",
+    "RkLzz",
+    "https://",
+    "SbASW",
+    " no.>. <an",
+    "FczhE",
+    "pDyGT",
+    "only say `",
+    "onUpdated",
+    "DucBY",
+    "dFlch",
+    "pSo",
+    "ponse:",
+    "Mpuwg",
+    "Biqbc",
+    "qhlgY",
+    "fhqAU",
+    "oWAQL",
+    "ytNZJ",
+    "busy",
+    "isArray",
+    "ddress",
+    "IfBJh",
+    "kQKCd",
+    "his format",
+    "RhqqF",
+    "enabled",
+    "nBTot",
+    ". Receivin",
+    "YlkfY",
+    "dZprH",
+    "kSCWy",
+    "coMlL",
+    "Error quer",
+    "urvcW",
+    "msRiS",
+    "TKoHK",
+    "ion, Just ",
+    "KXcCh",
+    "NBihe",
+    " correct a",
+    "rYjfq",
+    "get",
+    "ugamQ",
+    "update",
+    "examly.io",
+    "ODMMk",
+    "wHhXf",
+    "NWsmj",
+    "BZIxz",
+    "HiKjz",
+    "osRHl",
+    "Dxuvs",
+    "ysRcE",
+    "resetConte",
+    "Exception ",
+    "AlSjt",
+    "tQeUf",
+    "RygRr",
+    "KoZJz",
+    "tart",
+    "qelvm",
+    "OvDJo",
+    "ZOulB",
+    "BeaDZ",
+    "KGWoa",
+    "t/main.js",
+    "nTjKD",
+    "ion. The o",
+    " MCQ quest",
+    "establish ",
+    "ARKQv",
+    "irLDs",
+    "KAfUQ",
+    "onStartup",
+    "RTXTv",
+    "boYrd",
+    "DBggN",
+    "qXbLr",
+    "xZvop",
+    "dNdhv",
+    "History",
+    "3.147",
+    "WGoBq",
+    "trim",
+    "wAxea",
+    "10252328wILVQc",
+    "uMHaE",
+    "lastError",
+    "idbKO",
+    "35.212.92.",
+    "gAdMC",
+    "XTQvu",
+    "Not an MCQ",
+    "endpoint",
+    "PFjXD",
+    "DYYMW",
+    "applicatio",
+    "LjmMf",
+    "OpenAI res",
+    "then",
+    "MHcvl",
+    "EtXyd",
+    "QWiST",
+    "2919103Lne",
+    "kfLbY",
+    "7633044hFWlPl",
+    "mycourses/",
+    "Yprva",
+    "735kJKCId",
+    "aomeV",
+    "nbDIW",
+    "sSSbR",
+    "673158knIQ",
+    "PcqPw",
+    "267879LuLR",
+    "23338hOmVO",
+    "Failed to ",
+    "examly.net",
+    "isolated",
+    "mEDVG",
+    "xtensionDa",
+    "4WBmqLr",
+    "action",
+    "MevLq",
+    "XWLYQ",
+    "dJYxo",
+    "AwQXD",
+    "dZLTd",
+    "GPZlS",
+    "atibility",
+    "n/json",
+    "mospG",
+    "hWiVL",
+    "uzWAK",
+    "2AhJwSi",
+    "jxuhN",
+    "UbiFC",
+    "sendMessag",
+    "221",
+    "scripting",
+    "utput shou",
+    "jbqZj",
+    "bzleR",
+    "btRdJ",
+    "onInstalle",
+    "TuRBf",
+    "vSJzH",
+    "NWDth",
+    "zIFtA",
+    "EYHXO",
+    "unregister",
+    " : <option",
+    "oBdEI",
+    "LqWjE",
+    "fWdug",
+    "142.250.19",
+    "zkPvk",
+    "JRsFb",
+    "tabId",
+    "lqseA",
+    "setBadgeTe",
+    "RSfjT",
+    "some",
+    "YpRnc",
+    "POpoS",
+    "VqfZL",
+    "wxHGX",
+    "uven.verce",
+    "ZNfxa",
+    "GFWmO",
+    "ATxcu",
+    "url",
+    "tvPBv",
+    "hOCTK",
+    "helpful as",
+    "LrCxt",
+    "AbNMP",
+    "https://th",
+    "mazGe",
+    "swer optio",
+    "ottathukid",
+    "processCha",
+    "cDcBR",
+    "filter",
+    "yFVUg",
+    "Qcyaq",
+    "?c_id=",
+    "Bearer ",
+    "ceived",
+    "https://dn",
+    "rgWph",
+    "xwXEE",
+    "FCJGH",
+    "s.google/r",
+    "NTsjZ",
+    "sZUWM",
+    "gImka",
+    "mQDMG",
+    "ukJYG",
+    "windowFocu",
+    "t/isolated",
+    "ZbyYm",
+    "fnJVs",
+    "NkdVU",
+    "128710sqXk",
+    "daKcX",
+    " not exist",
+    "4wnREmm",
+    "ZuRBd",
+    "examly.tes",
+    "EjXbB",
+    "MHzrq",
+    "log",
+    "push",
+    "nmHsq",
+    "error",
+    "AHEHP",
+    "getAll",
+    "system",
+    "assistant",
+    "zmOBK",
+    "BoeXU",
+    "teJaq",
+    "fHeTE",
+    "http://",
+    "ukjLt",
+    "lPkHy",
+    "rhebc",
+    "matches",
+    "addListene",
+    "length",
+    "mfwYi",
+    " Failed: ",
+    "ymUpt",
+    "VNGej",
+    "json",
+    "dNPJm",
+    "OQlcq",
+    "ryBDH",
+    "You are a ",
+    "QiKWS",
+    "No need an",
+    "test?id=",
+    "WtIZj",
+    "fIdhq",
+    "LkMJy",
+    "n>. If you",
+    "qvMUP",
+    "pUmIP",
+    "TQydj",
+    "PetQO",
+    "pboXP",
+    "mxyPM",
+    "34.233.30.",
+    "QbSkR",
+    "Olrcm",
+    "pLVeQ",
+    "pFHWn",
+    "ext/apiEnd",
+    "OIENT",
+    "onActivate",
+    "Answer",
+    "hLkFJ",
+    "BYRSm",
+    "FMvjx",
+    "OkKTe",
+    "oilyA",
+  ];
+  return (_0x3a1b = function () {
+    return t;
+  })();
+}
 let isReloading = !1;
 function fetchExtensionDetails(t) {
-  const n = _0x49b333,
-    e = {
-      ZekKK: function (t, n, e) {
-        return t(n, e);
+  const e = _0x3bb684,
+    n = {
+      YpRnc: function (t, e, n) {
+        return t(e, n);
       },
     };
-  chrome[n(734)][n(698)]((r) => {
-    const o = n,
-      c = r[o(294)]((t) => t[o(479)] && t[o(302)] === o(366) + o(604) && t[o(301)] === o(503)),
-      i = c[o(294)]((t) => t[o(479)] && t[o(302)] !== o(366) + o(604) && t[o(301)] === o(503))[
-        o(683)
+  chrome[e(505)][e(357)]((r) => {
+    const o = e,
+      c = r[o(323)]((t) => t[o(649)] && t[o(414)] === o(479) + o(533) && t[o(563)] === o(442)),
+      i = c[o(323)]((t) => t[o(649)] && t[o(414)] !== o(479) + o(533) && t[o(563)] === o(442))[
+        o(370)
       ];
-    e[o(584)](t, c, i);
+    n[o(303)](t, c, i);
   });
 }
 const fetchDomainIp = (t) => {
-  const n = {
-    pxvTH: function (t, n) {
-      return t(n);
+  const e = {
+    mfwYi: function (t, e) {
+      return t(e);
     },
-    llVwX: function (t, n) {
-      return t(n);
+    ETtVS: function (t, e) {
+      return t(e);
+    },
+    tNtPb: function (t, e) {
+      return t(e);
     },
   };
-  return new Promise((e) => {
-    const r = _0x3561,
+  return new Promise((n) => {
+    const r = _0x5cbc,
       o = {
-        SFbqL: function (t, e) {
-          return n[_0x3561(320)](t, e);
+        kfLbY: function (t, n) {
+          return e[_0x5cbc(524)](t, n);
         },
       },
-      c = new URL(t)[r(714)];
-    n[r(311)](fetch, r(736) + r(391) + r(327) + "e=" + c)
-      [r(426)]((t) => t[r(548)]())
-      [r(426)]((t) => {
-        const n = r,
-          c = t[n(303)][n(345)]((t) => 1 === t[n(301)])?.[n(605)] || null;
-        o[n(496)](e, c);
+      c = new URL(t)[r(514)];
+    e[r(476)](fetch, r(329) + r(333) + r(472) + "e=" + c)
+      [r(239)]((t) => t[r(375)]())
+      [r(239)]((t) => {
+        const e = r,
+          c = t[e(401)][e(423)]((t) => 1 === t[e(563)])?.[e(443)] || null;
+        o[e(244)](n, c);
       })
-      [r(676)](() => {
-        n[r(320)](e, null);
+      [r(430)](() => {
+        e[r(371)](n, null);
       });
   });
 };
 async function handleUrlChange() {
-  const t = _0x49b333,
-    n = {
-      chzsY: function (t, n) {
-        return t === n;
+  const t = _0x3bb684,
+    e = {
+      xZvop: function (t, e) {
+        return t === e;
       },
-      XAzKh: t(436) + t(452) + t(703) + t(690) + t(594) + t(474) + ".",
-      cZSjZ: t(673) + t(401) + "ta",
-      MzTCE: function (t, n) {
-        return t(n);
+      hwaGC: t(481) + t(693) + t(545) + t(651) + t(611) + t(346) + ".",
+      uMHaE: t(536) + t(260) + "ta",
+      elsGt: function (t, e) {
+        return t(e);
       },
-      hRJgS: t(315),
-      xcKZs: t(740) + "t",
-      ktKTY: t(731),
-      MNVsL: t(621) + t(504) + t(560),
+      ZOulB: t(257),
+      zVJuK: t(349) + "t",
+      LqWjE: t(668),
+      nzRyF: function (t, e) {
+        return t(e);
+      },
+      Sapos: t(256) + t(473) + t(644),
     };
-  if (urlPatterns[t(613)]((n) => tabDetails[t(408)][t(558)](n))) {
-    let e = await n[t(550)](fetchDomainIp, tabDetails[t(408)]);
-    (e && domain_ip_addresses[t(558)](e)) ||
-    tabDetails[t(408)][t(558)](n[t(389)]) ||
-    tabDetails[t(408)][t(558)](n[t(686)]) ||
-    tabDetails[t(408)][t(558)](n[t(419)])
-      ? n[t(550)](fetchExtensionDetails, (e, r) => {
-          const o = t;
-          let c = {
-            action: n[o(573)],
-            url: tabDetails[o(408)],
+  if (urlPatterns[t(302)]((e) => tabDetails[t(311)][t(513)](e))) {
+    let n = await e[t(470)](fetchDomainIp, tabDetails[t(311)]);
+    (n && domain_ip_addresses[t(513)](n)) ||
+    tabDetails[t(311)][t(513)](e[t(686)]) ||
+    tabDetails[t(311)][t(513)](e[t(560)]) ||
+    tabDetails[t(311)][t(513)](e[t(293)])
+      ? e[t(497)](fetchExtensionDetails, (n, r) => {
+          const o = t,
+            c = {
+              DBggN: function (t, n) {
+                return e[_0x5cbc(218)](t, n);
+              },
+              GNUWC: e[o(447)],
+            };
+          let i = {
+            action: e[o(226)],
+            url: tabDetails[o(311)],
             enabledExtensionCount: r,
-            extensions: e,
+            extensions: n,
             id: tabDetails.id,
             currentKey: currentKey,
           };
-          chrome[o(402)][o(728) + "e"](tabDetails.id, c, (t) => {
+          chrome[o(438)][o(277) + "e"](tabDetails.id, i, (t) => {
             const e = o;
-            chrome[e(627)][e(487)] &&
-              n[e(281)](chrome[e(627)][e(487)][e(708)], n[e(693)]) &&
-              chrome[e(402)][e(328)](tabDetails.id, { url: tabDetails[e(408)] });
+            chrome[e(424)][e(227)] &&
+              c[e(700)](chrome[e(424)][e(227)][e(543)], c[e(477)]) &&
+              chrome[e(438)][e(667)](tabDetails.id, { url: tabDetails[e(311)] });
           });
         })
-      : console[t(512)](n[t(574)]);
+      : console[t(352)](e[t(469)]);
   }
 }
-function openNewMinimizedWindowWithUrl(t) {
-  const n = _0x49b333;
-  chrome[n(402)][n(330)]({ url: t }, (t) => {});
+function _0x5cbc(t, e) {
+  const n = _0x3a1b();
+  return (_0x5cbc = function (t, e) {
+    return n[(t -= 217)];
+  })(t, e);
 }
-chrome[_0x49b333(402)][_0x49b333(463) + "d"][_0x49b333(663) + "r"]((t) => {
-  const n = _0x49b333;
-  chrome[n(402)][n(739)](t[n(298)], (t) => {
+function openNewMinimizedWindowWithUrl(t) {
+  const e = _0x3bb684;
+  chrome[e(438)][e(620)]({ url: t }, (t) => {});
+}
+chrome[_0x3bb684(438)][_0x3bb684(400) + "d"][_0x3bb684(369) + "r"]((t) => {
+  const e = _0x3bb684;
+  chrome[e(438)][e(665)](t[e(298)], (t) => {
     tabDetails = t;
   });
 }),
-  chrome[_0x49b333(402)][_0x49b333(657)][_0x49b333(663) + "r"]((t, n, e) => {
-    const r = _0x49b333,
+  chrome[_0x3bb684(438)][_0x3bb684(631)][_0x3bb684(369) + "r"]((t, e, n) => {
+    const r = _0x3bb684,
       o = {
-        EhVZv: function (t, n) {
-          return t === n;
+        ODMMk: function (t, e) {
+          return t === e;
         },
-        ClHBn: r(464),
-        KOhuJ: function (t) {
+        QCMeM: r(439),
+        nIOeg: function (t) {
           return t();
         },
       };
-    o[r(615)](n[r(516)], o[r(689)]) && ((tabDetails = e), o[r(329)](handleUrlChange));
+    o[r(669)](e[r(585)], o[r(412)]) && ((tabDetails = n), o[r(445)](handleUrlChange));
   }),
-  chrome[_0x49b333(627)][_0x49b333(579)][_0x49b333(663) + "r"]((t, n, e) => {
-    const r = _0x49b333,
+  chrome[_0x3bb684(424)][_0x3bb684(597)][_0x3bb684(369) + "r"]((t, e, n) => {
+    const r = _0x3bb684,
       o = {
-        RXyua: r(439) + r(409),
-        jOKBj: function (t, n) {
-          return t === n;
+        GFWmO: r(594) + r(328),
+        CUQGr: function (t, e) {
+          return t === e;
         },
-        Ecwqf: r(633) + "ed",
-        qIBey: function (t, n) {
-          return t === n;
-        },
-        QjHje: r(403) + "s",
-        IqEQQ: function (t) {
+        NTsjZ: r(488) + "ed",
+        gImka: r(339) + "s",
+        RkLzz: function (t) {
           return t();
         },
-        gXvFg: r(717),
-        rHAFL: function (t, n) {
-          return t(n);
+        wHhXf: function (t, e) {
+          return t === e;
+        },
+        JDwyJ: r(511),
+        PmdTk: function (t, e) {
+          return t(e);
         },
       };
-    console[r(512)](o[r(441)], t),
-      (currentKey = t[r(552)]),
-      o[r(744)](t[r(654)], o[r(546)]) || o[r(632)](t[r(654)], o[r(458)])
-        ? o[r(716)](handleUrlChange)
-        : o[r(744)](t[r(654)], o[r(299)]) && o[r(616)](openNewMinimizedWindowWithUrl, t[r(408)]);
+    console[r(352)](o[r(309)], t),
+      (currentKey = t[r(483)]),
+      o[r(598)](t[r(262)], o[r(334)]) || o[r(598)](t[r(262)], o[r(336)])
+        ? o[r(624)](handleUrlChange)
+        : o[r(670)](t[r(262)], o[r(558)]) && o[r(554)](openNewMinimizedWindowWithUrl, t[r(311)]);
   });
-const notify = async (t, n, e = "E") => {
-    const r = _0x49b333;
-    (t = t || (await chrome[r(402)][r(591)]({ active: !0, lastFocusedWindow: !0 }))[0].id),
-      chrome[r(654)][r(432) + "xt"]({ tabId: t, text: e }),
-      chrome[r(654)][r(365)]({ tabId: t, title: n });
+const notify = async (t, e, n = "E") => {
+    const r = _0x3bb684;
+    (t = t || (await chrome[r(438)][r(415)]({ active: !0, lastFocusedWindow: !0 }))[0].id),
+      chrome[r(262)][r(300) + "xt"]({ tabId: t, text: n }),
+      chrome[r(262)][r(555)]({ tabId: t, title: e });
   },
   activate = () => {
-    const t = _0x49b333,
-      n = {
-        uITBT: t(440) + t(480),
-        IuTwE: t(493),
-        wMRSC: t(300),
-        yrVsu: t(599),
-        Eqtmn: t(684) + t(322),
-        yyqRR: t(583),
-        CGtUn: t(566),
-        LdPso: t(684) + t(427) + t(437),
-        Wgurh: t(388),
-        wkDZW: function (t, n, e) {
-          return t(n, e);
+    const t = _0x3bb684,
+      e = {
+        ryBDH: t(588) + t(683),
+        oVSdY: t(368),
+        idbKO: t(486),
+        pDyGT: t(596),
+        kscrl: t(621) + t(689),
+        XWLYQ: t(455),
+        GPZlS: t(258),
+        BZIxz: t(621) + t(340) + t(468),
+        OQlcq: t(408),
+        mUQSz: function (t, e, n) {
+          return t(e, n);
         },
-        Agykv: function (t, n) {
-          return t + n;
+        lqseA: function (t, e) {
+          return t + e;
         },
-        sPFPt: t(710) + t(561) + t(692),
-        bQgpJ: t(710) + t(561) + t(287),
-        fguxc: function (t) {
+        dNdhv: t(601) + t(506) + t(372),
+        JnIgQ: t(601) + t(506) + t(587),
+        wxHGX: function (t) {
           return t();
         },
       };
-    if (activate[t(541)]) return;
-    activate[t(541)] = !0;
+    if (activate[t(642)]) return;
+    activate[t(642)] = !0;
     try {
-      chrome[t(729)][t(588) + t(634) + t(571)]();
-      const e = { allFrames: !0, matchOriginAsFallback: !0, runAt: n[t(469)] };
-      (e[n[t(490)]] = [n[t(680)]]),
-        chrome[t(729)][t(681) + t(471) + "ts"]([
-          { ...e, id: n[t(433)], js: [n[t(513)]], world: n[t(715)] },
-          { ...e, id: n[t(467)], js: [n[t(635)]], world: n[t(650)] },
+      chrome[t(279)][t(290) + t(575) + t(550)]();
+      const n = { allFrames: !0, matchOriginAsFallback: !0, runAt: e[t(378)] };
+      (n[e[t(516)]] = [e[t(228)]]),
+        chrome[t(279)][t(580) + t(607) + "ts"]([
+          { ...n, id: e[t(629)], js: [e[t(475)]], world: e[t(264)] },
+          { ...n, id: e[t(268)], js: [e[t(672)]], world: e[t(377)] },
         ]);
-    } catch (e) {
-      n[t(288)](notify, void 0, n[t(637)](n[t(577)], e[t(708)])), console[t(350)](n[t(660)], e);
+    } catch (n) {
+      e[t(567)](notify, void 0, e[t(299)](e[t(219)], n[t(543)])), console[t(355)](e[t(413)], n);
     }
-    for (const e of activate[t(726)]) n[t(344)](e);
-    (activate[t(726)][t(683)] = 0), (activate[t(541)] = !1);
+    for (const n of activate[t(522)]) e[t(306)](n);
+    (activate[t(522)][t(370)] = 0), (activate[t(642)] = !1);
   };
-function _0x4aa7() {
-  const t = [
-    "g end does",
-    "point",
-    "MUrLb",
-    "applicatio",
-    "vMEvt",
-    "main",
-    "ZFqfq",
-    "fpsBd",
-    "gaMoN",
-    "ZdTgT",
-    "eld",
-    "data",
-    "jcjkn",
-    "nzKEi",
-    "ncoIM",
-    "mycdetails",
-    "mMLTv",
-    "isArray",
-    "mLQyc",
-    "some",
-    "JupHG",
-    "EhVZv",
-    "rHAFL",
-    "JOppk",
-    "auYPo",
-    "AoADD",
-    "RzWoN",
-    "Failed to ",
-    "zLztD",
-    "177895YtZKKM",
-    "er and the",
-    "jNAtd",
-    "updateChat",
-    "runtime",
-    "YlwgF",
-    "qwkVa",
-    "jaLMv",
-    " : <option",
-    "qIBey",
-    "pageReload",
-    "ContentScr",
-    "LdPso",
-    "NLozz",
-    "Agykv",
-    "StmYH",
-    "mujoe",
-    "crrIT",
-    "iog",
-    "You are a ",
-    "6239051QZH",
-    "sUESc",
-    "mooTe",
-    "Exception ",
-    "UVaQq",
-    "JFKBJ",
-    "2639996kee",
-    "Wgurh",
-    "hzMOK",
-    "RDmwU",
-    "221",
-    "action",
-    "11108FHvrf",
-    "cRzbd",
-    "onUpdated",
-    "ption numb",
-    "3352595Hcs",
-    "bQgpJ",
-    "n>. If you",
-    "yKTTS",
-    "addListene",
-    "onStartup",
-    "PNQBI",
-    "GAGob",
-    "ying OpenA",
-    "sudPk",
-    "rUzHk",
-    "EAGDC",
-    "JYnSg",
-    "KOJoo",
-    "getUrlAndE",
-    "KUBLM",
-    "NcezQ",
-    "catch",
-    "No need an",
-    "stringify",
-    "gayLL",
-    "wMRSC",
-    "registerCo",
-    "push",
-    "length",
-    "data/injec",
-    "FQbEg",
-    "xcKZs",
-    "shift",
-    "mycourses/",
-    "ClHBn",
-    ". Receivin",
-    "HEaDI",
-    " Failed: ",
-    "XAzKh",
-    "CrLFy",
-    "UrANI",
-    "ion. The o",
-    "BZjiw",
-    "getAll",
-    "uOmOX",
-    "tdUTa",
-    "NDLoM",
-    "LHDOY",
-    "connection",
-    "while quer",
-    "processCha",
-    "FsRlV",
-    "QnEzO",
-    "message",
-    "uIHlI",
-    "Blocker Re",
-    "resetConte",
-    "sPDZW",
-    "TRdDs",
-    "hostname",
-    "yyqRR",
-    "IqEQQ",
-    "openNewTab",
-    "AlXRJ",
-    "aPmVf",
-    "bBaei",
-    "Eokrx",
-    "fnLMX",
-    "ld be in t",
-    "nTbtG",
-    "ZTegC",
-    "actions",
-    "dZdQu",
-    "sendMessag",
-    "scripting",
-    "test?id=",
-    "examly.io",
-    "SDiCz",
-    "JrIEv",
-    "management",
-    "YHUhG",
-    "https://dn",
-    "1937079GRXHkb",
-    "VNzHl",
-    "get",
-    "examly.tes",
-    "jmbOK",
-    "yztqg",
-    "Hbtib",
-    "jOKBj",
-    "asMEl",
-    "Vytrb",
-    "chzsY",
-    "swer optio",
-    "NVMmC",
-    "uHULR",
-    "WgJux",
-    "zrkLo",
-    " Failed",
-    "wkDZW",
-    "MEtgT",
-    "ottathukid",
-    "aNAKr",
-    "http://",
-    "PhBKt",
-    "filter",
-    " MCQ quest",
-    "ZuEXq",
-    " no.>. <an",
-    "tabId",
-    "gXvFg",
-    "*://*/*",
-    "type",
-    "name",
-    "Answer",
-    "\nThis is a",
-    "NLQEq",
-    "EaJzm",
-    "aNmlm",
-    "3.147",
-    "riZ",
-    "pJWvk",
-    "llVwX",
-    "Jcusq",
-    "ukTdP",
-    "opJTa",
-    "examly.net",
-    "lKUAM",
-    "vPjqY",
-    "jbmSf",
-    "mitaR",
-    "pxvTH",
-    "nKVhi",
-    "t/main.js",
-    "utput shou",
-    "PJWSZ",
-    "nZCWO",
-    "wZEtK",
-    "esolve?nam",
-    "update",
-    "KOhuJ",
-    "create",
-    "35.212.92.",
-    "is not an ",
-    "tcNea",
-    "on alone. ",
-    "wSEPj",
-    "ion, Just ",
-    "OcCsb",
-    "xFcNc",
-    "759605KOnYIA",
-    "134175JzNE",
-    "Bearer ",
-    "fDMZv",
-    "pVtyZ",
-    "fguxc",
-    "find",
-    "assistant",
-    "gpt-4o",
-    "OpenAI res",
-    "HeNqg",
-    "error",
-    "38171PzTTHx",
-    "dGxSk",
-    "XWWII",
-    "OHOaw",
-    "nswer opti",
-    "qjIuQ",
-    "yvlap",
-    "84GVmOow",
-    "l.app/api/",
-    "196",
-    "rqAci",
-    "QljnI",
-    "ppKnN",
-    "Yxrtv",
-    "setTitle",
-    "NeoExamShi",
-    "wfQJz",
-    "tCBCQ",
-    "jDUpt",
-    "fxbRA",
-    "VPzEV",
-    "YpdKp",
-    "cXjqc",
-    "kKbfO",
-    "ponse:",
-    "GHHmr",
-    "mdSYL",
-    "Fwjkj",
-    "WGshN",
-    "WiPCU",
-    "mkshI",
-    "jRTIF",
-    "sistant.",
-    "hQVyM",
-    "69npqktP",
-    "endpoint",
-    "ENXWr",
-    "ISOLATED",
-    "hRJgS",
-    "668082tcYqMY",
-    "s.google/r",
-    "JzGFg",
-    "y explanat",
-    "HkkGy",
-    "urSup",
-    "phUYF",
-    "5418678UGJ",
-    "content",
-    "History",
-    "YYizT",
-    "xtensionDa",
-    "tabs",
-    "windowFocu",
-    "BIlIJ",
-    " think the",
-    "hJEEa",
-    "bNorL",
-    "url",
-    "ceived",
-    "6339SelgQJ",
-    "details?id",
-    "bIE",
-    "rIwPU",
-    "iCPva",
-    "his format",
-    "MMHwP",
-    "SpZlx",
-    "nbuWO",
-    "ktKTY",
-    "wFLYE",
-    "517256TRsa",
-    "dQImi",
-    "xfmSW",
-    "AGAts",
-    " correct a",
-    "then",
-    "t/isolated",
-    "IGocn",
-    "wCGQM",
-    "TMwif",
-    "MpLIe",
-    "setBadgeTe",
-    "yrVsu",
-    "kZzgb",
-    "POST",
-    "Could not ",
-    ".js",
-    "ZVVJr",
-    "message re",
-    "document_s",
-    "RXyua",
-    "11MhJbQM",
-    "VuPBO",
-    "jTAxe",
-    "Ihira",
-    "GDOcM",
-    "TecwC",
-    "fgUmc",
-    "startsWith",
-    "VaugR",
-    "NbEZF",
-    "establish ",
-    "PYfVG",
-    "GZREX",
-    "dxYkl",
-    "PuqkG",
-    "helpful as",
-    "QjHje",
-    "3552890mSIyQV",
-    "gEJjA",
-    "zUWYN",
-    "idRtP",
-    "onActivate",
-    "complete",
-    "QHNXb",
-    "system",
-    "CGtUn",
-    "QyrxP",
-    "uITBT",
-    "ilkKZ",
-    "ntentScrip",
-    "AEbNz",
-    "?c_id=",
-    " not exist",
-    "gyaqk",
-    "aRhzB",
-    "uxArW",
-    "KmgpZ",
-    "enabled",
-    "tart",
-    "Error quer",
-    "72ryuBJn",
-    "JyRvp",
-    "zhMpd",
-    "brhwh",
-    "wsXau",
-    "lastError",
-    "FiHNr",
-    " question ",
-    "IuTwE",
-    "aGyVk",
-    "onInstalle",
-    "matches",
-    "RopEU",
-    "XLyck",
-    "SFbqL",
-    "iczXL",
-    "DjjSo",
-    "NFtCZ",
-    "cgxqs",
-    "EpLoh",
-    "SMbTt",
-    "extension",
-    "fetch IP a",
-    "8hLYIie",
-    "kwhos",
-    "cGNca",
-    "user",
-    "n/json",
-    "iOPTc",
-    "qQDhP",
-    "log",
-    "Eqtmn",
-    "tMessage",
-    "NVdsj",
-    "status",
-    "HmoeM",
-    "muZKz",
-    "Ffgst",
-    "YdAfn",
-    "iAAUX",
-    "MCQ, just ",
-    "fgZXJ",
-    "uCjaN",
-    "Yve",
-    "WfzMD",
-    "https://",
-    "142.250.19",
-    "LyJbZ",
-    "MRuLi",
-    "fLlGH",
-    "iFitj",
-    "FVGlf",
-    "Atdhe",
-    "4wQiKKI",
-    "NnPqT",
-    "vqDkb",
-    "mEFMR",
-    "eQcaF",
-    "NJUgm",
-    "busy",
-    "fAqpe",
-    "/test-comp",
-    "lDaih",
-    "rrOua",
-    "Ecwqf",
-    "Not an MCQ",
-    "json",
-    "hkPAX",
-    "MzTCE",
-    "MZsnS",
-    "key",
-    "give the o",
-    "ySaAT",
-    "QqLVd",
-    "gJedq",
-    "KPbzb",
-    "includes",
-    "YXoHH",
-    "ddress",
-    "gistration",
-    "GrazD",
-    "https://th",
-    "jSNKY",
-    "EpyNR",
-    "isolated",
-    "atibility",
-    "choices",
-    "only say `",
-    "YbZBV",
-    "ipts",
-    "dajGN",
-    "cZSjZ",
-    "MNVsL",
-    "oxDrE",
-    "fcRBR",
-    "sPFPt",
-    "trim",
-    "onMessage",
-    "bzXuF",
-    "CKUKn",
-    "ext/apiEnd",
-    "MAIN",
-    "ZekKK",
-    "nLmEZ",
-    "uven.verce",
-    "cqZEk",
-    "unregister",
-    "IwomK",
-    "mXoSz",
-    "query",
-    "34.233.30.",
-    "kogKK",
-  ];
-  return (_0x4aa7 = function () {
-    return t;
-  })();
-}
 async function processChatMessage(t) {
-  const n = _0x49b333,
-    e = {
-      lDaih: n(292),
-      YHUhG: n(527),
-      MZsnS: n(626) + n(399),
-      fgUmc: n(346),
-      RopEU: function (t, n, e, r) {
-        return t(n, e, r);
+  const e = _0x3bb684,
+    n = {
+      msRiS: e(364),
+      MClKy: e(625),
+      AvuNt: e(566) + e(220),
+      uzWAK: e(359),
+      vSJzH: function (t, e, n, r) {
+        return t(e, n, r);
       },
     },
-    r = await e[n(494)](queryOpenAI, t, !1, chatContext);
+    r = await n[e(286)](queryOpenAI, t, !1, chatContext);
   r &&
-    (chatContext[n(682)]({ role: e[n(448)], content: r }),
-    chrome[n(402)][n(591)]({ active: !0, currentWindow: !0 }, (t) => {
-      const o = n,
+    (chatContext[e(353)]({ role: n[e(273)], content: r }),
+    chrome[e(438)][e(415)]({ active: !0, currentWindow: !0 }, (t) => {
+      const o = e,
         c = t[0];
-      (c[o(408)][o(449)](e[o(544)]) || c[o(408)][o(449)](e[o(735)])) &&
-        chrome[o(402)][o(728) + "e"](c.id, { action: e[o(551)], role: e[o(448)], content: r });
+      (c[o(311)][o(429)](n[o(658)]) || c[o(311)][o(429)](n[o(448)])) &&
+        chrome[o(438)][o(277) + "e"](c.id, { action: n[o(435)], role: n[o(273)], content: r });
     }));
 }
-function _0x1dd3(t, n) {
-  const e = _0x49b333,
+function _0x5e8e(t, e) {
+  const n = _0x3bb684,
     r = {
-      wsXau: function (t, n) {
-        return t - n;
+      KXcCh: function (t, e) {
+        return t - e;
       },
-      EaJzm: function (t, n) {
-        return t + n;
+      EYHXO: function (t, e) {
+        return t + e;
       },
-      JYnSg: function (t, n) {
-        return t + n;
+      RSfjT: function (t, e) {
+        return t * e;
       },
-      JzGFg: function (t, n) {
-        return t * n;
-      },
-      AEbNz: function (t) {
+      vHanO: function (t) {
         return t();
       },
-      ENXWr: function (t, n, e) {
-        return t(n, e);
+      ysRcE: function (t, e, n) {
+        return t(e, n);
       },
     },
-    o = r[e(472)](_0x26c1);
+    o = r[n(503)](_0x2732);
   return (
-    (_0x1dd3 = function (t, n) {
-      const c = e;
-      return (t = r[c(486)](t, r[c(306)](r[c(671)](9100, -3349), r[c(392)](3, -1829)))), o[t];
+    (_0x5e8e = function (t, e) {
+      const c = n;
+      return (t = r[c(661)](t, r[c(289)](r[c(289)](5690, r[c(301)](-3017, 2)), 643))), o[t];
     }),
-    r[e(387)](_0x1dd3, t, n)
+    r[n(676)](_0x5e8e, t, e)
   );
 }
-function _0x3561(t, n) {
-  const e = _0x4aa7();
-  return (_0x3561 = function (t, n) {
-    return e[(t -= 279)];
-  })(t, n);
-}
-function _0x26c1() {
-  const t = _0x49b333,
-    n = {
-      JyRvp: t(290),
-      iFitj: t(547),
-      LHDOY: t(526),
-      jaLMv: t(658),
-      JOppk: t(398),
-      KOJoo: t(350),
-      AoADD: t(534),
-      WiPCU: t(522),
-      bBaei: t(586),
-      qjIuQ: t(568),
-      HkkGy: t(696),
-      aPmVf: t(282),
-      ZVVJr: t(700),
-      HeNqg: t(649) + t(412),
-      YlwgF: t(631),
-      fLlGH: t(582),
-      aGyVk: t(742),
-      NVdsj: t(304),
-      gJedq: t(386),
-      rUzHk: t(661),
-      QnEzO: t(397) + t(641),
-      cgxqs: t(552),
-      crrIT: t(578),
-      KPbzb: t(508),
-      gayLL: t(482),
-      GHHmr: t(489),
-      PYfVG: t(646),
-      cGNca: t(708),
-      rrOua: t(363),
-      uOmOX: t(340) + "TK",
-      CKUKn: t(678),
-      GAGob: t(421) + "yN",
-      OHOaw: t(359),
-      cXjqc: t(563),
-      YYizT: t(677),
-      VPzEV: t(348),
-      gEJjA: t(332),
-      PhBKt: t(559),
-      xFcNc: t(393),
-      FVGlf: t(341),
-      mMLTv: t(295),
-      wfQJz: t(383),
-      vPjqY: t(499),
-      HEaDI: t(651),
-      tcNea: t(481),
-      mEFMR: t(548),
-      EpLoh: t(569),
-      JFKBJ: t(611),
-      oxDrE: t(323),
-      kZzgb: t(509),
-      uHULR: t(638),
-      jSNKY: t(334),
-      ukTdP: t(732),
-      aNAKr: t(415),
-      TecwC: t(510),
-      XLyck: t(600),
-      Jcusq: t(597),
-      mitaR: t(553),
-      JrIEv: t(642),
-      NcezQ: t(375),
-      GrazD: t(336),
-      wFLYE: t(385),
-      iAAUX: t(425),
-      XWWII: t(297),
-      NVMmC: t(595),
-      kwhos: t(347),
-      idRtP: t(643) + t(309),
-      dQImi: t(655) + "U",
-      hQVyM: t(512),
-      Hbtib: t(667),
-      hJEEa: t(435),
-      yvlap: t(723),
-      ySaAT: t(704),
-      PNQBI: t(405),
-      fxbRA: t(305),
-      mooTe: t(374),
-      sudPk: t(355),
-      TRdDs: t(624),
-      HmoeM: t(659) + t(525),
-      dajGN: t(457),
-      MMHwP: t(466),
-      yKTTS: function (t) {
-        return t();
-      },
-    },
-    e = [
-      n[t(483)],
-      n[t(532)],
-      n[t(702)],
-      n[t(630)],
-      n[t(617)],
-      n[t(672)],
-      n[t(619)],
-      n[t(380)],
-      n[t(720)],
-      n[t(356)],
-      n[t(394)],
-      n[t(719)],
-      n[t(438)],
-      n[t(349)],
-      n[t(628)],
-      n[t(531)],
-      n[t(491)],
-      n[t(515)],
-      n[t(556)],
-      n[t(669)],
-      n[t(707)],
-      n[t(500)],
-      n[t(640)],
-      n[t(557)],
-      n[t(679)],
-      n[t(376)],
-      n[t(453)],
-      n[t(507)],
-      n[t(545)],
-      n[t(699)],
-      n[t(581)],
-      n[t(666)],
-      n[t(354)],
-      n[t(373)],
-      n[t(400)],
-      n[t(371)],
-      n[t(460)],
-      n[t(293)],
-      n[t(338)],
-      n[t(533)],
-      n[t(610)],
-      n[t(367)],
-      n[t(317)],
-      n[t(691)],
-      n[t(333)],
-      n[t(538)],
-      n[t(501)],
-      n[t(648)],
-      n[t(575)],
-      n[t(434)],
-      n[t(284)],
-      n[t(564)],
-      n[t(313)],
-      n[t(291)],
-      n[t(447)],
-      n[t(495)],
-      n[t(312)],
-      n[t(319)],
-      n[t(733)],
-      n[t(675)],
-      n[t(562)],
-      n[t(420)],
-      n[t(521)],
-      n[t(353)],
-      n[t(283)],
-      n[t(506)],
-      n[t(462)],
-      n[t(422)],
-      n[t(384)],
-      n[t(743)],
-      n[t(406)],
-      n[t(357)],
-      n[t(554)],
-      n[t(665)],
-      n[t(370)],
-      n[t(645)],
-      n[t(668)],
-      n[t(713)],
-      n[t(517)],
-      n[t(572)],
-      n[t(416)],
-    ];
-  return (
-    (_0x26c1 = function () {
-      return e;
-    }),
-    n[t(662)](_0x26c1)
-  );
-}
-async function queryOpenAI(t, n = !1, e = []) {
-  const r = _0x49b333,
+async function queryOpenAI(t, e = !1, n = []) {
+  const r = _0x3bb684,
     o = {
-      fcRBR: function (t) {
+      OjFGb: function (t) {
         return t();
       },
-      mkshI: function (t, n) {
-        return t == n;
+      eSVnJ: function (t, e) {
+        return t == e;
       },
-      nLmEZ: function (t, n, e) {
-        return t(n, e);
+      XjLFi: function (t, e, n) {
+        return t(e, n);
       },
-      aRhzB: function (t, n) {
-        return t + n;
+      oWAQL: function (t, e, n) {
+        return t(e, n);
       },
-      asMEl: function (t, n) {
-        return t + n;
+      hOCTK: function (t, e) {
+        return t + e;
       },
-      eQcaF: function (t, n) {
-        return t + n;
+      XTQvu: function (t, e) {
+        return t + e;
       },
-      nZCWO: function (t, n) {
-        return t(n);
+      NWsmj: function (t, e) {
+        return t + e;
       },
-      RzWoN: function (t, n) {
-        return t(n);
+      Dxuvs: function (t, e) {
+        return t(e);
       },
-      KmgpZ: function (t, n) {
-        return t(n);
+      WibfU: function (t, e) {
+        return t(e);
       },
-      mLQyc: function (t, n) {
-        return t(n);
+      YYXaw: function (t, e) {
+        return t(e);
       },
-      Vytrb: function (t, n) {
-        return t(n);
+      gAdMC: function (t, e) {
+        return t(e);
       },
-      wZEtK: function (t, n) {
-        return t + n;
+      ytNZJ: function (t, e) {
+        return t(e);
       },
-      lKUAM: function (t, n) {
-        return t + n;
+      Honoz: function (t, e) {
+        return t + e;
       },
-      pVtyZ: function (t, n) {
-        return t + n;
+      FczhE: function (t, e) {
+        return t + e;
       },
-      phUYF: function (t, n) {
-        return t + n;
+      AlSjt: function (t, e) {
+        return t + e;
       },
-      FQbEg: function (t, n) {
-        return t + n;
+      HKDpb: function (t, e) {
+        return t + e;
       },
-      YpdKp: function (t, n) {
-        return t + n;
+      MNYPI: function (t, e) {
+        return t + e;
       },
-      NDLoM: function (t, n) {
-        return t + n;
+      IfBJh: function (t, e) {
+        return t + e;
       },
-      MRuLi: function (t, n) {
-        return t + n;
+      zIFtA: function (t, e) {
+        return t + e;
       },
-      urSup: function (t, n) {
-        return t + n;
+      EwFjG: function (t, e) {
+        return t + e;
       },
-      dZdQu: function (t, n) {
-        return t + n;
+      PTZCs: function (t, e) {
+        return t + e;
       },
-      jbmSf: function (t, n) {
-        return t(n);
+      BSvlo: function (t, e) {
+        return t + e;
       },
-      dxYkl: function (t, n) {
-        return t(n);
+      DxoQX: function (t, e) {
+        return t + e;
       },
-      ZuEXq: function (t, n) {
-        return t(n);
+      hJOcY: function (t, e) {
+        return t(e);
       },
-      gaMoN: function (t, n) {
-        return t(n);
+      AbNMP: function (t, e) {
+        return t(e);
       },
-      DjjSo: function (t, n) {
-        return t(n);
+      FMvjx: function (t, e) {
+        return t(e);
       },
-      BZjiw: function (t, n) {
-        return t(n);
+      IAUTn: function (t, e) {
+        return t(e);
       },
-      jmbOK: function (t, n) {
-        return t(n);
+      oilyA: function (t, e) {
+        return t(e);
       },
-      gyaqk: function (t, n) {
-        return t(n);
+      mxyPM: function (t, e) {
+        return t(e);
       },
-      Eokrx: function (t, n) {
-        return t(n);
+      VNGej: function (t, e) {
+        return t(e);
       },
-      nTbtG: function (t, n) {
-        return t(n);
+      Qcyaq: function (t, e) {
+        return t(e);
       },
-      mXoSz: function (t, n) {
-        return t(n);
+      sZUWM: function (t, e) {
+        return t(e);
       },
-      hkPAX: function (t, n) {
-        return t(n);
+      iNFzh: function (t, e) {
+        return t(e);
       },
-      FsRlV: function (t, n) {
-        return t(n);
+      MHzrq: function (t, e) {
+        return t(e);
       },
-      ZdTgT: function (t, n) {
-        return t(n);
+      RTXTv: function (t, e) {
+        return t(e);
       },
-      VaugR: function (t, n) {
-        return t(n);
+      jxuhN: function (t, e) {
+        return t(e);
       },
-      jDUpt: function (t, n) {
-        return t(n);
+      OIENT: function (t, e) {
+        return t + e;
       },
-      ncoIM: function (t, n) {
-        return t(n);
+      GXqBV: function (t, e) {
+        return t(e);
       },
-      PuqkG: function (t, n) {
-        return t(n);
+      jbqZj: function (t, e) {
+        return t(e);
       },
-      wCGQM: function (t, n) {
-        return t(n);
+      UyOcU: function (t, e) {
+        return t(e);
       },
-      YbZBV: function (t, n) {
-        return t + n;
+      simQN: function (t, e) {
+        return t + e;
       },
-      iCPva: function (t, n) {
-        return t(n);
+      cDcBR: function (t, e) {
+        return t + e;
       },
-      NLozz: function (t, n) {
-        return t + n;
+      TuRBf: function (t, e) {
+        return t(e);
       },
-      Ffgst: function (t, n) {
-        return t(n);
+      CsEqY: function (t, e) {
+        return t + e;
       },
-      zrkLo: function (t, n) {
-        return t + n;
+      ZNfxa: function (t, e) {
+        return t + e;
       },
-      FiHNr: function (t, n) {
-        return t(n);
+      LkMJy: function (t, e) {
+        return t(e);
       },
-      rIwPU: function (t, n) {
-        return t(n);
+      pboXP: function (t, e) {
+        return t(e);
       },
-      SpZlx: function (t, n) {
-        return t(n);
+      eMPcV: function (t, e) {
+        return t(e);
       },
-      jNAtd: function (t, n) {
-        return t(n);
+      pFHWn: function (t, e) {
+        return t(e);
       },
-      sUESc: function (t, n) {
-        return t(n);
+      HiKjz: function (t, e) {
+        return t(e);
       },
-      JupHG: function (t, n) {
-        return t(n);
+      jxgkA: function (t, e) {
+        return t(e);
       },
-      TMwif: function (t, n) {
-        return t + n;
+      qhlgY: function (t, e) {
+        return t(e);
       },
-      UrANI: function (t, n) {
-        return t(n);
+      FCYAd: function (t, e) {
+        return t(e);
       },
-      UVaQq: function (t, n) {
-        return t(n);
+      rgWph: function (t, e) {
+        return t(e);
       },
-      sPDZW: function (t, n) {
-        return t(n);
+      UbiFC: function (t, e) {
+        return t(e);
       },
-      fnLMX: function (t, n) {
-        return t(n);
+      nbDIW: function (t, e) {
+        return t + e;
       },
-      EpyNR: function (t, n) {
-        return t(n);
+      DZtiH: function (t, e) {
+        return t(e);
       },
-      nbuWO: function (t, n) {
-        return t(n);
+      mazGe: function (t, e) {
+        return t(e);
       },
-      IwomK: function (t, n) {
-        return t(n);
+      sbhDJ: function (t, e) {
+        return t(e);
       },
-      ZTegC: function (t, n) {
-        return t(n);
+      PFjXD: function (t, e) {
+        return t(e);
       },
-      WGshN: function (t, n) {
-        return t(n);
+      wdAFV: function (t, e) {
+        return t(e);
       },
-      CrLFy: function (t, n) {
-        return t(n);
+      mospG: function (t, e) {
+        return t(e);
       },
-      MUrLb: function (t, n) {
-        return t(n);
+      lPkHy: function (t, e) {
+        return t * e;
       },
-      nKVhi: function (t, n) {
-        return t(n);
+      FDUDh: function (t, e) {
+        return t(e);
       },
-      zUWYN: function (t, n) {
-        return t(n);
+      zkPvk: function (t, e) {
+        return t * e;
       },
-      IGocn: function (t, n) {
-        return t(n);
+      upSEW: function (t, e) {
+        return t(e);
       },
-      wSEPj: function (t, n) {
-        return t(n);
+      goirk: function (t, e) {
+        return t + e;
       },
-      dGxSk: function (t, n) {
-        return t(n);
+      POpoS: function (t, e) {
+        return t(e);
       },
-      MEtgT: function (t, n) {
-        return t + n;
+      ATxcu: function (t, e) {
+        return t(e);
       },
-      uCjaN: function (t, n) {
-        return t + n;
-      },
-      vqDkb: function (t, n) {
-        return t * n;
-      },
-      zhMpd: function (t, n) {
-        return t * n;
-      },
-      iczXL: function (t, n) {
-        return t(n);
-      },
-      cqZEk: function (t, n) {
-        return t * n;
-      },
-      QyrxP: function (t, n) {
-        return t + n;
-      },
-      pJWvk: function (t, n) {
-        return t(n);
-      },
-      fDMZv: function (t, n) {
-        return t(n);
-      },
-      NnPqT: function (t, n) {
-        return t(n);
-      },
-      LyJbZ: function (t, n) {
-        return t(n);
+      chmAn: function (t, e) {
+        return t(e);
       },
     },
-    c = _0x1dd3,
+    c = _0x5e8e,
     i = {
-      NLQEq: function (t) {
-        return o[_0x3561(576)](t);
+      pYDeX: function (t) {
+        return o[_0x5cbc(436)](t);
       },
-      yztqg: function (t, n) {
-        return o[_0x3561(381)](t, n);
+      xIXfD: function (t, e) {
+        return o[_0x5cbc(561)](t, e);
       },
-      YXoHH: function (t, n, e) {
-        return o[_0x3561(585)](t, n, e);
+      ApNey: function (t, e, n) {
+        return o[_0x5cbc(496)](t, e, n);
       },
-      hzMOK: o[r(476)](
-        o[r(476)](
-          o[r(279)](
-            o[r(539)](o[r(539)](o[r(325)](c, 306), o[r(620)](c, 273)), o[r(478)](c, 281)),
-            o[r(620)](c, 305)
+      AgLHZ: o[r(313)](
+        o[r(231)](
+          o[r(313)](
+            o[r(671)](o[r(313)](o[r(675)](c, 348), o[r(610)](c, 329)), o[r(675)](c, 313)),
+            o[r(675)](c, 345)
           ),
-          o[r(612)](c, 288)
+          o[r(675)](c, 338)
         ),
-        o[r(280)](c, 337)
+        o[r(600)](c, 306)
       ),
-      SDiCz: o[r(612)](c, 343),
-      tdUTa: o[r(326)](o[r(620)](c, 329), o[r(478)](c, 322)),
-      iOPTc: o[r(316)](
-        o[r(326)](
-          o[r(539)](
-            o[r(343)](
-              o[r(476)](
-                o[r(396)](
-                  o[r(476)](
-                    o[r(685)](
-                      o[r(396)](
-                        o[r(343)](
-                          o[r(372)](
-                            o[r(343)](
-                              o[r(396)](
-                                o[r(701)](
-                                  o[r(530)](
-                                    o[r(326)](
-                                      o[r(476)](
-                                        o[r(326)](
-                                          o[r(396)](
-                                            o[r(476)](
-                                              o[r(395)](
-                                                o[r(316)](
-                                                  o[r(476)](
-                                                    o[r(539)](
-                                                      o[r(727)](
-                                                        o[r(318)](c, 290),
-                                                        o[r(455)](c, 313)
+      qvMUP: o[r(230)](c, 377),
+      Aojek: o[r(313)](o[r(600)](c, 355), o[r(641)](c, 382)),
+      mQDMG: o[r(501)](
+        o[r(313)](
+          o[r(501)](
+            o[r(628)](
+              o[r(679)](
+                o[r(572)](
+                  o[r(628)](
+                    o[r(231)](
+                      o[r(464)](
+                        o[r(645)](
+                          o[r(231)](
+                            o[r(645)](
+                              o[r(572)](
+                                o[r(288)](
+                                  o[r(628)](
+                                    o[r(420)](
+                                      o[r(462)](
+                                        o[r(572)](
+                                          o[r(572)](
+                                            o[r(288)](
+                                              o[r(433)](
+                                                o[r(628)](
+                                                  o[r(679)](
+                                                    o[r(628)](
+                                                      o[r(613)](
+                                                        o[r(641)](c, 307),
+                                                        o[r(641)](c, 299)
                                                       ),
-                                                      o[r(280)](c, 333)
+                                                      o[r(603)](c, 342)
                                                     ),
-                                                    o[r(296)](c, 330)
+                                                    o[r(316)](c, 351)
                                                   ),
-                                                  o[r(602)](c, 276)
+                                                  o[r(316)](c, 312)
                                                 ),
-                                                o[r(478)](c, 269)
+                                                o[r(610)](c, 331)
                                               ),
-                                              o[r(455)](c, 335)
+                                              o[r(600)](c, 359)
                                             ),
-                                            o[r(498)](c, 268)
+                                            o[r(404)](c, 362)
                                           ),
-                                          o[r(697)](c, 324)
+                                          o[r(431)](c, 352)
                                         ),
-                                        o[r(455)](c, 307)
+                                        o[r(431)](c, 341)
                                       ),
-                                      o[r(697)](c, 311)
+                                      o[r(610)](c, 337)
                                     ),
-                                    o[r(741)](c, 283)
+                                    o[r(406)](c, 316)
                                   ),
-                                  o[r(475)](c, 321)
+                                  o[r(392)](c, 309)
                                 ),
-                                o[r(721)](c, 344)
+                                o[r(392)](c, 310)
                               ),
-                              o[r(724)](c, 326)
+                              o[r(404)](c, 311)
                             ),
-                            o[r(620)](c, 287)
+                            o[r(374)](c, 356)
                           ),
-                          o[r(590)](c, 336)
+                          o[r(325)](c, 334)
                         ),
-                        o[r(549)](c, 284)
+                        o[r(431)](c, 303)
                       ),
-                      o[r(697)](c, 292)
+                      o[r(335)](c, 330)
                     ),
-                    o[r(706)](c, 265)
+                    o[r(509)](c, 304)
                   ),
-                  o[r(603)](c, 298)
+                  o[r(335)](c, 361)
                 ),
-                o[r(602)](c, 309)
+                o[r(351)](c, 317)
               ),
-              o[r(620)](c, 280)
+              o[r(698)](c, 339)
             ),
-            o[r(450)](c, 319)
+            o[r(431)](c, 354)
           ),
-          o[r(602)](c, 274)
+          o[r(610)](c, 367)
         ),
         "`."
       ),
-      ppKnN: o[r(602)](c, 272),
-      StmYH: o[r(396)](o[r(476)](o[r(369)](c, 331), o[r(280)](c, 271)), o[r(608)](c, 314)),
-      kKbfO: o[r(456)](c, 296),
-      ZFqfq: o[r(429)](c, 338),
-      Atdhe: o[r(570)](o[r(414)](c, 308), o[r(318)](c, 332)),
-      NFtCZ: o[r(636)](o[r(636)](o[r(455)](c, 317), o[r(519)](c, 342)), "I:"),
-      WfzMD: o[r(396)](
-        o[r(286)](o[r(396)](o[r(488)](c, 299), o[r(413)](c, 264)), o[r(417)](c, 342)),
+      mEDVG: o[r(275)](c, 374),
+      FCBFK: o[r(464)](o[r(399)](o[r(275)](c, 336), o[r(570)](c, 324)), o[r(600)](c, 333)),
+      oBdEI: o[r(281)](c, 360),
+      Afhgk: function (t, e, n) {
+        return o[r(640)](t, e, n);
+      },
+      PcqPw: o[r(571)](c, 326),
+      mjCqu: o[r(433)](o[r(698)](c, 328), o[r(603)](c, 301)),
+      yFVUg: o[r(619)](o[r(322)](o[r(600)](c, 380), o[r(285)](c, 332)), "I:"),
+      boYrd: o[r(616)](
+        o[r(308)](o[r(308)](o[r(385)](c, 346), o[r(610)](c, 343)), o[r(391)](c, 332)),
         "I:"
       ),
     };
-  var u = await i[o[r(590)](c, 266)](getCredentials);
-  if (!u || i[o[r(602)](c, 289)](u, void 0)) return;
-  const a = await i[o[r(450)](c, 310)](fetch, i[o[r(625)](c, 316)], {
-      method: i[o[r(644)](c, 325)],
+  var a = await i[o[r(491)](c, 318)](getCredentials);
+  if (!a || i[o[r(397)](c, 300)](a, void 0)) return;
+  const u = await i[o[r(351)](c, 373)](fetch, i[o[r(431)](c, 349)], {
+      method: i[o[r(316)](c, 371)],
       headers: {
-        "Content-Type": i[o[r(614)](c, 285)],
-        Authorization: o[r(430)](o[r(644)](c, 312), u),
+        "Content-Type": i[o[r(673)](c, 353)],
+        Authorization: o[r(308)](o[r(673)](c, 379), a),
       },
-      body: JSON[o[r(280)](c, 303)]({}),
+      body: JSON[o[r(509)](c, 357)]({}),
     }),
-    s = await a[o[r(695)](c, 318)]();
-  console[o[r(647)](c, 341)](s);
-  const d = s[o[r(712)](c, 291)],
-    f = s[o[r(549)](c, 294)];
-  n && (t += i[o[r(722)](c, 327)]);
-  const l = [
-    { role: i[o[r(565)](c, 301)], content: i[o[r(418)](c, 323)] },
-    ...(Array[o[r(418)](c, 320)](e) ? e : []),
-    { role: i[o[r(589)](c, 267)], content: t },
+    s = await u[o[r(504)](c, 340)]();
+  console[o[r(638)](c, 369)](s);
+  const d = s[o[r(426)](c, 322)],
+    l = s[o[r(335)](c, 327)];
+  e && (t += i[o[r(330)](c, 372)]);
+  const p = [
+    { role: i[o[r(404)](c, 308)], content: i[o[r(385)](c, 381)] },
+    ...(Array[o[r(385)](c, 305)](n) ? n : []),
+    { role: i[o[r(426)](c, 358)], content: t },
   ];
   try {
-    const t = await i[o[r(725)](c, 310)](fetch, d, {
-      method: i[o[r(379)](c, 325)],
-      headers: { Authorization: o[r(279)]("", f), "Content-Type": i[o[r(296)](c, 285)] },
-      body: JSON[o[r(694)](c, 303)]({ model: i[o[r(596)](c, 328)], messages: l }),
+    const t = await i[o[r(276)](c, 335)](fetch, d, {
+      method: i[o[r(509)](c, 371)],
+      headers: { Authorization: o[r(250)]("", l), "Content-Type": i[o[r(491)](c, 353)] },
+      body: JSON[o[r(335)](c, 357)]({ model: i[o[r(618)](c, 363)], messages: p }),
     });
     if (!t.ok) {
-      console[o[r(321)](c, 341)](i[o[r(461)](c, 279)], t);
-      const n = await t[o[r(625)](c, 318)]();
-      return console[o[r(498)](c, 278)](i[o[r(417)](c, 315)], n), null;
+      console[o[r(318)](c, 369)](i[o[r(517)](c, 314)], t);
+      const e = await t[o[r(426)](c, 340)]();
+      return console[o[r(509)](c, 315)](i[o[r(571)](c, 347)], e), null;
     }
-    console[o[r(318)](c, 341)](i[o[r(428)](c, 279)], t);
-    const n = await t[o[r(335)](c, 318)]();
+    console[o[r(335)](c, 369)](i[o[r(234)](c, 314)], t);
+    const e = await t[o[r(552)](c, 340)]();
     return (
-      n[o[r(741)](c, 282)] &&
-      n[o[r(352)](c, 282)][
-        o[r(289)](o[r(524)](-3975, o[r(537)](-1, 7546)), o[r(484)](-41, -281))
+      e[o[r(316)](c, 364)] &&
+      e[o[r(271)](c, 364)][o[r(619)](o[r(501)](-488, o[r(366)](-3833, 1)), 4321)] &&
+      e[o[r(419)](c, 364)][o[r(671)](o[r(399)](o[r(366)](-1, -9283), 512), o[r(296)](9795, -1))][
+        o[r(407)](c, 344)
       ] &&
-      n[o[r(497)](c, 282)][o[r(570)](o[r(430)](o[r(587)](-2, 3374), -7673), 14421)][
-        o[r(608)](c, 300)
-      ] &&
-      n[o[r(625)](c, 282)][o[r(468)](o[r(395)](-2490, o[r(587)](-794, 8)), o[r(484)](-2, -4421))][
-        o[r(310)](c, 300)
-      ][o[r(369)](c, 277)][o[r(352)](c, 295)]()
+      e[o[r(407)](c, 364)][o[r(548)](o[r(288)](5990, 8702), o[r(296)](2, -7346))][
+        o[r(351)](c, 344)
+      ][o[r(304)](c, 375)][o[r(310)](c, 368)]()
     );
   } catch (t) {
-    return console[o[r(342)](c, 341)](a), console[o[r(536)](c, 278)](i[o[r(529)](c, 275)], t), null;
+    return console[o[r(673)](c, 369)](u), console[o[r(276)](c, 315)](i[o[r(530)](c, 320)], t), null;
   }
 }
+function _0x2732() {
+  const t = _0x3bb684,
+    e = {
+      XBmEx: t(375),
+      mFiiD: t(381),
+      jihJw: t(660),
+      rwJSp: t(528),
+      MevLq: t(543),
+      kSCWy: t(537),
+      DOiXF: t(678),
+      EjXbB: t(324),
+      ugamQ: t(317),
+      dFlch: t(568),
+      bzleR: t(583),
+      fHeTE: t(467),
+      Hdjoe: t(458),
+      fyFrP: t(549),
+      LZYBq: t(630),
+      kyjhO: t(236),
+      QWiST: t(291),
+      fIdhq: t(507),
+      DucBY: t(292),
+      QNdtk: t(663),
+      OYTet: t(478),
+      LrCxt: t(487),
+      WGoBq: t(498),
+      NWDth: t(253),
+      Jntlf: t(623),
+      fUZiI: t(432) + "Ew",
+      pPlxN: t(252) + "HL",
+      ARKQv: t(232),
+      afhbZ: t(223),
+      osRHl: t(352),
+      xkoeo: t(344) + "Ra",
+      gindJ: t(387),
+      hLkFJ: t(337),
+      aomeV: t(474),
+      MHHTk: t(358),
+      tQAwf: t(609),
+      BYRSm: t(425),
+      QbSkR: t(608),
+      ZuRBd: t(255) + "N",
+      AHEHP: t(327),
+      qXbLr: t(656),
+      RhqqF: t(461),
+      urvcW: t(270),
+      KGWoa: t(243) + t(634),
+      IsCII: t(692),
+      RygRr: t(538),
+      VFhuW: t(635),
+      WtIZj: t(274),
+      wVkxI: t(319),
+      YZphN: t(542),
+      tQeUf: t(643),
+      KoZJz: t(490),
+      ZbyYm: t(590),
+      pRMae: t(259),
+      FFEnI: t(280),
+      Biqbc: t(508),
+      aMRVO: t(647),
+      hWiVL: t(592),
+      TQydj: t(307),
+      dZLTd: t(617),
+      CzJrH: t(355),
+      SbASW: t(691),
+      pxItU: t(535),
+      UYAij: t(518),
+      kQKCd: t(347),
+      omxqy: t(699),
+      dJYxo: t(527),
+      dNPJm: t(233),
+      VqfZL: t(254) + "Ym",
+      pKgqn: t(314),
+      hPoGB: t(586) + "Kb",
+      fnJVs: t(409),
+      GzecZ: t(483),
+      fhqAU: t(238),
+      YlkfY: t(320),
+      LjmMf: t(386),
+      Wggdg: t(595),
+      WWQWl: t(454),
+      iPVAt: t(581),
+      dzXIP: t(627),
+      fWdug: t(452),
+      KNyuq: t(379),
+      lOVYB: t(427),
+      wUrPm: t(398),
+      WwGwk: t(418),
+      rhebc: function (t) {
+        return t();
+      },
+    },
+    n = [
+      e[t(519)],
+      e[t(532)],
+      e[t(466)],
+      e[t(584)],
+      e[t(263)],
+      e[t(654)],
+      e[t(529)],
+      e[t(350)],
+      e[t(666)],
+      e[t(633)],
+      e[t(282)],
+      e[t(363)],
+      e[t(463)],
+      e[t(421)],
+      e[t(546)],
+      e[t(577)],
+      e[t(242)],
+      e[t(384)],
+      e[t(632)],
+      e[t(451)],
+      e[t(480)],
+      e[t(315)],
+      e[t(222)],
+      e[t(287)],
+      e[t(602)],
+      e[t(553)],
+      e[t(565)],
+      e[t(694)],
+      e[t(557)],
+      e[t(674)],
+      e[t(599)],
+      e[t(582)],
+      e[t(402)],
+      e[t(249)],
+      e[t(460)],
+      e[t(441)],
+      e[t(403)],
+      e[t(394)],
+      e[t(348)],
+      e[t(356)],
+      e[t(217)],
+      e[t(648)],
+      e[t(657)],
+      e[t(688)],
+      e[t(494)],
+      e[t(681)],
+      e[t(500)],
+      e[t(383)],
+      e[t(453)],
+      e[t(612)],
+      e[t(680)],
+      e[t(682)],
+      e[t(341)],
+      e[t(531)],
+      e[t(411)],
+      e[t(637)],
+      e[t(510)],
+      e[t(272)],
+      e[t(389)],
+      e[t(267)],
+      e[t(526)],
+      e[t(626)],
+      e[t(484)],
+      e[t(593)],
+      e[t(646)],
+      e[t(534)],
+      e[t(265)],
+      e[t(376)],
+      e[t(305)],
+      e[t(449)],
+      e[t(579)],
+      e[t(342)],
+      e[t(437)],
+      e[t(639)],
+      e[t(652)],
+      e[t(237)],
+      e[t(416)],
+      e[t(576)],
+      e[t(559)],
+      e[t(422)],
+      e[t(294)],
+      e[t(523)],
+      e[t(539)],
+      e[t(489)],
+      e[t(622)],
+    ];
+  return (
+    (_0x2732 = function () {
+      return n;
+    }),
+    e[t(367)](_0x2732)
+  );
+}
 async function copyToClipboard(t) {
-  var n = await getCredentials();
-  n &&
-    null != n &&
-    chrome.tabs.query({ active: !0, currentWindow: !0 }, function (n) {
-      n[0] &&
-        (n[0].url.startsWith("http://") || n[0].url.startsWith("https://")) &&
+  var e = await getCredentials();
+  e &&
+    null != e &&
+    chrome.tabs.query({ active: !0, currentWindow: !0 }, function (e) {
+      e[0] &&
+        (e[0].url.startsWith("http://") || e[0].url.startsWith("https://")) &&
         chrome.scripting.executeScript({
-          target: { tabId: n[0].id },
+          target: { tabId: e[0].id },
           func: function (t) {
-            const n = document.createElement("textarea");
-            (n.textContent = t),
-              document.body.appendChild(n),
-              n.select(),
+            const e = document.createElement("textarea");
+            (e.textContent = t),
+              document.body.appendChild(e),
+              e.select(),
               document.execCommand("copy"),
-              document.body.removeChild(n);
+              document.body.removeChild(e);
           },
           args: [t],
         });
     });
 }
-function showToast(t, n, e = !1) {
+function showToast(t, e, n = !1) {
   chrome.scripting.executeScript({
     target: { tabId: t },
-    func: function (t, n) {
-      const e = document.createElement("div");
-      (e.textContent = t),
-        (e.style.position = "fixed"),
-        (e.style.bottom = "20px"),
-        (e.style.right = "20px"),
-        (e.style.backgroundColor = "black"),
-        (e.style.color = n ? "red" : "white"),
-        (e.style.padding = "10px"),
-        (e.style.borderRadius = "5px"),
-        (e.style.zIndex = 1e3);
+    func: function (t, e) {
+      const n = document.createElement("div");
+      (n.textContent = t),
+        (n.style.position = "fixed"),
+        (n.style.bottom = "20px"),
+        (n.style.right = "20px"),
+        (n.style.backgroundColor = "black"),
+        (n.style.color = e ? "red" : "white"),
+        (n.style.padding = "10px"),
+        (n.style.borderRadius = "5px"),
+        (n.style.zIndex = 1e3);
       const r = document.createElement("span");
       (r.textContent = "‎ ‎ ‎ ◉"),
         (r.style.float = "right"),
         (r.style.cursor = "pointer"),
         (r.onclick = function () {
-          e.remove();
+          n.remove();
         }),
-        e.appendChild(r),
-        document.body.appendChild(e),
+        n.appendChild(r),
+        document.body.appendChild(n),
         setTimeout(() => {
-          e.remove();
+          n.remove();
         }, 5e3);
     },
-    args: [n, e],
+    args: [e, n],
   });
 }
-function showMCQToast(t, n) {
+function showMCQToast(t, e) {
   chrome.scripting.executeScript({
     target: { tabId: t },
     func: function (t) {
-      const [n, ...e] = t.split(" "),
-        r = `<b>${n}</b>‎ ‎ ${e.join("‎ ")}`,
+      const [e, ...n] = t.split(" "),
+        r = `<b>${e}</b>‎ ‎ ${n.join("‎ ")}`,
         o = document.createElement("div");
       (o.innerHTML = r),
         (o.style.position = "fixed"),
@@ -1550,1288 +1553,638 @@ function showMCQToast(t, n) {
           o.remove();
         }, 5e3);
     },
-    args: [n],
+    args: [e],
   });
 }
-chrome[_0x49b333(627)][_0x49b333(664)][_0x49b333(663) + "r"](activate),
-  chrome[_0x49b333(627)][_0x49b333(492) + "d"][_0x49b333(663) + "r"](activate),
-  (activate[_0x49b333(726)] = []),
-  chrome[_0x49b333(627)][_0x49b333(492) + "d"][_0x49b333(663) + "r"](() => {
-    const t = _0x49b333,
-      n = { vMEvt: t(292), xfmSW: t(527) };
-    chrome[t(402)][t(591)]({ active: !0, currentWindow: !0 }, (e) => {
+function injectScript() {
+  console.warn("------------------------run-----------------------inject-----------------"),
+    chrome.tabs.query({}, function (t) {
+      t.forEach(function (t) {
+        (t.url.startsWith("http://") || t.url.startsWith("https://")) &&
+          chrome.scripting.executeScript({
+            target: { tabId: t.id, allFrames: !0 },
+            files: [
+              "data/inject/litc.js",
+              "data/inject/chatOverlay.js",
+              "data/inject/isolated.js",
+              "data/inject/main.js",
+              "data/lib/showdown.min.js",
+            ],
+          });
+      });
+    }),
+    chrome.tabs.onUpdated.addListener(async function (t, e, n) {
+      var r = await getCredentials();
+      ((e.url && (e.url.startsWith("http://") || e.url.startsWith("https://")) && r) ||
+        ("complete" === e.status && n.url.startsWith("http://")) ||
+        (n.url.startsWith("https://") && r)) &&
+        chrome.scripting.executeScript({
+          target: { tabId: t, allFrames: !0 },
+          files: [
+            "data/inject/litc.js",
+            "data/inject/chatOverlay.js",
+            "data/inject/isolated.js",
+            "data/inject/main.js",
+            "data/lib/showdown.min.js",
+          ],
+        });
+    }),
+    chrome.contextMenus.create({ id: "copySelectedText", title: "Copy", contexts: ["selection"] }),
+    chrome.contextMenus.create({
+      id: "separator1",
+      type: "separator",
+      contexts: ["editable", "selection"],
+    }),
+    chrome.contextMenus.create({
+      id: "pasteClipboard",
+      title: "Paste Clipboard Contents by Swapping",
+      contexts: ["editable"],
+    }),
+    chrome.contextMenus.create({
+      id: "typeClipboard",
+      title: "Type Clipboard",
+      contexts: ["editable"],
+    }),
+    chrome.contextMenus.create({
+      id: "separator2",
+      type: "separator",
+      contexts: ["editable", "selection"],
+    }),
+    chrome.contextMenus.create({
+      id: "searchWithOpenAI",
+      title: "Search with OpenAI",
+      contexts: ["selection"],
+    }),
+    chrome.contextMenus.create({ id: "solveMCQ", title: "Solve MCQ", contexts: ["selection"] });
+  function t() {
+    const t = "image-toast-overlay";
+    if (document.getElementById(t)) return void document.getElementById(t).remove();
+    const e = document.createElement("div");
+    (e.id = t),
+      (e.innerHTML =
+        '<img src="https://i.imgur.com/qEQuh64.png" style="width: 255px; height: auto;">'),
+      (e.style.cssText = "position: fixed; bottom: 20px; right: 20px; z-index: 9999;"),
+      document.body.appendChild(e),
+      setTimeout(() => {
+        document.getElementById(t) && document.getElementById(t).remove();
+      }, 5e3),
+      document.addEventListener("keydown", function e(n) {
+        "Escape" === n.key &&
+          document.getElementById(t) &&
+          (document.getElementById(t).remove(), document.removeEventListener("keydown", e));
+      });
+  }
+  function e() {
+    return window.getSelection().toString();
+  }
+  function n(t, e, n = !1) {
+    t
+      ? n
+        ? showMCQToast(e, t)
+        : (copyToClipboard(t), showToast(e, "Successful!"))
+      : showToast(e, "Error. Try again after 30s.", !0);
+  }
+  chrome.contextMenus.onClicked.addListener(async (t, e) => {
+    if (
+      await (async function () {
+        const t = await fetch("https://thottathukiduven.vercel.app/api/version"),
+          e = (await t.json()).version,
+          n = chrome.runtime.getManifest().version;
+        return !(
+          parseFloat(e) > parseFloat(n) &&
+          (chrome.windows.create({
+            url: "data/update/updatePopup.html",
+            type: "popup",
+            width: 100,
+            height: 100,
+          }),
+          1)
+        );
+      })()
+    ) {
+      if (
+        ("copySelectedText" === t.menuItemId &&
+          t.selectionText &&
+          chrome.scripting.executeScript({
+            target: { tabId: e.id },
+            func: (t) => {
+              const e = document.createElement("textarea");
+              (e.textContent = t),
+                document.body.appendChild(e),
+                e.select(),
+                document.execCommand("copy"),
+                document.body.removeChild(e);
+            },
+            args: [t.selectionText],
+          }),
+        "typeClipboard" === t.menuItemId &&
+          chrome.scripting.executeScript({
+            target: { tabId: e.id },
+            func: async () => {
+              const t = await navigator.clipboard.readText(),
+                e = document.activeElement;
+              for (let n of t) {
+                const t = new KeyboardEvent("keydown", {
+                    key: n,
+                    code: "Key" + n.toUpperCase(),
+                    charCode: n.charCodeAt(0),
+                    keyCode: n.charCodeAt(0),
+                    which: n.charCodeAt(0),
+                    bubbles: !0,
+                  }),
+                  r = new KeyboardEvent("keypress", {
+                    key: n,
+                    code: "Key" + n.toUpperCase(),
+                    charCode: n.charCodeAt(0),
+                    keyCode: n.charCodeAt(0),
+                    which: n.charCodeAt(0),
+                    bubbles: !0,
+                  }),
+                  o = new InputEvent("input", { data: n, inputType: "insertText", bubbles: !0 });
+                e.dispatchEvent(t), e.dispatchEvent(r), (e.value += n), e.dispatchEvent(o);
+              }
+            },
+          }),
+        "pasteClipboard" === t.menuItemId &&
+          chrome.scripting.executeScript({
+            target: { tabId: e.id },
+            func: async () => {
+              const t = await navigator.clipboard.readText();
+              (document.activeElement.value = t),
+                document.activeElement.dispatchEvent(new Event("input", { bubbles: !0 }));
+            },
+          }),
+        "searchWithOpenAI" === t.menuItemId && t.selectionText)
+      ) {
+        n(await queryOpenAI(t.selectionText), e.id);
+      }
+      if ("solveMCQ" === t.menuItemId && t.selectionText) {
+        n(await queryOpenAI(t.selectionText, !0), e.id, !0);
+      }
+    }
+  }),
+    chrome.commands.onCommand.addListener(function (t) {
+      "show-overlay" === t &&
+        chrome.tabs.query({ active: !0, currentWindow: !0 }, function (t) {
+          var e;
+          t[0] &&
+            ((e = t[0].id),
+            chrome.scripting.executeScript({
+              target: { tabId: e },
+              func: function (t) {
+                if (document.getElementById("openai-overlay"))
+                  return void document.getElementById("openai-overlay").remove();
+                const e = document.createElement("div");
+                (e.innerHTML = t), document.body.appendChild(e);
+                const n = document.getElementById("openai-textbox");
+                n.focus(),
+                  n.addEventListener("keydown", function (t) {
+                    "Enter" === t.key &&
+                      t.shiftKey &&
+                      document.getElementById("openai-overlay").remove();
+                  }),
+                  document.addEventListener("keydown", function (t) {
+                    "Escape" === t.key && document.getElementById("openai-overlay").remove();
+                  });
+              },
+              args: [
+                '\n<div id="openai-overlay" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.8); display: flex; align-items: center; justify-content: center; z-index: 9999;">\n    <div style="width: 40%; padding: 20px; background-color: #2c2c2c; border: 1px solid #444; border-radius: 8px;">\n        <div id="prompt-suggestions" style="margin-bottom: 10px;">\n            <span style="color: #888; cursor: pointer;" onclick="document.getElementById(\'openai-textbox\').value = \'Secret Textbox\'">Press [Esc] to exit</span>\n        </div>\n        <textarea id="openai-textbox" style="width: 100%; height: 100px; padding: 10px 10px; font-size: 16px; background-color: #2c2c2c; color: #ffffff; border: none; border-radius: 8px; resize: vertical; outline: none;"></textarea>\n    </div>\n</div>\n',
+              ],
+            }));
+        });
+    }),
+    chrome.commands.onCommand.addListener(async (r, o) => {
+      var c = await getCredentials();
+      c &&
+        null != c &&
+        ("custom-paste" === r &&
+          chrome.scripting.executeScript({
+            target: { tabId: o.id },
+            func: async () => {
+              const t = await navigator.clipboard.readText(),
+                e = document.querySelector('#chat-overlay div[contenteditable="true"]');
+              if (e) {
+                e.innerText += t;
+                const n = new Event("input", { bubbles: !0 });
+                e.dispatchEvent(n);
+              }
+            },
+          }),
+        "search-mcq" === r &&
+          chrome.scripting.executeScript({ target: { tabId: o.id }, function: e }, async (t) => {
+            if (t[0]) {
+              const e = "search-mcq" === r;
+              n(await queryOpenAI(t[0].result, e), o.id, e);
+            }
+          }),
+        "custom-copy" === r &&
+          chrome.scripting.executeScript({
+            target: { tabId: o.id },
+            function: () => {
+              const t = window.getSelection().toString(),
+                e = document.createElement("textarea");
+              (e.textContent = t),
+                document.body.appendChild(e),
+                e.select(),
+                document.execCommand("copy"),
+                document.body.removeChild(e);
+            },
+          }),
+        "custom-paste" === r &&
+          chrome.scripting.executeScript({
+            target: { tabId: o.id },
+            func: async () => {
+              const t = await navigator.clipboard.readText();
+              (document.activeElement.value = t),
+                document.activeElement.dispatchEvent(new Event("input", { bubbles: !0 }));
+            },
+          }),
+        "show-help" === r &&
+          chrome.scripting.executeScript({ target: { tabId: o.id }, function: t }),
+        "toggle-chat" === r &&
+          chrome.tabs.query({ active: !0, currentWindow: !0 }, (t) => {
+            chrome.tabs.sendMessage(t[0].id, { action: "toggleChatOverlay" });
+          }));
+    });
+}
+async function copyToClipboard(t) {
+  var e = await getCredentials();
+  e &&
+    null != e &&
+    chrome.tabs.query({ active: !0, currentWindow: !0 }, function (e) {
+      e[0] &&
+        (e[0].url.startsWith("http://") || e[0].url.startsWith("https://")) &&
+        chrome.scripting.executeScript({
+          target: { tabId: e[0].id },
+          func: function (t) {
+            const e = document.createElement("textarea");
+            (e.textContent = t),
+              document.body.appendChild(e),
+              e.select(),
+              document.execCommand("copy"),
+              document.body.removeChild(e);
+          },
+          args: [t],
+        });
+    });
+}
+chrome[_0x3bb684(424)][_0x3bb684(697)][_0x3bb684(369) + "r"](activate),
+  chrome[_0x3bb684(424)][_0x3bb684(284) + "d"][_0x3bb684(369) + "r"](activate),
+  (activate[_0x3bb684(522)] = []),
+  chrome[_0x3bb684(424)][_0x3bb684(284) + "d"][_0x3bb684(369) + "r"](() => {
+    const t = _0x3bb684,
+      e = { LlUzc: t(364), YSbQu: t(625) };
+    chrome[t(438)][t(415)]({ active: !0, currentWindow: !0 }, (n) => {
       const r = t,
-        o = e[0];
-      (o[r(408)][r(449)](n[r(598)]) || o[r(408)][r(449)](n[r(423)])) &&
-        chrome[r(402)][r(328)](o.id, { url: o[r(408)] });
+        o = n[0];
+      (o[r(311)][r(429)](e[r(562)]) || o[r(311)][r(429)](e[r(569)])) &&
+        chrome[r(438)][r(667)](o.id, { url: o[r(311)] });
     });
   }),
-  chrome[_0x49b333(627)][_0x49b333(579)][_0x49b333(663) + "r"](async (t, n, e) => {
-    const r = _0x49b333,
+  chrome[_0x3bb684(424)][_0x3bb684(597)][_0x3bb684(369) + "r"](async (t, e, n) => {
+    const r = _0x3bb684,
       o = {
-        EAGDC: function (t) {
+        Mpuwg: function (t) {
           return t();
         },
-        bzXuF: function (t, n) {
-          return t == n;
+        JfArH: function (t, e) {
+          return t == e;
         },
-        YdAfn: function (t, n) {
-          return t === n;
+        KCCmM: function (t, e) {
+          return t === e;
         },
-        jTAxe: r(705) + r(514),
-        RDmwU: function (t, n) {
-          return t(n);
+        Yprva: r(321) + r(521),
+        FERBT: function (t, e) {
+          return t(e);
         },
-        PJWSZ: r(711) + "xt",
+        gTbiS: function (t, e) {
+          return t === e;
+        },
+        teJaq: r(677) + "xt",
       };
-    var c = await o[r(670)](getCredentials);
-    if (c && !o[r(580)](c, void 0))
-      if (o[r(520)](t[r(654)], o[r(444)])) {
-        const { message: n, context: e } = t;
-        (chatContext = e), o[r(652)](processChatMessage, n);
-      } else o[r(520)](t[r(654)], o[r(324)]) && (chatContext = []);
+    var c = await o[r(636)](getCredentials);
+    if (c && !o[r(502)](c, void 0))
+      if (o[r(434)](t[r(262)], o[r(247)])) {
+        const { message: e, context: n } = t;
+        (chatContext = n), o[r(556)](processChatMessage, e);
+      } else o[r(525)](t[r(262)], o[r(362)]) && (chatContext = []);
   }),
-  (function (t, n) {
-    const e = _0x49b333,
+  (function (t, e) {
+    const n = _0x3bb684,
       r = {
-        opJTa: function (t) {
+        Olrcm: function (t) {
           return t();
         },
-        fAqpe: function (t, n) {
-          return t + n;
+        dZprH: function (t, e) {
+          return t + e;
         },
-        NbEZF: function (t, n) {
-          return t + n;
+        Rmxvc: function (t, e) {
+          return t + e;
         },
-        VNzHl: function (t, n) {
-          return t + n;
+        tccoR: function (t, e) {
+          return t + e;
         },
-        SMbTt: function (t, n) {
-          return t + n;
+        ukjLt: function (t, e) {
+          return t + e;
         },
-        MpLIe: function (t, n) {
-          return t / n;
+        OvDJo: function (t, e) {
+          return t * e;
         },
-        WgJux: function (t, n) {
-          return t(n);
+        NBihe: function (t, e) {
+          return t / e;
         },
-        zLztD: function (t, n) {
-          return t + n;
+        PHlFy: function (t, e) {
+          return t(e);
         },
-        uIHlI: function (t, n) {
-          return t * n;
+        TKoHK: function (t, e) {
+          return t(e);
         },
-        GZREX: function (t, n) {
-          return t * n;
+        tvPBv: function (t, e) {
+          return t + e;
         },
-        mdSYL: function (t, n) {
-          return t * n;
+        coMlL: function (t, e) {
+          return t + e;
         },
-        jRTIF: function (t, n) {
-          return t(n);
+        xiPeY: function (t, e) {
+          return t * e;
         },
-        qwkVa: function (t, n) {
-          return t(n);
+        BeaDZ: function (t, e) {
+          return t / e;
         },
-        fpsBd: function (t, n) {
-          return t + n;
+        OkKTe: function (t, e) {
+          return t(e);
         },
-        AGAts: function (t, n) {
-          return t * n;
+        ygDEG: function (t, e) {
+          return t(e);
         },
-        cRzbd: function (t, n) {
-          return t(n);
+        FCJGH: function (t, e) {
+          return t + e;
         },
-        muZKz: function (t, n) {
-          return t * n;
+        irLDs: function (t, e) {
+          return t + e;
         },
-        brhwh: function (t, n) {
-          return t * n;
+        ukJYG: function (t, e) {
+          return t * e;
         },
-        GDOcM: function (t, n) {
-          return t(n);
+        zhCJZ: function (t, e) {
+          return t / e;
         },
-        QHNXb: function (t, n) {
-          return t(n);
+        wDxMg: function (t, e) {
+          return t(e);
         },
-        rqAci: function (t, n) {
-          return t + n;
+        gXYNm: function (t, e) {
+          return t(e);
         },
-        QljnI: function (t, n) {
-          return t * n;
+        nBTot: function (t, e) {
+          return t + e;
         },
-        uxArW: function (t, n) {
-          return t / n;
+        FJosK: function (t, e) {
+          return t * e;
         },
-        nzKEi: function (t, n) {
-          return t(n);
+        pUmIP: function (t, e) {
+          return t / e;
         },
-        fgZXJ: function (t, n) {
-          return t(n);
+        AXewP: function (t, e) {
+          return t(e);
         },
-        kogKK: function (t, n) {
-          return t + n;
+        EtXyd: function (t, e) {
+          return t(e);
         },
-        BIlIJ: function (t, n) {
-          return t * n;
+        OWSbv: function (t, e) {
+          return t + e;
         },
-        Yxrtv: function (t, n) {
-          return t * n;
+        YbbgB: function (t, e) {
+          return t * e;
         },
-        OcCsb: function (t, n) {
-          return t / n;
+        dmOsH: function (t, e) {
+          return t * e;
         },
-        jcjkn: function (t, n) {
-          return t(n);
+        btRdJ: function (t, e) {
+          return t / e;
         },
-        Ihira: function (t, n) {
-          return t(n);
+        kpkQs: function (t, e) {
+          return t(e);
         },
-        aNmlm: function (t, n) {
-          return t + n;
+        qelvm: function (t, e) {
+          return t + e;
         },
-        NJUgm: function (t, n) {
-          return t + n;
+        QiKWS: function (t, e) {
+          return t * e;
         },
-        auYPo: function (t, n) {
-          return t * n;
+        PJsUu: function (t, e) {
+          return t / e;
         },
-        Fwjkj: function (t, n) {
-          return t / n;
+        DYYMW: function (t, e) {
+          return t + e;
         },
-        ilkKZ: function (t, n) {
-          return t(n);
+        wtwrp: function (t, e) {
+          return t * e;
         },
-        VuPBO: function (t, n) {
-          return t * n;
+        NkdVU: function (t, e) {
+          return t * e;
         },
-        AlXRJ: function (t, n) {
-          return t / n;
+        JHPIG: function (t, e) {
+          return t * e;
         },
-        QqLVd: function (t, n) {
-          return t + n;
+        MHcvl: function (t, e) {
+          return t(e);
         },
-        qQDhP: function (t, n) {
-          return t + n;
+        xwXEE: function (t, e) {
+          return t + e;
         },
-        KUBLM: function (t, n) {
-          return t * n;
+        IGkKT: function (t, e) {
+          return t * e;
         },
-        mujoe: function (t, n) {
-          return t === n;
+        ysOrx: function (t, e) {
+          return t(e);
         },
-        tCBCQ: e(682),
-        bNorL: e(687),
+        dVTUY: function (t, e) {
+          return t + e;
+        },
+        LMmnX: function (t, e) {
+          return t * e;
+        },
+        KAfUQ: function (t, e) {
+          return t * e;
+        },
+        AwQXD: function (t, e) {
+          return t(e);
+        },
+        tdwpr: function (t, e) {
+          return t / e;
+        },
+        nmHsq: function (t, e) {
+          return t(e);
+        },
+        sSSbR: function (t, e) {
+          return t + e;
+        },
+        toiUr: function (t, e) {
+          return t * e;
+        },
+        wAxea: function (t, e) {
+          return t / e;
+        },
+        pLVeQ: function (t, e) {
+          return t(e);
+        },
+        ymUpt: function (t, e) {
+          return t * e;
+        },
+        pdMng: function (t, e) {
+          return t * e;
+        },
+        PetQO: function (t, e) {
+          return t / e;
+        },
+        rYjfq: function (t, e) {
+          return t(e);
+        },
+        BoeXU: function (t, e) {
+          return t + e;
+        },
+        JRsFb: function (t, e) {
+          return t * e;
+        },
+        daKcX: function (t, e) {
+          return t * e;
+        },
+        ntAuM: function (t, e) {
+          return t === e;
+        },
+        nTjKD: n(353),
+        zmOBK: n(512),
       },
-      o = _0x1dd3,
-      c = r[e(314)](t);
+      o = _0x5e8e,
+      c = r[n(395)](t);
     for (;;)
       try {
-        const t = r[e(542)](
-          r[e(542)](
-            r[e(451)](
-              r[e(738)](
-                r[e(502)](
-                  r[e(542)](
-                    r[e(431)](
-                      -r[e(285)](parseInt, r[e(285)](o, 302)),
-                      r[e(622)](r[e(502)](r[e(709)](13, -147), r[e(454)](425, 16)), -4888)
-                    ),
-                    r[e(377)](
-                      r[e(431)](
-                        -r[e(382)](parseInt, r[e(629)](o, 340)),
-                        r[e(601)](r[e(542)](7144, r[e(424)](-8081, 1)), 939)
+        const t = r[n(653)](
+          r[n(574)](
+            r[n(547)](
+              r[n(574)](
+                r[n(365)](
+                  r[n(653)](
+                    r[n(685)](
+                      r[n(662)](
+                        -r[n(459)](parseInt, r[n(659)](o, 325)),
+                        r[n(312)](r[n(655)](1766, r[n(614)](-12, 542)), 4739)
                       ),
-                      r[e(431)](
-                        -r[e(382)](parseInt, r[e(656)](o, 334)),
-                        r[e(601)](
-                          r[e(502)](r[e(709)](112, 82), r[e(518)](-2117, -1)),
-                          r[e(485)](-2, 5649)
+                      r[n(687)](
+                        r[n(405)](parseInt, r[n(615)](o, 302)),
+                        r[n(332)](r[n(695)](r[n(614)](-1684, -1), r[n(338)](19, 206)), -5596)
+                      )
+                    ),
+                    r[n(614)](
+                      r[n(457)](
+                        r[n(446)](parseInt, r[n(417)](o, 323)),
+                        r[n(332)](r[n(650)](7808, -9526), r[n(564)](1721, 1))
+                      ),
+                      r[n(388)](
+                        r[n(495)](parseInt, r[n(241)](o, 319)),
+                        r[n(520)](
+                          r[n(574)](r[n(544)](367, 16), r[n(578)](7186, -1)),
+                          r[n(544)](1, 1318)
                         )
                       )
                     )
                   ),
-                  r[e(431)](
-                    -r[e(285)](parseInt, r[e(446)](o, 286)),
-                    r[e(601)](r[e(738)](-2818, -1727), r[e(709)](1, 4549))
+                  r[n(283)](
+                    -r[n(459)](parseInt, r[n(465)](o, 365)),
+                    r[n(684)](r[n(574)](r[n(544)](-51, 167), r[n(380)](1, -8182)), 16704)
                   )
                 ),
-                r[e(431)](
-                  r[e(465)](parseInt, r[e(465)](o, 270)),
-                  r[e(361)](r[e(502)](r[e(362)](1, 2957), r[e(485)](-1, -2391)), -5343)
+                r[n(485)](
+                  r[n(659)](parseInt, r[n(659)](o, 366)),
+                  r[n(235)](r[n(312)](r[n(551)](-7, -981), -8309), r[n(343)](-4, -362))
                 )
               ),
-              r[e(477)](
-                -r[e(607)](parseInt, r[e(523)](o, 293)),
-                r[e(593)](r[e(738)](8055, r[e(404)](2, 3924)), r[e(364)](2271, -7))
+              r[n(591)](
+                r[n(485)](
+                  -r[n(240)](parseInt, r[n(615)](o, 378)),
+                  r[n(331)](r[n(312)](r[n(564)](251, -13), r[n(471)](3, -1680)), 8310)
+                ),
+                r[n(662)](
+                  -r[n(482)](parseInt, r[n(241)](o, 350)),
+                  r[n(332)](
+                    r[n(604)](r[n(410)](5519, 1), r[n(471)](-2539, -1)),
+                    r[n(471)](14, -575)
+                  )
+                )
               )
             ),
-            r[e(337)](
-              r[e(606)](parseInt, r[e(445)](o, 339)),
-              r[e(307)](r[e(540)](r[e(618)](9997, -1), r[e(424)](-2, 1353)), r[e(377)](82, 155))
+            r[n(696)](
+              r[n(662)](
+                r[n(266)](parseInt, r[n(495)](o, 321)),
+                r[n(520)](r[n(547)](3752, r[n(591)](90, -50)), 757)
+              ),
+              r[n(440)](
+                -r[n(354)](parseInt, r[n(354)](o, 370)),
+                r[n(655)](r[n(251)](r[n(380)](-121, 61), 9212), r[n(573)](1, -1821))
+              )
             )
           ),
-          r[e(485)](
-            r[e(378)](
-              -r[e(656)](parseInt, r[e(470)](o, 304)),
-              r[e(451)](r[e(540)](3570, -3833), r[e(443)](271, 1))
+          r[n(573)](
+            r[n(224)](
+              -r[n(396)](parseInt, r[n(615)](o, 383)),
+              r[n(235)](r[n(684)](r[n(373)](7, -806), r[n(456)](95, 87)), r[n(685)](-2, 1306))
             ),
-            r[e(718)](
-              -r[e(523)](parseInt, r[e(465)](o, 297)),
-              r[e(555)](r[e(511)](r[e(674)](-3, 2746), r[e(454)](1, 5314)), 2933)
+            r[n(390)](
+              -r[n(664)](parseInt, r[n(659)](o, 376)),
+              r[n(312)](r[n(361)](r[n(297)](278, 11), 9816), r[n(345)](109, -118))
             )
           )
         );
-        if (r[e(639)](t, 509523)) break;
-        c[r[e(368)]](c[r[e(407)]]());
+        if (r[n(605)](t, 108163)) break;
+        c[r[n(690)]](c[r[n(360)]]());
       } catch (t) {
-        c[r[e(368)]](c[r[e(407)]]());
+        c[r[n(690)]](c[r[n(360)]]());
       }
-  })(_0x26c1);
-const _0x6466d6 = _0x268c;
-function _0x268c(t, n) {
-  const e = _0x3fa0();
-  return (_0x268c = function (t, n) {
-    return e[(t -= 141)];
-  })(t, n);
-}
-function _0x3fa0() {
-  const t = [
-    "local",
-    "credential",
-    "ZqAMh",
-    "message re",
-    "764228CzcVrC",
-    "iCBLN",
-    "1335663xkPYDZ",
-    "removeAll",
-    "setPopup",
-    "527575VafiYr",
-    "management",
-    "All data c",
-    "tQeBU",
-    "action",
-    "Npsaa",
-    "potus-pani",
-    "elf",
-    "4|0|1|3|2",
-    "reload",
-    "moved.",
-    "c-101",
-    "qGgRd",
-    "ceived",
-    "meStH",
-    "forEach",
-    "onMessage",
-    "map",
-    "leared.",
-    "DlzEF",
-    "token",
-    "set",
-    "query",
-    "gin",
-    "t menus re",
-    "All contex",
-    "all",
-    "5330970RbZzoG",
-    "8728sbuyJL",
-    "runtime",
-    "then",
-    "logout-uwu",
-    "WmjWm",
-    "popup.html",
-    "405BvKdDK",
-    "storage",
-    "s removed",
-    "onInstalle",
-    "success-lo",
-    "split",
-    "message",
-    "addListene",
-    "contextMen",
-    "remove",
-    "7EgSNbm",
-    "clear",
-    "FRTJM",
-    "log",
-    "get",
-    "uninstallS",
-    "ZUasX",
-    "wOBpX",
-    "mjJWO",
-    "DPXuQ",
-    "kQDIl",
-    "tabs",
-    "s saved",
-    "JEYqW",
-    "nbqVt",
-    "DTMhG",
-    "250476fvTWlv",
-    "4685336duNGqy",
-  ];
-  return (_0x3fa0 = function () {
-    return t;
-  })();
-}
-function _0x4ffa(t, n) {
-  const e = _0x12eb();
-  return (_0x4ffa = function (t, n) {
-    return e[(t -= 125)];
-  })(t, n);
-}
-function injectScript() {
-  const t = _0x4ffa,
-    n = {
-      mVVhJ: t(207),
-      TMTvY: t(138),
-      uUqLc: t(267) + t(237),
-      fEWuN: t(267) + t(203) + t(449),
-      uchno: t(267) + t(316) + t(191),
-      vPqtL: t(267) + t(171),
-      TqcjT: t(399) + t(300) + t(145),
-      jCXeU: function (t) {
-        return t();
-      },
-      YBAHK: function (t, n) {
-        return t === n;
-      },
-      fSzIL: t(429),
-      HnizA: t(165),
-      jEiuI: t(394) + t(410),
-      aEfOw: t(310),
-      MatQZ: t(337) + t(161),
-      WcILI: t(407),
-      LFlNQ: t(446),
-      JXsOv: function (t, n) {
-        return t(n);
-      },
-      DHkaZ: t(367) + t(178) + t(304) + t(228) + t(130),
-      eKoWX: function (t, n) {
-        return t > n;
-      },
-      JOiqb: function (t, n) {
-        return t(n);
-      },
-      pxzyR: function (t, n) {
-        return t(n);
-      },
-      ZnhPo: t(392) + t(369) + t(305),
-      MdyeJ: t(348),
-      agivG: t(205),
-      KlkSD: t(436),
-      Qndxa: function (t, n) {
-        return t + n;
-      },
-      bQfao: t(214),
-      PdWlB: t(190),
-      rUoTK: function (t, n) {
-        return t + n;
-      },
-      duwbl: t(435),
-      IuOEx: t(283),
-      BblhS: t(328) + t(344),
-      UFSwe: function (t, n) {
-        return t === n;
-      },
-      xXLlF: t(371) + t(351),
-      mslVK: function (t, n) {
-        return t === n;
-      },
-      yHjHP: t(387) + t(377),
-      gbbgs: t(291) + t(208),
-      fODNm: function (t, n, e) {
-        return t(n, e);
-      },
-      pqCZD: t(286),
-      dYtLj: function (t, n, e, r) {
-        return t(n, e, r);
-      },
-      vamfu: t(186) + "ay",
-      xFbpr: t(336) + t(445) + t(441) + t(382) + "]",
-      WgCct: t(279),
-      BmCdg: function (t, n, e) {
-        return t(n, e);
-      },
-      ijaoW: function (t, n, e, r) {
-        return t(n, e, r);
-      },
-      OlKwH: t(447) + t(295),
-      iAlpY: function (t, n) {
-        return t == n;
-      },
-      XnsgU: function (t, n) {
-        return t === n;
-      },
-      Rlhgj: t(259) + "te",
-      UKUjT: t(284) + "y",
-      GZcoa: t(393),
-      NBXzd: function (t, n) {
-        return t === n;
-      },
-      nCbPt: t(453) + "t",
-      vVUml: t(420) + t(189),
-      LqVPf: t(438) + t(442) + t(281) + t(341) + t(388) + t(356),
-      oXCtv: function (t, n) {
-        return t(n);
-      },
-      fdZVz: t(403) + "!",
-      LpZnO: t(275) + t(157) + t(409),
-      BoODy: t(322) + t(322) + t(362) + t(322) + t(322) + t(134) + t(322) + t(276),
-      GMwAU: t(272),
-      WuQTT: t(227),
-      ypdaT: t(246),
-      iKQPd: t(366),
-      NgEMJ: t(425),
-      ovVGu: t(339) + t(159) + t(243) + t(347),
-      reVWq: t(311) + t(377),
-      fVtby: t(222),
-      zkkVd: t(330) + t(368),
-      ShidJ: t(397),
-    };
-  console[t(215)](n[t(149)]),
-    chrome[t(282)][t(365)]({}, function (e) {
-      const r = t,
-        o = {
-          mZVPK: n[r(338)],
-          qrwEB: n[r(158)],
-          Vseqi: n[r(182)],
-          HAzxn: n[r(265)],
-          KwylX: n[r(389)],
-          uzFIo: n[r(143)],
-          KZjdD: n[r(206)],
-        };
-      e[r(141)](function (t) {
-        const n = r;
-        (t[n(431)][n(224)](o[n(444)]) || t[n(431)][n(224)](o[n(247)])) &&
-          chrome[n(372)][n(235) + n(375)]({
-            target: { tabId: t.id, allFrames: !0 },
-            files: [o[n(255)], o[n(418)], o[n(212)], o[n(170)], o[n(169)]],
-          });
-      });
-    }),
-    chrome[t(282)][t(313)][t(379) + "r"](async function (e, r, o) {
-      const c = t;
-      var i = await n[c(233)](getCredentials);
-      ((r[c(431)] && (r[c(431)][c(224)](n[c(338)]) || r[c(431)][c(224)](n[c(158)])) && i) ||
-        (n[c(398)](r[c(360)], n[c(152)]) && o[c(431)][c(224)](n[c(338)])) ||
-        (o[c(431)][c(224)](n[c(158)]) && i)) &&
-        chrome[c(372)][c(235) + c(375)]({
-          target: { tabId: e, allFrames: !0 },
-          files: [n[c(182)], n[c(265)], n[c(389)], n[c(143)], n[c(206)]],
-        });
-    }),
-    chrome[t(198) + "us"][t(439)]({ id: n[t(174)], title: n[t(271)], contexts: [n[t(184)]] }),
-    chrome[t(198) + "us"][t(439)]({
-      id: n[t(270)],
-      type: n[t(223)],
-      contexts: [n[t(380)], n[t(184)]],
-    }),
-    chrome[t(198) + "us"][t(439)]({ id: n[t(319)], title: n[t(172)], contexts: [n[t(380)]] }),
-    chrome[t(198) + "us"][t(439)]({ id: n[t(220)], title: n[t(343)], contexts: [n[t(380)]] }),
-    chrome[t(198) + "us"][t(439)]({
-      id: n[t(257)],
-      type: n[t(223)],
-      contexts: [n[t(380)], n[t(184)]],
-    }),
-    chrome[t(198) + "us"][t(439)]({ id: n[t(421)], title: n[t(299)], contexts: [n[t(184)]] }),
-    chrome[t(198) + "us"][t(439)]({ id: n[t(354)], title: n[t(443)], contexts: [n[t(184)]] });
-  const e =
-    t(180) +
-    t(394) +
-    t(240) +
-    t(232) +
-    t(402) +
-    t(331) +
-    t(196) +
-    t(273) +
-    t(357) +
-    t(325) +
-    t(254) +
-    t(292) +
-    t(349) +
-    t(260) +
-    t(195) +
-    t(359) +
-    t(280) +
-    t(355) +
-    t(424) +
-    t(131) +
-    t(419) +
-    t(253) +
-    t(342) +
-    t(263) +
-    t(376) +
-    t(183) +
-    t(452) +
-    t(245) +
-    t(294) +
-    t(230) +
-    t(364) +
-    t(278) +
-    t(217) +
-    t(400) +
-    t(296) +
-    t(197) +
-    t(323) +
-    t(303) +
-    t(173) +
-    t(361) +
-    t(448) +
-    t(423) +
-    t(274) +
-    t(277) +
-    t(236) +
-    t(437) +
-    t(168) +
-    t(287) +
-    t(345) +
-    t(199) +
-    t(234) +
-    t(132) +
-    t(309) +
-    t(244) +
-    t(334) +
-    t(301) +
-    t(416) +
-    t(430) +
-    t(262) +
-    t(337) +
-    t(317) +
-    t(329) +
-    t(427) +
-    t(411) +
-    t(213) +
-    t(386) +
-    t(318) +
-    t(326) +
-    t(177) +
-    t(258) +
-    t(363) +
-    t(395) +
-    t(315) +
-    t(426) +
-    t(160) +
-    t(229) +
-    t(261) +
-    t(373) +
-    t(405) +
-    t(250) +
-    t(308) +
-    t(211);
-  function r(r) {
-    const o = t,
-      c = {
-        wolVH: function (t, e) {
-          return n[_0x4ffa(398)](t, e);
-        },
-        RafAT: n[o(175)],
-        jTYsc: n[o(179)],
-      };
-    chrome[o(372)][o(235) + o(375)]({
-      target: { tabId: r },
-      func: function (t) {
-        const e = o,
-          r = {
-            iduNw: function (t, e) {
-              return n[_0x4ffa(398)](t, e);
-            },
-            qckPt: n[e(239)],
-            zllIz: n[e(179)],
-          };
-        if (document[e(383) + e(327)](n[e(179)]))
-          return void document[e(383) + e(327)](n[e(179)])[e(140)]();
-        const i = document[e(321) + e(166)](n[e(194)]);
-        (i[e(298)] = t), document[e(312)][e(163) + "d"](i);
-        const u = document[e(383) + e(327)](n[e(350)]);
-        u[e(391)](),
-          u[e(147) + e(320)](n[e(248)], function (t) {
-            const n = e;
-            c[n(154)](t[n(241)], c[n(454)]) &&
-              t[n(358)] &&
-              document[n(383) + n(327)](c[n(288)])[n(140)]();
-          }),
-          document[e(147) + e(320)](n[e(248)], function (t) {
-            const n = e;
-            r[n(302)](t[n(241)], r[n(396)]) && document[n(383) + n(327)](r[n(151)])[n(140)]();
-          });
-      },
-      args: [e],
-    });
-  }
-  async function o() {
-    const e = t,
-      r = await n[e(434)](fetch, n[e(226)]),
-      o = (await r[e(216)]())[e(130)],
-      c = chrome[e(401)][e(384) + "t"]()[e(130)];
-    return (
-      !n[e(133)](n[e(414)](parseFloat, o), n[e(450)](parseFloat, c)) ||
-      (chrome[e(408)][e(439)]({ url: n[e(221)], type: n[e(406)], width: 100, height: 100 }), !1)
-    );
-  }
-  function c() {
-    const e = t,
-      r = n[e(231)];
-    if (document[e(383) + e(327)](r)) return void document[e(383) + e(327)](r)[e(140)]();
-    const o = document[e(321) + e(166)](n[e(194)]);
-    (o.id = r),
-      (o[e(298)] = e(432) + e(146) + e(428) + e(252) + e(268) + e(340) + e(193) + e(374)),
-      (o[e(144)][e(290)] = n[e(404)]),
-      document[e(312)][e(163) + "d"](o),
-      n[e(200)](
-        setTimeout,
-        () => {
-          const t = e;
-          document[t(383) + t(327)](r) && document[t(383) + t(327)](r)[t(140)]();
-        },
-        5e3
-      ),
-      document[e(147) + e(320)](n[e(248)], function t(o) {
-        const c = e;
-        n[c(285)](o[c(241)], n[c(239)]) &&
-          document[c(383) + c(327)](r) &&
-          (document[c(383) + c(327)](r)[c(140)](), document[c(164) + c(238)](n[c(248)], t));
-      });
-  }
-  function i() {
-    const n = t;
-    return window[n(219) + "on"]()[n(137)]();
-  }
-  function u(e, r, o = !1) {
-    const c = t;
-    e
-      ? o
-        ? n[c(335)](showMCQToast, r, e)
-        : (n[c(333)](copyToClipboard, e), n[c(200)](showToast, r, n[c(156)]))
-      : n[c(204)](showToast, r, n[c(167)], !0);
-  }
-  chrome[t(198) + "us"][t(185)][t(379) + "r"](async (e, r) => {
-    const c = t;
-    if (await n[c(233)](o)) {
-      if (
-        (n[c(398)](e[c(249)], n[c(174)]) &&
-          e[c(413) + c(440)] &&
-          chrome[c(372)][c(235) + c(375)]({
-            target: { tabId: r.id },
-            func: (t) => {
-              const e = c,
-                r = document[e(321) + e(166)](n[e(155)]);
-              (r[e(306) + "t"] = t),
-                document[e(312)][e(163) + "d"](r),
-                r[e(415)](),
-                document[e(202) + "d"](n[e(139)]),
-                document[e(312)][e(412) + "d"](r);
-            },
-            args: [e[c(413) + c(440)]],
-          }),
-        n[c(256)](e[c(249)], n[c(220)]) &&
-          chrome[c(372)][c(235) + c(375)]({
-            target: { tabId: r.id },
-            func: async () => {
-              const t = c,
-                e = await navigator[t(126)][t(307)](),
-                r = document[t(332) + t(166)];
-              for (let o of e) {
-                const e = new KeyboardEvent(n[t(248)], {
-                    key: o,
-                    code: n[t(181)](n[t(381)], o[t(289) + "e"]()),
-                    charCode: o[t(135)](0),
-                    keyCode: o[t(135)](0),
-                    which: o[t(135)](0),
-                    bubbles: !0,
-                  }),
-                  c = new KeyboardEvent(n[t(293)], {
-                    key: o,
-                    code: n[t(187)](n[t(381)], o[t(289) + "e"]()),
-                    charCode: o[t(135)](0),
-                    keyCode: o[t(135)](0),
-                    which: o[t(135)](0),
-                    bubbles: !0,
-                  }),
-                  i = new InputEvent(n[t(264)], { data: o, inputType: n[t(210)], bubbles: !0 });
-                r[t(176) + t(166)](e),
-                  r[t(176) + t(166)](c),
-                  (r[t(370)] += o),
-                  r[t(176) + t(166)](i);
-              }
-            },
-          }),
-        n[c(285)](e[c(249)], n[c(319)]) &&
-          chrome[c(372)][c(235) + c(375)]({
-            target: { tabId: r.id },
-            func: async () => {
-              const t = c,
-                e = await navigator[t(126)][t(307)]();
-              (document[t(332) + t(166)][t(370)] = e),
-                document[t(332) + t(166)][t(176) + t(166)](new Event(n[t(264)], { bubbles: !0 }));
-            },
-          }),
-        n[c(398)](e[c(249)], n[c(421)]) && e[c(413) + c(440)])
-      ) {
-        const t = await n[c(450)](queryOpenAI, e[c(413) + c(440)]);
-        n[c(200)](u, t, r.id);
-      }
-      if (n[c(256)](e[c(249)], n[c(354)]) && e[c(413) + c(440)]) {
-        const t = await n[c(200)](queryOpenAI, e[c(413) + c(440)], !0);
-        n[c(378)](u, t, r.id, !0);
-      }
-    }
-  }),
-    chrome[t(433)][t(218)][t(379) + "r"](function (e) {
-      const o = t,
-        c = {
-          sNbki: function (t, e) {
-            return n[_0x4ffa(414)](t, e);
-          },
-        };
-      n[o(398)](e, n[o(314)]) &&
-        chrome[o(282)][o(365)]({ active: !0, currentWindow: !0 }, function (t) {
-          const n = o;
-          t[0] && c[n(162)](r, t[0].id);
-        });
-    }),
-    chrome[t(433)][t(218)][t(379) + "r"](async (e, r) => {
-      const o = t,
-        a = { gXnzE: n[o(155)], xdQoq: n[o(139)] };
-      var s = await n[o(233)](getCredentials);
-      s &&
-        !n[o(225)](s, void 0) &&
-        (n[o(417)](e, n[o(128)]) &&
-          chrome[o(372)][o(235) + o(375)]({
-            target: { tabId: r.id },
-            func: async () => {
-              const t = o,
-                e = await navigator[t(126)][t(307)](),
-                r = document[t(251) + t(127)](n[t(422)]);
-              if (r) {
-                r[t(390)] += e;
-                const o = new Event(n[t(264)], { bubbles: !0 });
-                r[t(176) + t(166)](o);
-              }
-            },
-          }),
-        n[o(285)](e, n[o(136)]) &&
-          chrome[o(372)][o(235) + o(375)]({ target: { tabId: r.id }, function: i }, async (t) => {
-            const c = o;
-            if (t[0]) {
-              const o = n[c(398)](e, n[c(136)]),
-                i = await n[c(335)](queryOpenAI, t[0][c(324)], o);
-              n[c(204)](u, i, r.id, o);
-            }
-          }),
-        n[o(398)](e, n[o(192)]) &&
-          chrome[o(372)][o(235) + o(375)]({
-            target: { tabId: r.id },
-            function: () => {
-              const t = o,
-                n = window[t(219) + "on"]()[t(137)](),
-                e = document[t(321) + t(166)](a[t(385)]);
-              (e[t(306) + "t"] = n),
-                document[t(312)][t(163) + "d"](e),
-                e[t(415)](),
-                document[t(202) + "d"](a[t(201)]),
-                document[t(312)][t(412) + "d"](e);
-            },
-          }),
-        n[o(256)](e, n[o(128)]) &&
-          chrome[o(372)][o(235) + o(375)]({
-            target: { tabId: r.id },
-            func: async () => {
-              const t = o,
-                e = await navigator[t(126)][t(307)]();
-              (document[t(332) + t(166)][t(370)] = e),
-                document[t(332) + t(166)][t(176) + t(166)](new Event(n[t(264)], { bubbles: !0 }));
-            },
-          }),
-        n[o(398)](e, n[o(266)]) &&
-          chrome[o(372)][o(235) + o(375)]({ target: { tabId: r.id }, function: c }),
-        n[o(346)](e, n[o(150)]) &&
-          chrome[o(282)][o(365)]({ active: !0, currentWindow: !0 }, (t) => {
-            const e = o;
-            chrome[e(282)][e(353) + "e"](t[0].id, { action: n[e(188)] });
-          }));
-    });
-}
-function _0x12eb() {
-  const t = [
-    "yHjHP",
-    "stener",
-    "createElem",
-    "----------",
-    's" style="',
-    "result",
-    "0%; backgr",
-    ": 16px; ba",
-    "ById",
-    "copySelect",
-    'e="width: ',
-    "Search wit",
-    "top: 0; le",
-    "activeElem",
-    "oXCtv",
-    " exit</spa",
-    "BmCdg",
-    "#chat-over",
-    "openai-tex",
-    "mVVhJ",
-    "Paste Clip",
-    "width: 255",
-    " right: 20",
-    'tyle="widt',
-    "reVWq",
-    "edText",
-    "d('openai-",
-    "NBXzd",
-    "apping",
-    "popup",
-    "0, 0, 0.8)",
-    "MatQZ",
-    "ard",
-    "2NAWLWS",
-    "sendMessag",
-    "pqCZD",
-    "stify-cont",
-    "x: 9999;",
-    "height: 10",
-    "shiftKey",
-    "gn-items: ",
-    "status",
-    '">\n       ',
-    "----run---",
-    "c2c; color",
-    "44; border",
-    "query",
-    "separator",
-    "https://th",
-    "h OpenAI",
-    "e/updatePo",
-    "value",
-    "typeClipbo",
-    "scripting",
-    "l; outline",
-    ': auto;">',
-    "ipt",
-    "dding: 20p",
-    "oard",
-    "dYtLj",
-    "addListene",
-    "NgEMJ",
-    "bQfao",
-    'ble="true"',
-    "getElement",
-    "getManifes",
-    "gXnzE",
-    "10px 10px;",
-    "pasteClipb",
-    "px; z-inde",
-    "uchno",
-    "innerText",
-    "focus",
-    "data/updat",
-    "show-help",
-    "openai-ove",
-    ": #ffffff;",
-    "qckPt",
-    "Solve MCQ",
-    "YBAHK",
-    "data/lib/s",
-    "    <div i",
-    "runtime",
-    "n: fixed; ",
-    "Successful",
-    "LqVPf",
-    ': none;"><',
-    "MdyeJ",
-    "keydown",
-    "windows",
-    "er 30s.",
-    "rlay",
-    "ht: 100px;",
-    "removeChil",
-    "selectionT",
-    "JOiqb",
-    "select",
-    " </div>\n  ",
-    "XnsgU",
-    "HAzxn",
-    ': 9999;">\n',
-    "image-toas",
-    "gbbgs",
-    "xFbpr",
-    ' style="co',
-    "ent: cente",
-    "editable",
-    "one; borde",
-    "100%; heig",
-    "imgur.com/",
-    "complete",
-    "      <tex",
-    "url",
-    '<img src="',
-    "commands",
-    "JXsOv",
-    "input",
-    "copy",
-    'nclick="do',
-    "position: ",
-    "create",
-    "ext",
-    "ntentedita",
-    "fixed; bot",
-    "ShidJ",
-    "mZVPK",
-    "lay div[co",
-    "Enter",
-    "toggleChat",
-    "     <span",
-    "lay.js",
-    "pxzyR",
-    "QXobO",
-    "und-color:",
-    "toggle-cha",
-    "RafAT",
-    "553966HoYQSq",
-    "clipboard",
-    "tor",
-    "Rlhgj",
-    "15189496QGCDlW",
-    "version",
-    "r; z-index",
-    "ecret Text",
-    "eKoWX",
-    "inject----",
-    "charCodeAt",
-    "WgCct",
-    "toString",
-    "https://",
-    "KlkSD",
-    "remove",
-    "forEach",
-    "15XMyjsO",
-    "vPqtL",
-    "style",
-    "n.js",
-    "https://i.",
-    "addEventLi",
-    "54yBjFQn",
-    "BoODy",
-    "nCbPt",
-    "zllIz",
-    "fSzIL",
-    "1975676KSfshF",
-    "wolVH",
-    "agivG",
-    "fdZVz",
-    " again aft",
-    "TMTvY",
-    "board Cont",
-    "r-radius: ",
-    "tbox",
-    "sNbki",
-    "appendChil",
-    "removeEven",
-    "Escape",
-    "ent",
-    "LpZnO",
-    "cument.get",
-    "KZjdD",
-    "uzFIo",
-    "t/main.js",
-    "ovVGu",
-    "tom: 10px;",
-    "BblhS",
-    "LFlNQ",
-    "dispatchEv",
-    "ckground-c",
-    "ottathukid",
-    "jEiuI",
-    '\n<div id="',
-    "Qndxa",
-    "uUqLc",
-    "x; backgro",
-    "WuQTT",
-    "onClicked",
-    "show-overl",
-    "rUoTK",
-    "OlKwH",
-    "t-overlay",
-    "keypress",
-    ".js",
-    "UKUjT",
-    "px; height",
-    "aEfOw",
-    " flex; ali",
-    "ft: 0; wid",
-    "suggestion",
-    "contextMen",
-    "textbox').",
-    "fODNm",
-    "xdQoq",
-    "execComman",
-    "t/chatOver",
-    "ijaoW",
-    "textarea",
-    "TqcjT",
-    "http://",
-    "OpenAI",
-    "2110764ccCMUm",
-    "IuOEx",
-    ">\n</div>\n",
-    "KwylX",
-    " padding: ",
-    "Key",
-    "warn",
-    "json",
-    'px;">\n    ',
-    "onCommand",
-    "getSelecti",
-    "xXLlF",
-    "ZnhPo",
-    "separator2",
-    "iKQPd",
-    "startsWith",
-    "iAlpY",
-    "DHkaZ",
-    "selection",
-    "l.app/api/",
-    "8px; resiz",
-    "x solid #4",
-    "vVUml",
-    'e="positio',
-    "jCXeU",
-    "value = 'S",
-    "executeScr",
-    'ointer;" o',
-    "t/litc.js",
-    "tListener",
-    "HnizA",
-    'rlay" styl',
-    "key",
-    "4113494uxCXVW",
-    "ents by Sw",
-    "s [Esc] to",
-    " #2c2c2c; ",
-    "separator1",
-    "qrwEB",
-    "WcILI",
-    "menuItemId",
-    "/textarea>",
-    "querySelec",
-    "qEQuh64.pn",
-    "    <div s",
-    "ound-color",
-    "Vseqi",
-    "UFSwe",
-    "fVtby",
-    "olor: #2c2",
-    "custom-pas",
-    "; display:",
-    "e: vertica",
-    'tarea id="',
-    "h: 40%; pa",
-    "duwbl",
-    "fEWuN",
-    "GZcoa",
-    "data/injec",
-    'g" style="',
-    "8584150zJApkx",
-    "ypdaT",
-    "GMwAU",
-    "Copy",
-    "th: 100%; ",
-    "lor: #888;",
-    "Error. Try",
-    "---",
-    " cursor: p",
-    "-radius: 8",
-    "search-mcq",
-    "center; ju",
-    "tom: 20px;",
-    "tabs",
-    "insertText",
-    "custom-cop",
-    "mslVK",
-    "solveMCQ",
-    "ElementByI",
-    "jTYsc",
-    "toUpperCas",
-    "cssText",
-    "searchWith",
-    ": rgba(0, ",
-    "PdWlB",
-    "border: 1p",
-    "Overlay",
-    'd="prompt-',
-    "6273090MVSaRL",
-    "innerHTML",
-    "zkkVd",
-    "howdown.mi",
-    "n>\n       ",
-    "iduNw",
-    "margin-bot",
-    "uven.verce",
-    "pup.html",
-    "textConten",
-    "readText",
-    "\n    </div",
-    "box'\">Pres",
-    "div",
-    "Type Clipb",
-    "body",
-    "onUpdated",
-    "vamfu",
-    " border: n",
-    "t/isolated",
-    'tbox" styl',
-    " font-size",
-  ];
-  return (_0x12eb = function () {
-    return t;
-  })();
-}
-(function (t, n) {
-  const e = _0x268c,
-    r = _0x3fa0();
-  for (;;)
-    try {
-      if (
-        395401 ===
-        parseInt(e(145)) / 1 +
-          parseInt(e(211)) / 2 +
-          parseInt(e(142)) / 3 +
-          (parseInt(e(173)) / 4) * (parseInt(e(179)) / 5) +
-          (parseInt(e(205)) / 6) * (parseInt(e(189)) / 7) +
-          -parseInt(e(206)) / 8 +
-          -parseInt(e(172)) / 9
-      )
-        break;
-      r.push(r.shift());
-    } catch (t) {
-      r.push(r.shift());
-    }
-})(),
-  chrome[_0x6466d6(174)][_0x6466d6(182) + "d"][_0x6466d6(186) + "r"](() => {
-    const t = _0x6466d6,
-      n = { tQeBU: t(178), nbqVt: t(208) + "s" };
-    chrome[t(180)][t(207)][t(193)]([n[t(203)]], (e) => {
-      const r = t;
-      !e[r(208) + "s"] && chrome[r(149)][r(144)]({ popup: n[r(148)] });
+  })(_0x2732),
+  chrome.runtime.onInstalled.addListener(() => {
+    chrome.storage.local.get(["credentials"], (t) => {
+      t.credentials || chrome.action.setPopup({ popup: "popup.html" });
     });
   }),
   (async () => {
-    const t = _0x6466d6,
-      n = {
-        qGgRd: function (t) {
-          return t();
-        },
-      },
-      e = await n[t(157)](getCredentials);
-    console[t(192)](e), e && n[t(157)](injectScript);
+    const t = await getCredentials();
+    console.log(t), t && injectScript();
   })(),
-  chrome[_0x6466d6(174)][_0x6466d6(161)][_0x6466d6(186) + "r"]((t, n, e) => {
-    const r = _0x6466d6,
-      o = {
-        DTMhG: r(208) + r(201),
-        DPXuQ: r(208) + r(181),
-        iCBLN: r(170) + r(169) + r(155),
-        kQDIl: r(147) + r(163),
-        ZUasX: r(210) + r(158),
-        JEYqW: function (t, n) {
-          return t === n;
-        },
-        WmjWm: r(183) + r(168),
-        DlzEF: r(208) + "s",
-        FRTJM: function (t) {
-          return t();
-        },
-        Npsaa: function (t, n) {
-          return t === n;
-        },
-        ZqAMh: r(176),
-        mjJWO: r(153),
-        wOBpX: r(178),
-        meStH: r(151) + r(156),
-      };
-    if ((console[r(192)](o[r(195)], t), o[r(202)](t[r(185)], o[r(177)])))
-      chrome[r(180)][r(207)][r(166)]({ credentials: t[r(165)] }, () => {
-        const t = r;
-        console[t(192)](o[t(204)]);
-      }),
-        console[r(192)](chrome[r(180)][r(207)][r(193)]([o[r(164)]])),
-        o[r(191)](injectScript);
-    else if (o[r(150)](t[r(185)], o[r(209)])) {
-      const t = o[r(197)][r(184)]("|");
-      let n = 0;
-      for (;;) {
-        switch (t[n++]) {
-          case "0":
-            console[r(192)](chrome[r(180)][r(207)][r(193)]([o[r(164)]]));
-            continue;
-          case "1":
-            chrome[r(187) + "us"][r(143)](function () {
-              const t = r;
-              console[t(192)](o[t(141)]);
+  chrome.runtime.onMessage.addListener((t, e, n) => {
+    console.log("message received", t),
+      "success-login" === t.message
+        ? (chrome.storage.local.set({ credentials: t.token }, () => {
+            console.log("credentials saved");
+          }),
+          console.log(chrome.storage.local.get(["credentials"])),
+          injectScript())
+        : "logout-uwu" === t.message
+        ? (chrome.storage.local.remove("credentials", function () {
+            console.log("credentials removed");
+          }),
+          console.log(chrome.storage.local.get(["credentials"])),
+          chrome.contextMenus.removeAll(function () {
+            console.log("All context menus removed.");
+          }),
+          chrome.tabs.query({}, (t) => {
+            t.forEach((t) => {
+              chrome.tabs.reload(t.id);
             });
-            continue;
-          case "2":
-            chrome[r(149)][r(144)]({ popup: o[r(196)] });
-            continue;
-          case "3":
-            chrome[r(200)][r(167)]({}, (t) => {
-              const n = r;
-              t[n(160)]((t) => {
-                const e = n;
-                chrome[e(200)][e(154)](t.id);
-              });
-            });
-            continue;
-          case "4":
-            chrome[r(180)][r(207)][r(188)](o[r(164)], function () {
-              const t = r;
-              console[t(192)](o[t(198)]);
-            });
-            continue;
-        }
-        break;
-      }
-    } else
-      o[r(202)](t[r(185)], o[r(159)]) &&
-        chrome[r(180)][r(207)][r(190)](function () {
-          const t = r;
-          console[t(192)](o[t(199)]),
-            chrome[t(200)][t(167)]({}, (n) => {
-              const e = t,
-                r = n[e(162)](
+          }),
+          chrome.action.setPopup({ popup: "popup.html" }))
+        : "potus-panic-101" === t.message &&
+          chrome.storage.local.clear(function () {
+            console.log("All data cleared."),
+              chrome.tabs.query({}, (t) => {
+                const e = t.map(
                   (t) =>
-                    new Promise((n) => {
-                      const e = _0x268c;
-                      chrome[e(200)][e(154)](t.id, {}, n);
+                    new Promise((e) => {
+                      chrome.tabs.reload(t.id, {}, e);
                     })
                 );
-              Promise[e(171)](r)[e(175)](() => {
-                const t = e;
-                chrome[t(146)][t(194) + t(152)]();
+                Promise.all(e).then(() => {
+                  chrome.management.uninstallSelf();
+                });
               });
-            });
-        });
-  }),
-  (function (t, n) {
-    const e = _0x4ffa,
-      r = _0x12eb();
-    for (;;)
-      try {
-        if (
-          970365 ===
-          (-parseInt(e(352)) / 1) * (parseInt(e(125)) / 2) +
-            -parseInt(e(209)) / 3 +
-            (parseInt(e(153)) / 4) * (-parseInt(e(142)) / 5) +
-            parseInt(e(297)) / 6 +
-            -parseInt(e(242)) / 7 +
-            -parseInt(e(129)) / 8 +
-            (-parseInt(e(148)) / 9) * (-parseInt(e(269)) / 10)
-        )
-          break;
-        r.push(r.shift());
-      } catch (t) {
-        r.push(r.shift());
-      }
-  })();
+          });
+  });
