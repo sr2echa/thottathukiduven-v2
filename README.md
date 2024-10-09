@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/be643797-8d0b-4020-adf3-b3e5be1b467d
 
 <samp> 
 
-[Click here to download the zip](https://github.com/sr2echa/thottathukiduven-v2/releases/download/2.0.1/thottathukiduven-V2.zip) and extract the zip.  <br><br>
+[Click here to download the zip](https://github.com/sr2echa/thottathukiduven-v2/releases/download/2.0.4/thottathukiduven-v2.0.4.zip) and extract the zip.  <br><br>
 Or click the green <kbd> Code </kbd> > <kbd> Download Zip </kbd> and do the same
 
     
