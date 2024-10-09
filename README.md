@@ -55,6 +55,7 @@
 
  - **`Alt` + `T`** : Toggle Context-aware AI Chat.
  - **`Alt` + `X`** : Searches the selected text using OpenAI and provides answers (ideal for MCQs).
+ - **`Alt` + `Z`** : Searches the selected text using OpenAI and copies the response to clipboard.
  - **`Alt` + `C`** : Enables the copy function for selected text.
  - **`Alt` + `V`** : Pastes the clipboard content into the current text field.
 
@@ -63,7 +64,9 @@
 - Double Click on the blue chat icon to open chatbox
 - Both the chat ovelay and the button are draggable and can be adjusted
 - The chat overlay can be resized using the blue square on the bottom right of the chat overlay.
-- fullscreen cannot be bypassed as its a client side restriction. 
+- fullscreen cannot be bypassed as its a client side restriction.
+- logout before logging in to another account. Only 1 acc can login and use an account at a time
+- Use `Remote Logout` feature to logout of previous devices and self destruct in the other logged-in devices 
 
 ## 🚀 Demo
 
