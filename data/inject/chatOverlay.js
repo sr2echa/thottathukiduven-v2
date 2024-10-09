@@ -1,3 +1,7 @@
+if (typeof browser === "undefined") {
+  var browser = chrome;
+}
+
 (function (_0x4e32ff, _0x4cd222) {
   const _0x264362 = _0x9484,
     _0x3586e8 = _0x4e32ff();
@@ -535,7 +539,7 @@
           const _0x3e1944 = _0x2f806c;
           (_0x10c73b = []),
             (_0x3a7cfd[_0x3e1944(0x246)] = ""),
-            chrome[_0x3e1944(0x23e)][_0x3e1944(0x178) + "e"]({
+            browser[_0x3e1944(0x23e)][_0x3e1944(0x178) + "e"]({
               action: _0x253de0[_0x3e1944(0x29e)],
             });
         }),
@@ -548,7 +552,7 @@
             while (!![]) {
               switch (_0x43b394[_0x56eaca++]) {
                 case "0":
-                  chrome[_0x581e6d(0x23e)][_0x581e6d(0x178) + "e"]({
+                  browser[_0x581e6d(0x23e)][_0x581e6d(0x178) + "e"]({
                     action: _0x33ab05[_0x581e6d(0x2d4)],
                     message: _0x928055,
                     context: _0x10c73b,
@@ -819,7 +823,7 @@
         (_0x5e8348[_0x521379(0x28b)] = _0x5e8348[_0x521379(0x295) + "ht"]);
     }
     _0x33ab05[_0x2bd71b(0x304)](_0x4fed4b),
-      chrome[_0x2bd71b(0x23e)][_0x2bd71b(0x31b)][_0x2bd71b(0x224) + "r"](
+      browser[_0x2bd71b(0x23e)][_0x2bd71b(0x31b)][_0x2bd71b(0x224) + "r"](
         (_0x869570, _0xc273af, _0x53a1b4) => {
           const _0x555e04 = _0x2bd71b;
           if (

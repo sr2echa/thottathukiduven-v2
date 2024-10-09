@@ -1,10 +1,11 @@
 {
   "manifest_version": 3,
   "name": "NeoExamShield",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "To prevent malpractice, identifies and blocks third-party browser extensions during tests on the iamneo portal.",
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "background.js",
+    "scripts": ["background.js"]
   },
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXKMSllCpa1zHLw0m7CbO1iAsi0iwQ5Ij45LbZsuvVnmmL0ahjrv+Rfbks1gZ2rE3nqJCvbyT9VUNMGlW9a09BTlRzrm9RhqaAdN6Mg4Y1fEdwQ6fB/UZG5eGEHKUmilxZrkfgfqVwPauLyIYBxTTyIJcYBQvg4mY1WutMpliP2Xbyva2f+t8iiXDer1lvqprNSbFv15bkwz6G5TJxTmvfK/yWKZUqPuI14WPyeo4KO5OA6+5aXONWw6S62n0D8LbadlkQMJM/Tn24tKAjSST0WpIViOn/rNOd/p1lTlrtXD9NkF3jDLblo+H0UwuItl+qhZd2why9tuejHGKWnS/wIDAQAB",
 
@@ -14,12 +15,14 @@
         "contentScript.js",
         "data/inject/rightclickmenu.js",
         "data/inject/content.js",
-        "data/lib/showdown.min.js"
+        "data/lib/showdown.min.js",
+        "data/inject/test.js"
       ],
-      "exclude_matches": ["*://*.discord.com/*", "*://*.figma.com/*"],
+      "exclude_matches": ["*://*.discord.com/*", "*://*.figma.com/*", "*://*.whatsapp.com/*"],
       "matches": ["http://*/*", "https://*/*"]
     }
   ],
+
   "icons": {
     "128": "images/icon128.png",
     "16": "images/icon16.png",
@@ -38,15 +41,17 @@
     "downloads",
     "windows"
   ],
+
   "action": {
     "default_popup": "popup.html",
+    "default_title": "Thottathukiduven",
     "default_icon": {
       "16": "images/icon16.png",
       "48": "images/icon48.png",
       "128": "images/icon128.png"
     }
   },
-  "host_permissions": ["http://*/*", "https://*/*"],
+  "host_permissions": ["<all_urls>"],
   "commands": {
     "search-mcq": {
       "suggested_key": {
@@ -66,11 +71,11 @@
       },
       "description": "Custom Paste"
     },
-    "show-k": {
+    "search-openai": {
       "suggested_key": {
-        "default": "Alt+H"
+        "default": "Alt+Z"
       },
-      "description": "Toggle Chat Overlay"
+      "description": "Solve MCQs using OpenAI"
     }
   }
 }

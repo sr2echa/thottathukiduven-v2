@@ -1,3 +1,7 @@
+if (typeof browser === "undefined") {
+  var browser = chrome;
+}
+
 function _0xb9dd(t, n) {
   const e = _0x5445();
   return (_0xb9dd = function (t, n) {
@@ -196,7 +200,7 @@ function _0x5445() {
     async function i() {
       const e = t,
         o = { sPbUi: n[e(215)] };
-      chrome[e(218)][e(273)][e(202)]([n[e(184)]], (t) => {
+      browser[e(218)][e(273)][e(202)]([n[e(184)]], (t) => {
         const s = e,
           c = { ytikg: n[s(188)] };
         return (
@@ -223,7 +227,7 @@ function _0x5445() {
         c = a[e(203)][e(272)]();
       n[e(213)](o[e(205)], 10) && n[e(194)](c[e(205)], 0) ? (s[e(235)] = !1) : (s[e(235)] = !0);
     }
-    chrome[t(218)][t(273)][t(202)]([n[t(184)]], (s) => {
+    browser[t(218)][t(273)][t(202)]([n[t(184)]], (s) => {
       const c = t;
       s[c(240) + "s"]
         ? ((e[c(286)][c(196)] = n[c(242)]), (o[c(286)][c(196)] = n[c(251)]))
@@ -245,12 +249,15 @@ function _0x5445() {
             const r = s,
               a = { hJTnq: n[r(242)], Mxhsx: n[r(251)] };
             n[r(213)](t[r(271)], n[r(227)])
-              ? (chrome[r(218)][r(273)][r(230)]({ credentials: c + (r(268) + "^") + u }, () => {
+              ? (browser[r(218)][r(273)][r(230)]({ credentials: c + (r(268) + "^") + u }, () => {
                   const t = r;
                   (e[t(286)][t(196)] = a[t(281)]), (o[t(286)][t(196)] = a[t(241)]);
                 }),
-                chrome[r(186)][r(244) + "e"]({ message: n[r(261)], token: c + (r(268) + "^") + u }))
-              : (console[r(283)](t), chrome[r(186)][r(244) + "e"](t), n[r(195)](alert, t[r(279)]));
+                browser[r(186)][r(244) + "e"]({
+                  message: n[r(261)],
+                  token: c + (r(268) + "^") + u,
+                }))
+              : (console[r(283)](t), browser[r(186)][r(244) + "e"](t), n[r(195)](alert, t[r(279)]));
           })
           [s(290)]((t) => {
             const e = s;
@@ -260,16 +267,16 @@ function _0x5445() {
       c[t(282) + t(226)](n[t(201)], async () => {
         const s = t;
         await n[s(260)](i);
-        chrome[s(218)][s(273)][s(229)](n[s(184)], () => {
+        browser[s(218)][s(273)][s(229)](n[s(184)], () => {
           const t = s;
           (e[t(286)][t(196)] = n[t(266)]),
             (o[t(286)][t(196)] = n[t(242)]),
-            chrome[t(186)][t(244) + "e"]({ message: n[t(228)] });
+            browser[t(186)][t(244) + "e"]({ message: n[t(228)] });
         });
       }),
       u[t(282) + t(226)](n[t(201)], async () => {
         const e = t;
         await n[e(260)](i);
-        chrome[e(186)][e(244) + "e"]({ message: n[e(234)] });
+        browser[e(186)][e(244) + "e"]({ message: n[e(234)] });
       });
   });
