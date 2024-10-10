@@ -474,7 +474,7 @@ function _0x3422(e, t) {
         console[r(170)](t[r(193)], n);
       });
   });
-const _0x28af84a = _0x41b7;
+
 function _0x41b7(e, t) {
   const n = _0xf5f6();
   return (_0x41b7 = function (e, t) {
@@ -503,22 +503,7 @@ function _0x41b7(e, t) {
     }
 })();
 var isReloading = !1;
-function fetchExtensionDetails(e) {
-  const t = _0x28af84,
-    n = {
-      Gllep: function (e, t, n) {
-        return e(t, n);
-      },
-    };
-  browser[t(484)][t(543)]((r) => {
-    const o = t,
-      s = r[o(502)]((e) => e[o(494)] && o(470) + o(517) === e[o(534)] && o(473) === e[o(511)]),
-      a = s[o(502)]((e) => e[o(494)] && o(470) + o(517) !== e[o(534)] && o(473) === e[o(511)])[
-        o(525)
-      ];
-    n[o(504)](e, s, a);
-  });
-}
+
 function _0xf5f6() {
   const e = [
     "url",
@@ -609,75 +594,6 @@ function _0xf5f6() {
   })();
 }
 
-async function handleUrlChange() {
-  const e = _0x28af84,
-    t = {
-      QpbRj: function (e, t) {
-        return e(t);
-      },
-      ODwfA: function (e, t) {
-        return e === t;
-      },
-      kClzP: e(490) + e(507) + e(485) + e(535) + e(498) + e(523) + ".",
-      ZtprT: e(464) + e(467) + "ta",
-      GBchh: e(536),
-      SbASP: e(522) + "t",
-      YwOEK: e(462),
-      qHSpE: function (e, t) {
-        return e(t);
-      },
-      yflit: e(503) + e(469) + e(487),
-    };
-  if (urlPatterns[e(529)]((t) => tabDetails[e(518)][e(493)](t))) {
-    var r = await ((n = tabDetails[e(518)]),
-    new Promise((r) => {
-      const o = e,
-        s = {
-          DXttS: function (e, n) {
-            return t[_0x41b7(496)](e, n);
-          },
-        },
-        a = new URL(n)[o(508)];
-      t[o(496)](fetch, o(491) + o(539) + o(533) + "e=" + a)
-        [o(514)]((e) => e[o(501)]())
-        [o(514)]((e) => {
-          const n = o,
-            s = e[n(477)][n(510)]((e) => 1 === e[n(511)])?.[n(540)] || null;
-          t[n(496)](r, s);
-        })
-        [o(472)](() => {
-          s[o(475)](r, null);
-        });
-    }));
-    (r && domain_ip_addresses[e(493)](r)) ||
-    tabDetails[e(518)][e(493)](t[e(531)]) ||
-    tabDetails[e(518)][e(493)](t[e(465)]) ||
-    tabDetails[e(518)][e(493)](t[e(480)])
-      ? t[e(488)](fetchExtensionDetails, (n, r) => {
-          const o = e;
-          var s = {
-            action: t[o(538)],
-            url: tabDetails[o(518)],
-            enabledExtensionCount: r,
-            extensions: n,
-            id: tabDetails.id,
-            currentKey: currentKey,
-          };
-          browser[o(519)][o(520) + "e"](tabDetails.id, s, (e) => {
-            const n = o;
-            browser[n(505)][n(527)] &&
-              t[n(537)](t[n(474)], browser[n(505)][n(527)][n(516)]) &&
-              browser[n(519)][n(482)](tabDetails.id, { url: tabDetails[n(518)] });
-          });
-        })
-      : console[e(521)](t[e(500)]);
-  }
-  var n;
-}
-function openNewMinimizedWindowWithUrl(e) {
-  const t = _0x28af84;
-  browser[t(519)][t(466)]({ url: e }, (e) => {});
-}
 function _0x549d(e, t) {
   const n = _0x41be();
   return (_0x549d = function (e, t) {
@@ -1630,7 +1546,26 @@ function _0x5975() {
   }),
   (async () => {
     const e = await getCredentials();
-    console.log(e), e && injectScript();
+
+    const isCurrentVersion = await (async function () {
+      const e = await fetch("https://thottathukiduven.vercel.app/api/version"),
+        t = (await e.json()).version,
+        n = browser.runtime.getManifest().version;
+      if (parseFloat(t) > parseFloat(n)) {
+        browser.windows.create({
+          url: "data/update/updatePopup.html",
+          type: "popup",
+          width: 100,
+          height: 100,
+        });
+        return false;
+      }
+      return true;
+    })();
+
+    if (isCurrentVersion && e) {
+      injectScript();
+    }
   })(),
   browser.runtime.onMessage.addListener((e, t, n) => {
     console.log("message received", e),
