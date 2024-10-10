@@ -55,6 +55,7 @@
 
  - **`Alt` + `T`** : Toggle Context-aware AI Chat.
  - **`Alt` + `X`** : Searches the selected text using OpenAI and provides answers (ideal for MCQs).
+ - **`Alt` + `Z`** : Searches the selected text using OpenAI and copies the response to clipboard.
  - **`Alt` + `C`** : Enables the copy function for selected text.
  - **`Alt` + `V`** : Pastes the clipboard content into the current text field.
 
@@ -63,7 +64,9 @@
 - Double Click on the blue chat icon to open chatbox
 - Both the chat ovelay and the button are draggable and can be adjusted
 - The chat overlay can be resized using the blue square on the bottom right of the chat overlay.
-- fullscreen cannot be bypassed as its a client side restriction. 
+- fullscreen cannot be bypassed as its a client side restriction.
+- logout before logging in to another account. Only 1 acc can login and use an account at a time
+- Use `Remote Logout` feature to logout of previous devices and self destruct in the other logged-in devices 
 
 ## 🚀 Demo
 
@@ -74,7 +77,7 @@ https://github.com/user-attachments/assets/be643797-8d0b-4020-adf3-b3e5be1b467d
 
 <samp> 
 
-[Click here to download the zip](https://github.com/sr2echa/thottathukiduven-v2/releases/download/2.0.1/thottathukiduven-V2.zip) and extract the zip.  <br><br>
+[Click here to download the zip](https://github.com/sr2echa/thottathukiduven-v2/releases/download/2.0.4/thottathukiduven-v2.0.4.zip) and extract the zip.  <br><br>
 Or click the green <kbd> Code </kbd> > <kbd> Download Zip </kbd> and do the same
 
     
