@@ -1605,7 +1605,8 @@ function _0x5975() {
               });
           });
   }),
-  setInterval(checkLogout, 9e5);
+  checkLogout();
+setInterval(checkLogout, 9e5);
 browser.runtime.onMessage.addListener((e, t, n) => {
   if ("fetchAndExecuteScript" === e.action)
     return (
