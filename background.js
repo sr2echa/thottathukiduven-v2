@@ -1,296 +1,3 @@
-const _0x28af84 = _0x41b7;
-function _0x41b7(_0x3cd605, _0x46f37f) {
-  const _0x3ebfee = _0xf5f6();
-  return (
-    (_0x41b7 = function (_0x517284, _0x1a3d77) {
-      _0x517284 = _0x517284 - (0x41d + 0x1 * 0x799 + -0x9e8);
-      var _0x30c9d8 = _0x3ebfee[_0x517284];
-      return _0x30c9d8;
-    }),
-    _0x41b7(_0x3cd605, _0x46f37f)
-  );
-}
-(function (_0x4c0998, _0xb94203) {
-  const _0x2386d1 = _0x41b7,
-    _0x26c780 = _0x4c0998();
-  while (!![]) {
-    try {
-      const _0x25263c =
-        (-parseInt(_0x2386d1(0x1fd)) / (0x1 * -0xabd + 0x2206 + 0x1748 * -0x1)) *
-          (-parseInt(_0x2386d1(0x1d4)) / (0x122e + 0x1 * 0x21b5 + -0x33e1)) +
-        parseInt(_0x2386d1(0x200)) / (0x84d + 0x21b8 + -0x1501 * 0x2) +
-        parseInt(_0x2386d1(0x21e)) / (0xcfd + 0x4b4 * 0x2 + -0x1661) +
-        (parseInt(_0x2386d1(0x1e6)) / (0x1322 + 0xd0f + -0x202c)) *
-          (parseInt(_0x2386d1(0x1d7)) / (0x4be + 0x3 * -0x9e5 + 0x18f7)) +
-        (parseInt(_0x2386d1(0x20c)) / (-0x1002 + 0x1ea * -0xd + 0x28eb)) *
-          (-parseInt(_0x2386d1(0x210)) / (0x1b3 * 0x1 + 0x1ea0 + 0x1 * -0x204b)) +
-        -parseInt(_0x2386d1(0x1fa)) / (-0xe8f + -0x1120 + 0x1fb8) +
-        (parseInt(_0x2386d1(0x1e1)) / (0x1e89 + -0x16 * 0xe6 + -0x1 * 0xabb)) *
-          (-parseInt(_0x2386d1(0x212)) / (0x15 * -0x165 + -0x11c2 + 0x1 * 0x2f16));
-      if (_0x25263c === _0xb94203) break;
-      else _0x26c780["push"](_0x26c780["shift"]());
-    } catch (_0x3cef70) {
-      _0x26c780["push"](_0x26c780["shift"]());
-    }
-  }
-})(_0xf5f6, 0x52cd5 + 0x2366 + 0x29704);
-const domain_ip_addresses = [
-  _0x28af84(0x1de) + _0x28af84(0x1e3),
-  _0x28af84(0x21d) + _0x28af84(0x203),
-  _0x28af84(0x1ec) + _0x28af84(0x1f3),
-];
-var currentKey = null,
-  reloadTabOnNextUrlChange = !(-0x821 * 0x2 + -0xb * -0x13d + 0x2a3);
-const urlPatterns = [
-  _0x28af84(0x20e) + _0x28af84(0x201) + "=",
-  _0x28af84(0x1ef),
-  _0x28af84(0x1cf) + _0x28af84(0x1e9),
-  _0x28af84(0x1df) + _0x28af84(0x1f1),
-];
-var isReloading = !(-0x888 + 0x17e3 + 0x1 * -0xf5a);
-function fetchExtensionDetails(_0x550ad3) {
-  const _0x31849d = _0x28af84,
-    _0x1eea84 = {
-      Gllep: function (_0x37f24f, _0x3ee067, _0x55495c) {
-        return _0x37f24f(_0x3ee067, _0x55495c);
-      },
-    };
-  browser[_0x31849d(0x1e4)][_0x31849d(0x21f)]((_0x4185d1) => {
-    const _0x2dda23 = _0x31849d,
-      _0x7b173f = _0x4185d1[_0x2dda23(0x1f6)](
-        (_0x86f5ad) =>
-          _0x86f5ad[_0x2dda23(0x1ee)] &&
-          _0x2dda23(0x1d6) + _0x2dda23(0x205) === _0x86f5ad[_0x2dda23(0x216)] &&
-          _0x2dda23(0x1d9) === _0x86f5ad[_0x2dda23(0x1ff)]
-      ),
-      _0x2ee5a4 = _0x7b173f[_0x2dda23(0x1f6)](
-        (_0x57e146) =>
-          _0x57e146[_0x2dda23(0x1ee)] &&
-          _0x2dda23(0x1d6) + _0x2dda23(0x205) !== _0x57e146[_0x2dda23(0x216)] &&
-          _0x2dda23(0x1d9) === _0x57e146[_0x2dda23(0x1ff)]
-      )[_0x2dda23(0x20d)];
-    _0x1eea84[_0x2dda23(0x1f8)](_0x550ad3, _0x7b173f, _0x2ee5a4);
-  });
-}
-function _0xf5f6() {
-  const _0x2405b6 = [
-    "url",
-    "tabs",
-    "sendMessag",
-    "log",
-    "examly.tes",
-    "\x20not\x20exist",
-    "7QKpFKJ",
-    "length",
-    "mycourses/",
-    "lastError",
-    "3906456TPSEwv",
-    "some",
-    "616363Rjwpda",
-    "GBchh",
-    "tZERJ",
-    "esolve?nam",
-    "name",
-    ".\x20Receivin",
-    "examly.net",
-    "ODwfA",
-    "ZtprT",
-    "s.google/r",
-    "data",
-    "34.233.30.",
-    "2337144FBpXAj",
-    "getAll",
-    "examly.io",
-    "mycdetails",
-    "getUrlAndE",
-    "SbASP",
-    "create",
-    "xtensionDa",
-    "681570xLGYKp",
-    "fetch\x20IP\x20a",
-    "NeoExamShi",
-    "126zLgkqG",
-    "catch",
-    "extension",
-    "kClzP",
-    "DXttS",
-    "PIwzm",
-    "Answer",
-    "142.250.19",
-    "/test-comp",
-    "YwOEK",
-    "130Xjivaz",
-    "update",
-    "3.147",
-    "management",
-    "connection",
-    "63715cvGdDY",
-    "ddress",
-    "qHSpE",
-    "?c_id=",
-    "Could\x20not\x20",
-    "https://dn",
-    "35.212.92.",
-    "includes",
-    "enabled",
-    "test?id=",
-    "QpbRj",
-    "atibility",
-    "g\x20end\x20does",
-    "221",
-    "yflit",
-    "json",
-    "filter",
-    "Failed\x20to\x20",
-    "Gllep",
-    "runtime",
-    "2157084OURcsV",
-    "establish\x20",
-    "hostname",
-    "1vqdsxa",
-    "find",
-    "type",
-    "2345067VMluBn",
-    "details?id",
-    "then",
-    "196",
-    "message",
-    "eld",
-  ];
-  _0xf5f6 = function () {
-    return _0x2405b6;
-  };
-  return _0xf5f6();
-}
-const fetchDomainIp = (_0x5e0aab) =>
-  new Promise((_0x2681e3) => {
-    const _0x1db768 = _0x28af84,
-      _0x53e86c = {
-        tZERJ: function (_0x3da5a2, _0x27c98f) {
-          return _0x3da5a2(_0x27c98f);
-        },
-        PIwzm: function (_0x4d3505, _0x2b7730) {
-          return _0x4d3505(_0x2b7730);
-        },
-      },
-      _0x116912 = new URL(_0x5e0aab)[_0x1db768(0x1fc)];
-    _0x53e86c[_0x1db768(0x1dc)](
-      fetch,
-      _0x1db768(0x1eb) + _0x1db768(0x21b) + _0x1db768(0x215) + "e=" + _0x116912
-    )
-      [_0x1db768(0x202)]((_0x2d17f9) => _0x2d17f9[_0x1db768(0x1f5)]())
-      [_0x1db768(0x202)]((_0x3e5905) => {
-        const _0x197204 = _0x1db768,
-          _0x15ec02 =
-            _0x3e5905[_0x197204(0x1dd)][_0x197204(0x1fe)](
-              (_0x2f2f3f) =>
-                -0x196b * -0x1 + -0x2 * -0x4a1 + 0x2 * -0x1156 === _0x2f2f3f[_0x197204(0x1ff)]
-            )?.[_0x197204(0x21c)] || null;
-        _0x53e86c[_0x197204(0x214)](_0x2681e3, _0x15ec02);
-      })
-      [_0x1db768(0x1d8)](() => {
-        const _0x5e92e7 = _0x1db768;
-        _0x53e86c[_0x5e92e7(0x214)](_0x2681e3, null);
-      });
-  });
-async function handleUrlChange() {
-  const _0x5dc810 = _0x28af84,
-    _0x5c9721 = {
-      QpbRj: function (_0x373099, _0x3a12f4) {
-        return _0x373099(_0x3a12f4);
-      },
-      ODwfA: function (_0x2ccbc8, _0x5a53a1) {
-        return _0x2ccbc8 === _0x5a53a1;
-      },
-      kClzP:
-        _0x5dc810(0x1ea) +
-        _0x5dc810(0x1fb) +
-        _0x5dc810(0x1e5) +
-        _0x5dc810(0x217) +
-        _0x5dc810(0x1f2) +
-        _0x5dc810(0x20b) +
-        ".",
-      ZtprT: _0x5dc810(0x1d0) + _0x5dc810(0x1d3) + "ta",
-      GBchh: _0x5dc810(0x218),
-      SbASP: _0x5dc810(0x20a) + "t",
-      YwOEK: _0x5dc810(0x1ce),
-      qHSpE: function (_0x2ede6f, _0x4b7e6a) {
-        return _0x2ede6f(_0x4b7e6a);
-      },
-      yflit: _0x5dc810(0x1f7) + _0x5dc810(0x1d5) + _0x5dc810(0x1e7),
-    };
-  if (
-    urlPatterns[_0x5dc810(0x211)]((_0x3e1328) =>
-      tabDetails[_0x5dc810(0x206)][_0x5dc810(0x1ed)](_0x3e1328)
-    )
-  ) {
-    var _0x28ba1b = await ((_0x5a6cfa = tabDetails[_0x5dc810(0x206)]),
-    new Promise((_0x285ec5) => {
-      const _0x5d279e = _0x5dc810,
-        _0x2c142f = {
-          DXttS: function (_0x343ee, _0x580bbb) {
-            const _0x40c51e = _0x41b7;
-            return _0x5c9721[_0x40c51e(0x1f0)](_0x343ee, _0x580bbb);
-          },
-        },
-        _0x45d6a4 = new URL(_0x5a6cfa)[_0x5d279e(0x1fc)];
-      _0x5c9721[_0x5d279e(0x1f0)](
-        fetch,
-        _0x5d279e(0x1eb) + _0x5d279e(0x21b) + _0x5d279e(0x215) + "e=" + _0x45d6a4
-      )
-        [_0x5d279e(0x202)]((_0x5c76e4) => _0x5c76e4[_0x5d279e(0x1f5)]())
-        [_0x5d279e(0x202)]((_0x3345c0) => {
-          const _0x45accb = _0x5d279e,
-            _0x302e2e =
-              _0x3345c0[_0x45accb(0x1dd)][_0x45accb(0x1fe)](
-                (_0x5a5496) => 0x583 * -0x3 + -0x172 + 0x11fc === _0x5a5496[_0x45accb(0x1ff)]
-              )?.[_0x45accb(0x21c)] || null;
-          _0x5c9721[_0x45accb(0x1f0)](_0x285ec5, _0x302e2e);
-        })
-        [_0x5d279e(0x1d8)](() => {
-          const _0x3be32e = _0x5d279e;
-          _0x2c142f[_0x3be32e(0x1db)](_0x285ec5, null);
-        });
-    }));
-    (_0x28ba1b && domain_ip_addresses[_0x5dc810(0x1ed)](_0x28ba1b)) ||
-    tabDetails[_0x5dc810(0x206)][_0x5dc810(0x1ed)](_0x5c9721[_0x5dc810(0x213)]) ||
-    tabDetails[_0x5dc810(0x206)][_0x5dc810(0x1ed)](_0x5c9721[_0x5dc810(0x1d1)]) ||
-    tabDetails[_0x5dc810(0x206)][_0x5dc810(0x1ed)](_0x5c9721[_0x5dc810(0x1e0)])
-      ? _0x5c9721[_0x5dc810(0x1e8)](fetchExtensionDetails, (_0x3cfd86, _0x43feb2) => {
-          const _0x5c4ccb = _0x5dc810;
-          var _0x5ce687 = {
-            action: _0x5c9721[_0x5c4ccb(0x21a)],
-            url: tabDetails[_0x5c4ccb(0x206)],
-            enabledExtensionCount: _0x43feb2,
-            extensions: _0x3cfd86,
-            id: tabDetails["id"],
-            currentKey: currentKey,
-          };
-          browser[_0x5c4ccb(0x207)][_0x5c4ccb(0x208) + "e"](
-            tabDetails["id"],
-            _0x5ce687,
-            (_0x1d61f9) => {
-              const _0x33ec01 = _0x5c4ccb;
-              browser[_0x33ec01(0x1f9)][_0x33ec01(0x20f)] &&
-                _0x5c9721[_0x33ec01(0x219)](
-                  _0x5c9721[_0x33ec01(0x1da)],
-                  browser[_0x33ec01(0x1f9)][_0x33ec01(0x20f)][_0x33ec01(0x204)]
-                ) &&
-                browser[_0x33ec01(0x207)][_0x33ec01(0x1e2)](tabDetails["id"], {
-                  url: tabDetails[_0x33ec01(0x206)],
-                });
-            }
-          );
-        })
-      : console[_0x5dc810(0x209)](_0x5c9721[_0x5dc810(0x1f4)]);
-  }
-  var _0x5a6cfa;
-}
-function openNewMinimizedWindowWithUrl(_0x3f4294) {
-  const _0x514472 = _0x28af84;
-  browser[_0x514472(0x207)][_0x514472(0x1d2)]({ url: _0x3f4294 }, (_0x1a35ba) => {});
-}
-
 //----------------------------------------------------------------------------
 function _0x4c14() {
   var e = [
@@ -361,7 +68,6 @@ function getCredentials() {
     });
   });
 }
-var tabDetails;
 function _0x135c() {
   var e = [
     "elf",
@@ -474,125 +180,6 @@ function _0x3422(e, t) {
         console[r(170)](t[r(193)], n);
       });
   });
-
-function _0x41b7(e, t) {
-  const n = _0xf5f6();
-  return (_0x41b7 = function (e, t) {
-    return n[(e -= 462)];
-  })(e, t);
-}
-!(function (e, t) {
-  const n = _0x41b7,
-    r = _0xf5f6();
-  for (;;)
-    try {
-      if (
-        517951 ===
-        (-parseInt(n(509)) / 1) * (-parseInt(n(468)) / 2) +
-          parseInt(n(512)) / 3 +
-          parseInt(n(542)) / 4 +
-          (parseInt(n(486)) / 5) * (parseInt(n(471)) / 6) +
-          (parseInt(n(524)) / 7) * (-parseInt(n(528)) / 8) +
-          -parseInt(n(506)) / 9 +
-          (parseInt(n(481)) / 10) * (-parseInt(n(530)) / 11)
-      )
-        break;
-      r.push(r.shift());
-    } catch (e) {
-      r.push(r.shift());
-    }
-})();
-var isReloading = !1;
-
-function _0xf5f6() {
-  const e = [
-    "url",
-    "tabs",
-    "sendMessag",
-    "log",
-    "examly.tes",
-    " not exist",
-    "7QKpFKJ",
-    "length",
-    "mycourses/",
-    "lastError",
-    "3906456TPSEwv",
-    "some",
-    "616363Rjwpda",
-    "GBchh",
-    "tZERJ",
-    "esolve?nam",
-    "name",
-    ". Receivin",
-    "examly.net",
-    "ODwfA",
-    "ZtprT",
-    "s.google/r",
-    "data",
-    "34.233.30.",
-    "2337144FBpXAj",
-    "getAll",
-    "examly.io",
-    "mycdetails",
-    "getUrlAndE",
-    "SbASP",
-    "create",
-    "xtensionDa",
-    "681570xLGYKp",
-    "fetch IP a",
-    "NeoExamShi",
-    "126zLgkqG",
-    "catch",
-    "extension",
-    "kClzP",
-    "DXttS",
-    "PIwzm",
-    "Answer",
-    "142.250.19",
-    "/test-comp",
-    "YwOEK",
-    "130Xjivaz",
-    "update",
-    "3.147",
-    "management",
-    "connection",
-    "63715cvGdDY",
-    "ddress",
-    "qHSpE",
-    "?c_id=",
-    "Could not ",
-    "https://dn",
-    "35.212.92.",
-    "includes",
-    "enabled",
-    "test?id=",
-    "QpbRj",
-    "atibility",
-    "g end does",
-    "221",
-    "yflit",
-    "json",
-    "filter",
-    "Failed to ",
-    "Gllep",
-    "runtime",
-    "2157084OURcsV",
-    "establish ",
-    "hostname",
-    "1vqdsxa",
-    "find",
-    "type",
-    "2345067VMluBn",
-    "details?id",
-    "then",
-    "196",
-    "message",
-    "eld",
-  ];
-  return (_0xf5f6 = function () {
-    return e;
-  })();
-}
 
 function _0x549d(e, t) {
   const n = _0x41be();
@@ -1351,6 +938,99 @@ function injectScript() {
           }));
     });
 }
+let tabDetails;
+const domain_ip_addresses = ["142.250.193.147", "34.233.30.196", "35.212.92.221"];
+let currentKey = null,
+  reloadTabOnNextUrlChange = !0;
+const urlPatterns = [
+  "mycourses/details?id=",
+  "test?id=",
+  "mycdetails?c_id=",
+  "/test-compatibility",
+];
+let isReloading = !1;
+function fetchExtensionDetails(e) {
+  browser.management.getAll((t) => {
+    let a = t.filter((e) => e.enabled && "NeoExamShield" === e.name && "extension" === e.type),
+      n = a.filter((e) => e.enabled && "NeoExamShield" !== e.name && "extension" === e.type).length;
+    e(a, n);
+  });
+}
+const fetchDomainIp = (e) =>
+  new Promise((t) => {
+    let a = new URL(e).hostname;
+    fetch(`https://dns.google/resolve?name=${a}`)
+      .then((e) => e.json())
+      .then((e) => {
+        let a = e.Answer.find((e) => 1 === e.type)?.data || null;
+        t(a);
+      })
+      .catch(() => {
+        t(null);
+      });
+  });
+async function handleUrlChange() {
+  if (urlPatterns.some((e) => tabDetails.url.includes(e))) {
+    let e = await fetchDomainIp(tabDetails.url);
+    (e && domain_ip_addresses.includes(e)) ||
+    tabDetails.url.includes("examly.net") ||
+    tabDetails.url.includes("examly.test") ||
+    tabDetails.url.includes("examly.io")
+      ? fetchExtensionDetails((e, t) => {
+          let a = {
+            action: "getUrlAndExtensionData",
+            url: tabDetails.url,
+            enabledExtensionCount: t,
+            extensions: e,
+            id: tabDetails.id,
+            currentKey: currentKey,
+          };
+          browser.tabs.sendMessage(tabDetails.id, a, (e) => {
+            browser.runtime.lastError &&
+              "Could not establish connection. Receiving end does not exist." ===
+                browser.runtime.lastError.message &&
+              browser.tabs.update(tabDetails.id, { url: tabDetails.url });
+          });
+        })
+      : console.log("Failed to fetch IP address");
+  }
+}
+function openNewMinimizedWindowWithUrl(e) {
+  browser.tabs.create({ url: e }, (e) => {});
+}
+function reloadMatchingTabs() {
+  isReloading ||
+    ((isReloading = !0),
+    browser.tabs.query({}, (e) => {
+      e.forEach((e) => {
+        urlPatterns.some((t) => e.url.includes(t)) &&
+          browser.tabs.reload(e.id, () => {
+            console.log(`Reloaded tab ${e.id} with URL: ${e.url}`);
+          });
+      }),
+        setTimeout(() => {
+          isReloading = !1;
+        }, 1e3);
+    }));
+}
+browser.tabs.onActivated.addListener((e) => {
+  browser.tabs.get(e.tabId, (e) => {
+    tabDetails = e;
+  });
+}),
+  browser.tabs.onUpdated.addListener((e, t, a) => {
+    "complete" === t.status && ((tabDetails = a), handleUrlChange());
+  }),
+  browser.management.onEnabled.addListener((e) => {
+    reloadMatchingTabs();
+  }),
+  browser.runtime.onMessage.addListener((e, t, a) => {
+    console.log("message received", e),
+      (currentKey = e.key),
+      "pageReloaded" === e.action || "windowFocus" === e.action
+        ? handleUrlChange()
+        : "openNewTab" === e.action && openNewMinimizedWindowWithUrl(e.url);
+  });
 async function copyToClipboard(e) {
   var t = await getCredentials();
   t &&
