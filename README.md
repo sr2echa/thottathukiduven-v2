@@ -10,7 +10,7 @@
 > [!WARNING]
 > For Educational Use only. I am not responsible for any malpractice. I do not support or endorse cheating in exams. This is just a fun hobby project to experiment around and break things :)
 > 
-> To learn `How to Install/Update`, go to [HELP.md](./HELP.md)
+> To learn `How to Install/Update`, use, etc etc ; go to [/docs](https://thotta.now.sh/docs)
 
 
 > Join the **Official Discord Server** for updates, support and much more : [discord](https://discord.gg/H8bBhKGrfT)
