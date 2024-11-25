@@ -58,6 +58,9 @@
  - **`Alt` + `Z`** : Searches the selected text using OpenAI and copies the response to clipboard.
  - **`Alt` + `C`** : Enables the copy function for selected text.
  - **`Alt` + `V`** : Pastes the clipboard content into the current text field.
+ - **`Alt` + `Shift` + `X`** : Autofill MCQ response in NeoPortal
+ - **`Alt` + `Shift` + `Z`** : Autofill Code & Copy to clipboard response in NeoPortal
+ 
 
 ## 🎠 Useage
 
@@ -76,11 +79,7 @@ https://github.com/user-attachments/assets/be643797-8d0b-4020-adf3-b3e5be1b467d
 ## ⬇️ Download
 
 <samp> 
-
-[Click here to download the zip](https://github.com/sr2echa/thottathukiduven-v2/releases/download/2.0.4/thottathukiduven-v2.0.4.zip) and extract the zip.  <br><br>
-Or click the green <kbd> Code </kbd> > <kbd> Download Zip </kbd> and do the same
-
-    
+ 
 Find all [Releases](https://github.com/sr2echa/thottathukiduven-v2/releases/latest) <br>
 Refer [HELP.md](https://github.com/sr2echa/thottathukiduven-v2/blob/main/HELP.md) <br>
 
